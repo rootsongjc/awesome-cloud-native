@@ -6,7 +6,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 
 - Awesome Cloud Native
   - [Containers](#containers)
-  - [CI/CD](#CI/CD)
+  - [CI-CD](#CI-CD)
   - [Database](#Database)
   - [Logging](#Logging)
   - [Message broker](#Message-broker)
@@ -156,7 +156,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - [Moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems[https://mobyproject.org/](https://mobyproject.org/)
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 
-### CI/CD
+### CI-CD
 
 Continuous Integration and Delivery
 
