@@ -120,7 +120,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - Storage
     - [Convoy](https://github.com/rancher/convoy)
     - [Flocker](https://github.com/ClusterHQ/flocker)
-    - [Heketi](RESTful based volume management framework for GlusterFS)
+    - [Heketi](https://github.com/heketi/heketi)
     - [Longhorn](https://github.com/rancher/longhorn)
     - [Infinit](https://github.com/infinit/infinit)
 
@@ -133,7 +133,6 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Habitus](https://github.com/cloud66/habitus) 
     - [Helm](https://github.com/kubernetes/helm) 
     - [k8guard](https://github.com/k8guard) 
-
     - [kube-shell](https://github.com/cloudnativelabs/kube-shell)
     - [minikube](https://github.com/kubernetes/minikube)
     - [source-to-image](https://github.com/openshift/source-to-image) 
@@ -281,8 +280,6 @@ Continuous Integration and Delivery
 - [Habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
 - [Helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
-
-
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
