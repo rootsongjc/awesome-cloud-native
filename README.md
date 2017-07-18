@@ -9,6 +9,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
   - [Containers](#containers)
   - [CI-CD](#ci-cd)
   - [Database](#database)
+  - [Fault tolerant](#fault-tolerant)
   - [Logging](#logging)
   - [Message broker](#message-broker)
   - [Monitoring](#monitoring)
@@ -27,16 +28,16 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 
 
 - Containers
+    - [Containerd](https://github.com/containerd/containerd)
+    - [hyperd](https://github.com/hyperhq/hyperd) 
     - [Moby](https://github.com/moby/moby)
     - [rkt](https://github.com/rkt/rkt)
-
 - CI/CD
    - [CircleCI](https://github.com/circleci)
    - [Cyclone](https://github.com/caicloud/cyclone)
    - [Jenkins](http://jenkins.io)
    - [Travis](https://github.com/travis-ci/travis-ci)
    - [Wercker](https://github.com/wercker/wercker)
-
 - Database
     - [ArangoDB](https://github.com/arangodb/arangodb)
     - [CockroachDB](https://github.com/cockroachdb/cockroach/)
@@ -47,7 +48,6 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [OpenTSDB](https://github.com/OpenTSDB/opentsdb)
     - [Redis](https://github.com/antirez/redis)
     - [TiDB](https://github.com/pingcap/tidb)
-
 - DevOps
     - [Crane](https://github.com/Dataman-Cloud/crane)
     - [Fabric8](https://github.com/fabric8io/fabric8)
@@ -55,59 +55,55 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Lastbackend](https://github.com/lastbackend/lastbackend)
     - [Spinnaker](https://github.com/spinnaker/spinnaker)
     - [Terraform](https://github.com/hashicorp/terraform)
-
+- Fault tolerant
+    - [Chaosmonkey](https://github.com/Netflix/chaosmonkey)
+    - [Hystrix](https://github.com/Netflix/Hystrix)
 - Logging
     - [Beats](https://github.com/elastic/beats)
     - [Elasticsearch](https://github.com/elastic/elasticsearch)
     - [Fluentd](https://github.com/fluent/fluentd)
     - [Heapster](https://github.com/kubernetes/heapster)
-
 - Orchestration and scheduler
     - [Blox](https://github.com/blox/blox)
-    - [Fleet](https://github.com/coreos/fleet)
+    - [Conductor](https://github.com/Netflix/conductor)
+    -  [Fleet](https://github.com/coreos/fleet)
     - [Kubernetes](https://github.com/kubernetes/kubernetes)
     - [Mesos](https://github.com/apache/mesos)
     - [Swarm](https://github.com/docker/swarm)
-
 - PaaS
     - [Cloud Foundry](https://www.cloudfoundry.org)
     - [Deis](https://github.com/deis/deis)
     - [Rancher](https://github.com/rancher/rancher)
     - [OpenDCP](https://github.com/weibocom/opendcp)
     - [Openshift](https://github.com/openshift/origin)
-
 - Proxy and load balancer
     - [Envoy](https://github.com/lyft/envoy)
     - [Haproxy](https://github.com/haproxy/haproxy)
     - [Nginx](https://github.com/nginx/nginx)
+    - [Ribbon](https://github.com/Netflix/ribbon)
     - [Traefik](https://github.com/containous/traefik)
-
 - Message broker
     - [Flume](https://github.com/apache/flume)
     - [Kafka](https://github.com/apache/kafka)
     - [RabbitMQ](https://github.com/rabbitmq)
-
 - Monitoring
     - [Cortex](https://github.com/weaveworks/cortex)
     - [Grafana](https://github.com/grafana/grafana)
     - [Prometheus](https://github.com/prometheus/prometheus)
     - [Scope](https://github.com/weaveworks/scope)
     - [Kibana](https://github.com/elastic/kibana)
-
 - Networking
     - [Flannel](https://github.com/coreos/flannel)
     - [Calico](https://github.com/projectcalico)
     - [CNI](https://github.com/containernetworking/cni)
     - [Contiv](https://github.com/contiv)
     - [Weave](https://github.com/weaveworks/weave)
-
 - Service Mesh
 
     - [Amalgam8](https://github.com/amalgam8/amalgam8)
     - [Istio](https://github.com/istio)
     - [Linkerd](https://github.com/linkerd/linkerd)
     - [ServiceComb](https://github.com/ServiceComb)
-
 - Service Registry & Discovery
 
     - [Confd](https://github.com/kelseyhightower/confd)
@@ -119,14 +115,12 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Synapse](https://github.com/airbnb/synapse)
     - [Vulcand](https://github.com/vulcand/vulcand)
     - [Zookeeper](https://github.com/apache/zookeeper)
-
 - Storage
     - [Convoy](https://github.com/rancher/convoy)
     - [Flocker](https://github.com/ClusterHQ/flocker)
     - [Heketi](https://github.com/heketi/heketi)
     - [Longhorn](https://github.com/rancher/longhorn)
     - [Infinit](https://github.com/infinit/infinit)
-
 - Tools
     - [Aglio](https://github.com/danielgtaylor/aglio) 
     - [dockersh](https://github.com/Yelp/dockersh)
@@ -142,13 +136,11 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [stern](https://github.com/wercker/stern)
     - [Swagger](https://github.com/swagger-api/swagger-ui)
     - [Vagrant](https://github.com/mitchellh/vagrant)
-
 - Tracing
     - [appdash](https://github.com/sourcegraph/appdash)
     - [OpenTracing](https://github.com/opentracing)
     - [Sentry](https://github.com/getsentry/sentry)
     - [Zipkin](https://github.com/openzipkin/zipkin)
-
 - Tutorial
 
     - [Cloud Native Go](http://rootsongjc.github.io/cloud-native-go) 
@@ -162,6 +154,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 ### Containers
 
 - [Containerd](https://github.com/containerd/containerd) - An open and reliable container runtime [https://containerd.io](https://containerd.io/)
+- [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon [http://www.hypercontainer.io](http://www.hypercontainer.io/)
 - [Moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems[https://mobyproject.org/](https://mobyproject.org/)
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 
@@ -197,6 +190,11 @@ Continuous Integration and Delivery
 - [Spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. [http://www.spinnaker.io/](http://www.spinnaker.io/)
 - [Terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently. [https://www.terraform.io/](https://www.terraform.io/)
 
+### Fault tolerant
+
+- [Chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+
 ### Logging
 
 - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine [https://www.elastic.co/products/elast…](https://www.elastic.co/products/elasticsearch)
@@ -207,6 +205,7 @@ Continuous Integration and Delivery
 ### Orchestration and scheduler
 
 - [Blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
+- [Conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine - [https://netflix.github.io/conductor/](https://netflix.github.io/conductor/)
 - [Fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management [http://kubernetes.io](http://kubernetes.io/)
 - [Mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
@@ -226,6 +225,7 @@ Continuous Integration and Delivery
 - [Envoy](https://github.com/lyft/envoy) - C++ front/service proxy [https://lyft.github.io/envoy](https://lyft.github.io/envoy)
 - [Haproxy](https://github.com/haproxy/haproxy) - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications. 
 - [Nginx](https://github.com/nginx/nginx) - nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by [Igor Sysoev](http://sysoev.ru/en/). 
+- [Ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [Traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy [https://traefik.io](https://traefik.io/)
 
 ### Message broker
