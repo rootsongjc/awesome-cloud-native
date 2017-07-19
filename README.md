@@ -65,6 +65,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Heapster](https://github.com/kubernetes/heapster)
 - Orchestration and scheduler
     - [Blox](https://github.com/blox/blox)
+    - [Compose](https://github.com/docker/compose)
     - [Conductor](https://github.com/Netflix/conductor)
     - [Fleet](https://github.com/coreos/fleet)
     - [Kubernetes](https://github.com/kubernetes/kubernetes)
@@ -73,6 +74,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Swarm](https://github.com/docker/swarm)
 - PaaS
     - [Cloud Foundry](https://www.cloudfoundry.org)
+    - [DC/OS](https://github.com/dcos)
     - [Deis](https://github.com/deis/deis)
     - [Rancher](https://github.com/rancher/rancher)
     - [OpenDCP](https://github.com/weibocom/opendcp)
@@ -88,6 +90,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Kafka](https://github.com/apache/kafka)
     - [RabbitMQ](https://github.com/rabbitmq)
 - Monitoring
+    - [cAdvisor](https://github.com/google/cadvisor)
     - [Cortex](https://github.com/weaveworks/cortex)
     - [Grafana](https://github.com/grafana/grafana)
     - [Prometheus](https://github.com/prometheus/prometheus)
@@ -121,9 +124,13 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Flocker](https://github.com/ClusterHQ/flocker)
     - [Heketi](https://github.com/heketi/heketi)
     - [Longhorn](https://github.com/rancher/longhorn)
+    - [Minio](https://github.com/minio/minio)
     - [Infinit](https://github.com/infinit/infinit)
 - Tools
     - [Aglio](https://github.com/danielgtaylor/aglio) 
+    - [docker-elk](https://github.com/deviantony/docker-elk)
+
+
     - [dockersh](https://github.com/Yelp/dockersh)
     - [Draft](https://github.com/Azure/draft) 
     - [drakov](https://github.com/Aconex/drakov) 
@@ -206,7 +213,9 @@ Continuous Integration and Delivery
 ### Orchestration and scheduler
 
 - [Blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
+- [Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [Conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine - [https://netflix.github.io/conductor/](https://netflix.github.io/conductor/)
+- [DomeOS](https://github.com/domeos) - An enterprise application orchestration system based on docker by Sohu.com - http://domeos.org
 - [Fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management [http://kubernetes.io](http://kubernetes.io/)
 - [Mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
@@ -217,6 +226,7 @@ Continuous Integration and Delivery
 ### PaaS
 
 - [Cloud Foundry](https://www.cloudfoundry.org) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
+- [DC/OS](https://github.com/dcos) - Datacenter Operating System
 - [Deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
 - [Rancher](https://github.com/rancher/rancher) - Platform for operating Docker in production [http://rancher.com](http://rancher.com/)
 - [OpenDCP](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.com
@@ -238,6 +248,7 @@ Continuous Integration and Delivery
 
 ### Monitoring
 
+- [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. 
 - [Cortex](https://github.com/weaveworks/cortex) - A multitenant, horizontally scalable Prometheus as a Service
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More[https://grafana.com](https://grafana.com/)
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. [https://prometheus.io/](https://prometheus.io/)
@@ -279,11 +290,13 @@ Continuous Integration and Delivery
 - [Heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
 - [Infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform. [http://infinit.sh](http://infinit.sh/)
 - [Longhorn](https://github.com/rancher/longhorn) - We put storage on cows and move them around from rancher.
+- [Minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs [https://minio.io](https://minio.io/)
 - [Torus](https://github.com/coreos/torus) - Torus Distributed Storage [https://coreos.com/blog/torus-distributed-storage-by-cores.html](https://coreos.com/blog/torus-distributed-storage-by-coreos.html)
 
 ### Tools
 
 - [Aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
+- [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
