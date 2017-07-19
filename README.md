@@ -66,9 +66,10 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - Orchestration and scheduler
     - [Blox](https://github.com/blox/blox)
     - [Conductor](https://github.com/Netflix/conductor)
-    -  [Fleet](https://github.com/coreos/fleet)
+    - [Fleet](https://github.com/coreos/fleet)
     - [Kubernetes](https://github.com/kubernetes/kubernetes)
     - [Mesos](https://github.com/apache/mesos)
+    - [Swan](https://github.com/Dataman-Cloud/swan)
     - [Swarm](https://github.com/docker/swarm)
 - PaaS
     - [Cloud Foundry](https://www.cloudfoundry.org)
@@ -210,6 +211,7 @@ Continuous Integration and Delivery
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management [http://kubernetes.io](http://kubernetes.io/)
 - [Mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.[https://mesosphere.github.io/marathon/](https://mesosphere.github.io/marathon/)
+- [Swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg [https://www.shurenyun.com/product-swa…](https://www.shurenyun.com/product-swan.html)
 - [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system
 
 ### PaaS
