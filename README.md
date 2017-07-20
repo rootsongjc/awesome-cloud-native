@@ -89,6 +89,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - Message broker
     - [Flume](https://github.com/apache/flume)
     - [Kafka](https://github.com/apache/kafka)
+    - [nsq](https://github.com/nsqio/nsq)
     - [RabbitMQ](https://github.com/rabbitmq)
 - Monitoring
     - [cAdvisor](https://github.com/google/cadvisor)
@@ -245,6 +246,7 @@ Continuous Integration and Delivery
 
 - [Flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. 
 - [Kafka](https://github.com/apache/kafka) - A distributed streaming platform.
+- [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
 - [RabbitMQ](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker
 
 ### Monitoring
