@@ -243,7 +243,7 @@ Continuous Integration and Delivery
 
 - [Flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. 
 - [Kafka](https://github.com/apache/kafka) - A distributed streaming platform.
-- [RabbitMQ](https://github.com/rabbitmq)
+- [RabbitMQ](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker
 
 ### Monitoring
 
