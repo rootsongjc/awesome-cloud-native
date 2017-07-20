@@ -40,6 +40,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
    - [Wercker](https://github.com/wercker/wercker)
 - Database
     - [ArangoDB](https://github.com/arangodb/arangodb)
+    - [beringei](https://github.com/facebookincubator/beringei)
     - [CockroachDB](https://github.com/cockroachdb/cockroach/)
     - [CouchDB](https://github.com/apache/couchdb) 
     - [etcd](https://github.com/coreos/etcd)
@@ -178,6 +179,7 @@ Continuous Integration and Delivery
 ### Database
 
 - [ArangoDB](https://github.com/arangodb/arangodb) - ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+- [beringei](https://github.com/facebookincubator/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [CockroachDB](https://github.com/cockroachdb/cockroach/) - CockroachDB - the open source, cloud-native SQL database. [https://www.cockroachlabs.com](https://www.cockroachlabs.com/)
 - [CouchDB](https://github.com/apache/couchdb) - Apache CouchDB is one of a new breed of database management systems. 
 - [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system[https://coreos.com/etcd/docs/latest/](https://coreos.com/etcd/docs/latest/)
