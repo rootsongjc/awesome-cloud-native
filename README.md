@@ -135,6 +135,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [dockersh](https://github.com/Yelp/dockersh)
     - [Draft](https://github.com/Azure/draft) 
     - [drakov](https://github.com/Aconex/drakov) 
+    - [flux](https://github.com/weaveworks/flux)
     - [gockerize](https://github.com/aerofs/gockerize)
     - [Habitus](https://github.com/cloud66/habitus) 
     - [Helm](https://github.com/kubernetes/helm) 
@@ -305,6 +306,7 @@ Continuous Integration and Delivery
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
+- [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [Habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
 - [Helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
