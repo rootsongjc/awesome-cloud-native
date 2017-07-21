@@ -96,6 +96,8 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [cAdvisor](https://github.com/google/cadvisor)
     - [Cortex](https://github.com/weaveworks/cortex)
     - [Grafana](https://github.com/grafana/grafana)
+    - [open-falcon](https://github.com/XiaoMi/open-falcon)
+    - [owl](https://github.com/TalkingData/owl) 
     - [Prometheus](https://github.com/prometheus/prometheus)
     - [Scope](https://github.com/weaveworks/scope)
     - [Kibana](https://github.com/elastic/kibana)
@@ -258,6 +260,8 @@ Continuous Integration and Delivery
 - [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. 
 - [Cortex](https://github.com/weaveworks/cortex) - A multitenant, horizontally scalable Prometheus as a Service
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More[https://grafana.com](https://grafana.com/)
+- [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi [http://open-falcon.com/](http://open-falcon.com/)
+- [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. [https://prometheus.io/](https://prometheus.io/)
 - [Scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes [https://www.weave.works/product/weave-scope](https://www.weave.works/product/weave-scope/)
 - [Kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch [https://www.elastic.co/products/kibana](https://www.elastic.co/products/kibana)
