@@ -130,9 +130,11 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Convoy](https://github.com/rancher/convoy)
     - [Flocker](https://github.com/ClusterHQ/flocker)
     - [Heketi](https://github.com/heketi/heketi)
+    - [Infinit](https://github.com/infinit/infinit)
     - [Longhorn](https://github.com/rancher/longhorn)
     - [Minio](https://github.com/minio/minio)
-    - [Infinit](https://github.com/infinit/infinit)
+    - [Rook](https://github.com/rook/rook)
+    - [Torus](https://github.com/coreos/torus) 
 - Tools
     - [Aglio](https://github.com/danielgtaylor/aglio)
     - [client-go](https://github.com/kubernetes/client-go)
@@ -308,6 +310,7 @@ Continuous Integration and Delivery
 - [Infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform. [http://infinit.sh](http://infinit.sh/)
 - [Longhorn](https://github.com/rancher/longhorn) - We put storage on cows and move them around from rancher.
 - [Minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs [https://minio.io](https://minio.io/)
+- [Rook](https://github.com/rook/rook) - File, Block, and Object Storage Services for your Cloud-Native Environment [https://rook.io](https://rook.io/)
 - [Torus](https://github.com/coreos/torus) - Torus Distributed Storage [https://coreos.com/blog/torus-distributed-storage-by-cores.html](https://coreos.com/blog/torus-distributed-storage-by-coreos.html)
 
 ### Tools
