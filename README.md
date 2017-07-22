@@ -107,6 +107,8 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [CNI](https://github.com/containernetworking/cni)
     - [Contiv](https://github.com/contiv)
     - [Weave](https://github.com/weaveworks/weave)
+- Security
+    - [Clair](https://github.com/coreos/clair)
 - Service Mesh
 
     - [Amalgam8](https://github.com/amalgam8/amalgam8)
@@ -259,7 +261,7 @@ Continuous Integration and Delivery
 
 - [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. 
 - [Cortex](https://github.com/weaveworks/cortex) - A multitenant, horizontally scalable Prometheus as a Service
-- [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More[https://grafana.com](https://grafana.com/)
+- [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More [https://grafana.com](https://grafana.com/)
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi [http://open-falcon.com/](http://open-falcon.com/)
 - [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. [https://prometheus.io/](https://prometheus.io/)
@@ -273,6 +275,10 @@ Continuous Integration and Delivery
 - [CNI](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 - [Contiv](https://github.com/contiv) - Container networking for various use cases
 - [Weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
+
+### Security
+
+- [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 
 ### Service mesh
 
