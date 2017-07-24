@@ -127,6 +127,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Vulcand](https://github.com/vulcand/vulcand)
     - [Zookeeper](https://github.com/apache/zookeeper)
 - Storage
+    - [Storage](https://github.com/ceph/ceph)
     - [Convoy](https://github.com/rancher/convoy)
     - [Flocker](https://github.com/ClusterHQ/flocker)
     - [Heketi](https://github.com/heketi/heketi)
@@ -303,6 +304,7 @@ Continuous Integration and Delivery
 
 ### Storage
 
+- [Ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform [http://ceph.com](http://ceph.com/)
 - [Convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [Flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application [https://clusterhq.com](https://clusterhq.com/)
 - [GlusterFS](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
