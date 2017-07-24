@@ -121,6 +121,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Consul](https://github.com/hashicorp/consul)
     - [CoreDNS](https://github.com/coredns/coredns)
     - [Eureka](https://github.com/Netflix/eureka)
+    - [Registrator](https://github.com/gliderlabs/registrator)
     - [SkyDNS](https://github.com/skynetservices/skydns1)
     - [Steward](https://github.com/deis/steward) 
     - [Synapse](https://github.com/airbnb/synapse)
@@ -296,6 +297,7 @@ Continuous Integration and Delivery
 - [Consul](https://github.com/hashicorp/consul) - Service Discovery and Configuration Made Easy [https://www.consul.io/](https://www.consul.io/)
 - [CoreDNS](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains middleware [https://coredns.io](https://coredns.io/)
 - [Eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+- [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters [http://gliderlabs.com/registrator](http://gliderlabs.com/registrator)
 - [SkyDNS](https://github.com/skynetservices/skydns1) - DNS for skynet or any other service discovery
 - [Steward](https://github.com/deis/steward) - The Kubernetes-native Service Broker. [https://deis.com/](https://deis.com/)
 - [Synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
