@@ -64,6 +64,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
     - [Elasticsearch](https://github.com/elastic/elasticsearch)
     - [Fluentd](https://github.com/fluent/fluentd)
     - [Heapster](https://github.com/kubernetes/heapster)
+    - [Telegraf](https://github.com/influxdata/telegraf)
 - Orchestration and scheduler
     - [Blox](https://github.com/blox/blox)
     - [Compose](https://github.com/docker/compose)
@@ -222,6 +223,7 @@ Continuous Integration and Delivery
 - [Fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF) [http://www.fluentd.org/](http://www.fluentd.org/)
 - [Beats](https://github.com/elastic/beats) - Beats - Lightweight shippers for Elasticsearch & Logstash [https://www.elastic.co/products/beats](https://www.elastic.co/products/beats)
 - [Heapster](https://github.com/kubernetes/heapster) - Compute Resource Usage Analysis and Monitoring of Container Clusters
+- [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 ### Orchestration and scheduler
 
