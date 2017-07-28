@@ -27,6 +27,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 ### API
 
 
+- [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
 - [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
 
 ### Containers
