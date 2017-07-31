@@ -35,6 +35,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - [Containerd](https://github.com/containerd/containerd) - An open and reliable container runtime [https://containerd.io](https://containerd.io/)
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon [http://www.hypercontainer.io](http://www.hypercontainer.io/)
 - [Moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems[https://mobyproject.org/](https://mobyproject.org/)
+- [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 
 ### CI-CD
@@ -181,6 +182,7 @@ Continuous Integration and Delivery
 
 - [Aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+- [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
@@ -195,6 +197,7 @@ Continuous Integration and Delivery
 - [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI [https://kubedb.com](https://kubedb.com/) to manage kubernetes ready production-grade Databases
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [Smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes
 - [Swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
