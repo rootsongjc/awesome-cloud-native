@@ -202,6 +202,7 @@ Continuous Integration and Delivery
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [Smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
+- [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes
 - [Swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
 - [Vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
