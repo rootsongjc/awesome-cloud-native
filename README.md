@@ -15,7 +15,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
   - [Monitoring](#monitoring)
   - [Networking](#networking)
   - [Orchestration and scheduler](#orchestration-and-scheduler)
-  - [PaaS](#paas)
+  - [Portability](#portablity)
   - [Proxy and load balancer](#proxy-and-load-balancer)
   - [Service mesh](#serivce-mesh)
   - [Service registry and discovery](#service-registry-and-discovery)
@@ -99,14 +99,15 @@ Continuous Integration and Delivery
 - [Swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg [https://www.shurenyun.com/product-swa…](https://www.shurenyun.com/product-swan.html)
 - [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system
 
-### PaaS
+### Portability
 
 - [Cloud Foundry](https://www.cloudfoundry.org) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
 - [DC/OS](https://github.com/dcos) - Datacenter Operating System
 - [Deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
-- [Rancher](https://github.com/rancher/rancher) - Platform for operating Docker in production [http://rancher.com](http://rancher.com/)
 - [OpenDCP](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.com
 - [Openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers [http://www.openshift.org](http://www.openshift.org/)
+- [Rancher](https://github.com/rancher/rancher) - Platform for operating Docker in production [http://rancher.com](http://rancher.com/)
+- [Supergiant](https://github.com/supergiant/supergiant) - Automatically scale hardware and easily run stateful applications using Kubernetes. <https://supergiant.io/>
 
 ### Proxy and load balancer
 
