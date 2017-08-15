@@ -5,10 +5,12 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 ### Contents
 
 - Awesome Cloud Native
+  - [AI](#ai)
   - [API](#api)
   - [Containers](#containers)
   - [CI-CD](#ci-cd)
   - [Database](#database)
+  - [Data Science](#data-science)
   - [Fault tolerant](#fault-tolerant)
   - [Logging](#logging)
   - [Message broker](#message-broker)
@@ -23,6 +25,14 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
   - [Tracing](#tracing)
   - [Tools](#tools)
   - [Tutorial](#tutorial)
+
+## AI
+
+- [Caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. [https://caffe2.ai](https://caffe2.ai/)
+- [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...) [http://h2o.ai](http://h2o.ai/)
+- [leaf](https://github.com/autumnai/lea) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://autumnai.com/leaf/book>
+- [Predictionio](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.[https://predictionio.incubator.apache…](https://predictionio.incubator.apache.org/)
+- [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning [http://tensorflow.org](http://tensorflow.org/)
 
 ### API
 
@@ -61,7 +71,12 @@ Continuous Integration and Delivery
 - [MongoDB](https://github.com/mongodb/mongo) - MongoDB is an open source database that uses a document-oriented data model.
 - [OpenTSDB](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database. [http://opentsdb.net](http://opentsdb.net/)
 - [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps. [http://redis.io](http://redis.io/)
+- [RethinkDB](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web. [https://rethinkdb.com](https://rethinkdb.com/)
 - [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol [https://pingcap.com](https://pingcap.com/)
+
+## Data Science
+
+- [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale! [http://pachyderm.io](http://pachyderm.io/)
 
 ### DevOps
 
