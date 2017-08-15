@@ -19,6 +19,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
   - [Orchestration and scheduler](#orchestration-and-scheduler)
   - [Portability](#portablity)
   - [Proxy and load balancer](#proxy-and-load-balancer)
+  - [Security](#security-&-audit)
   - [Service mesh](#serivce-mesh)
   - [Service registry and discovery](#service-registry-and-discovery)
   - [Storage](#storage)
@@ -158,9 +159,13 @@ Continuous Integration and Delivery
 - [Contiv](https://github.com/contiv) - Container networking for various use cases
 - [Weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
 
-### Security
+### Security & Audit
 
 - [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
+- [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [dockscan](https://github.com/kost/dockscan) - dockscan is security vulnerability and audit scanner for Docker installations
+- [drydock](https://github.com/zuBux/drydock) - drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates
+- [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
 
 ### Service mesh
 
@@ -210,7 +215,6 @@ Continuous Integration and Delivery
 - [Habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
 - [Helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
-- [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
 - [kismatic](https://github.com/apprenda/kismatic) - Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
 - [kubecfg](https://github.com/ksonnet/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.￼
