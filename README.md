@@ -240,6 +240,7 @@ Continuous Integration and Delivery
 
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - kubernetes中文指南/实践手册
 - [kubernetes-java-simple](https://github.com/arun-gupta/kubernetes-java-sample) - Kubernetes Hands-on Workshop for Java Developers
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [Cloud Native Go](http://rootsongjc.github.io/cloud-native-go) - Building Web Applications and Microservices for the Cloud with Go and React 
   written by Kevin Hoffman and Dan Nemeth translated to Chinese by four guys from [TalkingData](http://www.talkingdata.com/) with ❤️
 - [Migrating to Cloud Native Application Architectures](https://github.com/rootsongjc/migrating-to-cloud-native-application-architectures) - 《迁移到云原生应用架构》中文版 [https://rootsongjc.gitbooks.io/moving-to-cloud-native-architecture](https://rootsongjc.gitbooks.io/moving-to-cloud-native-archtecture)
