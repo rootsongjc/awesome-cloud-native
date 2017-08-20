@@ -17,11 +17,12 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
   - [Monitoring](#monitoring)
   - [Networking](#networking)
   - [Orchestration and scheduler](#orchestration-and-scheduler)
-  - [Portability](#portablity)
+  - [Portability](#portability)
   - [Proxy and load balancer](#proxy-and-load-balancer)
   - [Security](#security-&-audit)
   - [Service mesh](#serivce-mesh)
   - [Service registry and discovery](#service-registry-and-discovery)
+  - [Serverless](#serverless)
   - [Storage](#storage)
   - [Tracing](#tracing)
   - [Tools](#tools)
@@ -192,6 +193,10 @@ Continuous Integration and Delivery
 - [Synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd [http://vulcand.readthedocs.io/](http://vulcand.readthedocs.io/)
 - [Zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+## Serverless
+
+- [faas](https://github.com/alexellis/faas) - 🐳 Functions as a Service - a serverless framework for Docker & Kubernetes [https://blog.alexellis.io/introducing…](https://blog.alexellis.io/introducing-functions-as-a-service/)
 
 ### Storage
 
