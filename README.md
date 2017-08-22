@@ -173,6 +173,7 @@ Continuous Integration and Delivery
 - [drydock](https://github.com/zuBux/drydock) - drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
 - [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon by <https://appscode.com>
+- [vault](https://github.com/hashicorp/vault) - A tool for managing secrets. <https://www.vaultproject.io/>
 
 ### Service mesh
 
