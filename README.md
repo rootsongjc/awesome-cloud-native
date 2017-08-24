@@ -2,6 +2,10 @@
 
 A curated list of awesome cloud native architectures, tools and  softwares. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+### Contributing
+
+Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors); you rock!
+
 ### Contents
 
 - Awesome Cloud Native
@@ -43,7 +47,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
 - [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
 
-## Big Data
+### Big Data
 
 - [spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end
 
@@ -57,8 +61,6 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 
 ### CI-CD
-
-Continuous Integration and Delivery
 
 - [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment
 - [Cyclone](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow
@@ -81,7 +83,7 @@ Continuous Integration and Delivery
 - [RethinkDB](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web. [https://rethinkdb.com](https://rethinkdb.com/)
 - [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol [https://pingcap.com](https://pingcap.com/)
 
-## Data Science
+### Data Science
 
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale! [http://pachyderm.io](http://pachyderm.io/)
 
