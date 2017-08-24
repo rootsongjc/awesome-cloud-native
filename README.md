@@ -7,6 +7,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 - Awesome Cloud Native
   - [AI](#ai)
   - [API](#api)
+  - [Big Data](#big-data)
   - [Containers](#containers)
   - [CI-CD](#ci-cd)
   - [Database](#database)
@@ -19,8 +20,8 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
   - [Orchestration and scheduler](#orchestration-and-scheduler)
   - [Portability](#portability)
   - [Proxy and load balancer](#proxy-and-load-balancer)
-  - [Security](#security-&-audit)
-  - [Service mesh](#serivce-mesh)
+  - [Security and audit](#security-and-audit)
+  - [Service mesh](#service-mesh)
   - [Service registry and discovery](#service-registry-and-discovery)
   - [Serverless](#serverless)
   - [Storage](#storage)
@@ -165,7 +166,7 @@ Continuous Integration and Delivery
 - [Contiv](https://github.com/contiv) - Container networking for various use cases
 - [Weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
 
-### Security & Audit
+### Security and audit
 
 - [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
