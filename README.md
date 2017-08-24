@@ -64,6 +64,7 @@ Continuous Integration and Delivery
 - [Jenkins](http://jenkins.io) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 - [Travis](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects. [https://travis-ci.org](https://travis-ci.org/)
 - [Wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection. [http://wercker.com](http://wercker.com/)
+- [GitLab-CI](https://about.gitlab.com/features/gitlab-ci-cd) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code 
 
 ### Database
 
