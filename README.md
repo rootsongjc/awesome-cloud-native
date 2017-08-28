@@ -171,13 +171,18 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### Security and audit
 
+- [AppArmor](http://wiki.apparmor.net/) - AppArmor is an effective and easy-to-use Linux application security system.
+- [Cilium](https://github.com/cilium/cilium) - Linux Native, HTTP Aware Networking and Security for Containers
 - [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dockscan](https://github.com/kost/dockscan) - dockscan is security vulnerability and audit scanner for Docker installations
 - [drydock](https://github.com/zuBux/drydock) - drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates
+- [falco](https://github.com/draios/falco) - Behavioral Activity Monitoring With Container Support
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API [https://vault-ui.io](https://vault-ui.io/)
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
 - [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon by <https://appscode.com>
+- [notary](https://github.com/docker/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data [https://docker.com](https://docker.com/)
+- [OpenSCAP](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets. <https://www.vaultproject.io/>
 
 ### Service mesh
