@@ -25,6 +25,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Portability](#portability)
   - [Proxy and load balancer](#proxy-and-load-balancer)
   - [Security and audit](#security-and-audit)
+  - [Service broker](#service-broker)
   - [Service mesh](#service-mesh)
   - [Service registry and discovery](#service-registry-and-discovery)
   - [Serverless](#serverless)
@@ -185,6 +186,14 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [notary](https://github.com/docker/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data [https://docker.com](https://docker.com/)
 - [OpenSCAP](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets. <https://www.vaultproject.io/>
+
+### Service broker
+
+[open-service-broker-sdk](https://github.com/openshift/open-service-broker-sdk) - A starting point for creating service brokers implementing the Open Service Broker API
+
+[service-catalog](https://github.com/kubernetes-incubator/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
+
+[service-broker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification <https://openservicebrokerapi.org/>
 
 ### Service mesh
 
