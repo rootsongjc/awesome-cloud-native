@@ -283,6 +283,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Tracing
 
 - [appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper. [https://sourcegraph.com](https://sourcegraph.com/)
+- [jaeger](https://github.com/uber/jaeger) - Jaeger, a Distributed Tracing System <http://uber.github.io/jaeger/>
 - [OpenTracing](https://github.com/opentracing) - Consistent, expressive, vendor-neutral APIs for distributed tracing and context propagation
 - [Sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform. [https://sentry.io](https://sentry.io/)
 - [Zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system [http://zipkin.io](http://zipkin.io/)
