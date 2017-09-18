@@ -199,6 +199,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices
 - [Istio](https://github.com/istio) - An open platform to connect, manage, and secure microservices.
 - [Linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps [https://linkerd.io](https://linkerd.io/)
+- [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications. 
 - [ServiceComb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud. 
 
