@@ -45,8 +45,11 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### API
 
 
+- [brpc](https://github.com/brpc/brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
 - [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
+- [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
+- [thrift](https://github.com/apache/thrift) - Apache thrift
 
 ### Big Data
 
