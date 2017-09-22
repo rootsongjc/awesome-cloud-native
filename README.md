@@ -180,6 +180,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [AppArmor](http://wiki.apparmor.net/) - AppArmor is an effective and easy-to-use Linux application security system.
 - [Cilium](https://github.com/cilium/cilium) - Linux Native, HTTP Aware Networking and Security for Containers
 - [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
+- [dex](https://github.com/coreos/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors [https://coreos.com/blog/announcing-de…](https://coreos.com/blog/announcing-dex.html)
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dockscan](https://github.com/kost/dockscan) - dockscan is security vulnerability and audit scanner for Docker installations
 - [drydock](https://github.com/zuBux/drydock) - drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates
