@@ -10,9 +10,9 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - Awesome Cloud Native
   - [AI](#ai)
-  - [API](#api)
+  - [API gateway](#api-gateway)
   - [Big Data](#big-data)
-  - [Containers](#containers)
+  - [Container engine](#container-engine)
   - [CI-CD](#ci-cd)
   - [Database](#database)
   - [Data Science](#data-science)
@@ -24,6 +24,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Orchestration and scheduler](#orchestration-and-scheduler)
   - [Portability](#portability)
   - [Proxy and load balancer](#proxy-and-load-balancer)
+  - [RPC](#rpc)
   - [Security and audit](#security-and-audit)
   - [Service broker](#service-broker)
   - [Service mesh](#service-mesh)
@@ -34,7 +35,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Tools](#tools)
   - [Tutorial](#tutorial)
 
-## AI
+### AI
 
 - [Caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. [https://caffe2.ai](https://caffe2.ai/)
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...) [http://h2o.ai](http://h2o.ai/)
@@ -42,20 +43,15 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Predictionio](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.[https://predictionio.incubator.apache…](https://predictionio.incubator.apache.org/)
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning [http://tensorflow.org](http://tensorflow.org/)
 
-### API
+### API gateway
 
-
-- [brpc](https://github.com/brpc/brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
-- [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
-- [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
-- [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
-- [thrift](https://github.com/apache/thrift) - Apache thrift
+[kong](https://github.com/Mashape/kong) - 🐒 The Microservice API Gateway <https://getkong.org/install>
 
 ### Big Data
 
 - [spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end
 
-### Containers
+### Container engine
 
 - [Containerd](https://github.com/containerd/containerd) - An open and reliable container runtime [https://containerd.io](https://containerd.io/)
 - [cri-o](http://cri-o.io/) - Lightweight Container Runtime for Kubernetes
@@ -148,6 +144,14 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [Traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy [https://traefik.io](https://traefik.io/)
 - [voyager](https://github.com/appscode/voyager) - ✈️️ Secure Ingress Controller for Kubernetes by <https://appscode.com>
+
+### RPC
+
+- [brpc](https://github.com/brpc/brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
+- [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
+- [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
+- [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
+- [thrift](https://github.com/apache/thrift) - Apache thrift
 
 ### Message broker
 
