@@ -236,16 +236,17 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Storage
 
-- [Ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform [http://ceph.com](http://ceph.com/)
-- [Convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
-- [Flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application [https://clusterhq.com](https://clusterhq.com/)
-- [GlusterFS](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
-- [Heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
-- [Infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform. [http://infinit.sh](http://infinit.sh/)
-- [Longhorn](https://github.com/rancher/longhorn) - We put storage on cows and move them around from rancher.
-- [Minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs [https://minio.io](https://minio.io/)
-- [Rook](https://github.com/rook/rook) - File, Block, and Object Storage Services for your Cloud-Native Environment [https://rook.io](https://rook.io/)
-- [Torus](https://github.com/coreos/torus) - Torus Distributed Storage [https://coreos.com/blog/torus-distributed-storage-by-cores.html](https://coreos.com/blog/torus-distributed-storage-by-coreos.html)
+- Ceph - Ceph is a distributed object, block, and file storage platform http://ceph.com
+- Convoy - A Docker volume plugin, managing persistent container volumes.
+- Flocker - Container data volume manager for your Dockerized application https://clusterhq.com
+- GlusterFS - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
+- Heketi - RESTful based volume management framework for GlusterFS
+- Infinit - The Infinit policy-based software-defined storage platform. http://infinit.sh
+- LeoFS - The LeoFS Storage System https://leo-project.net/leofs/
+- Longhorn - We put storage on cows and move them around from rancher.
+- Minio - Minio is an open source object storage server compatible with Amazon S3 APIs https://minio.io
+- Rook - File, Block, and Object Storage Services for your Cloud-Native Environment https://rook.io
+- Torus - Torus Distributed Storage https://coreos.com/blog/torus-distributed-storage-by-cores.html
 
 ### Tools
 - [Aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
