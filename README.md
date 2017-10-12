@@ -63,17 +63,11 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### CI-CD
 
 - [buddy.works](https://buddy.works/) - Build, Test & Deploy Code in Seconds Continuous Delivery, simplified.
-
 - [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment
-
 - [Cyclone](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow
-
 - [GitLab-CI](https://about.gitlab.com/features/gitlab-ci-cd) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code 
-
 - [Jenkins](http://jenkins.io) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
-
 - [Travis](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects. [https://travis-ci.org](https://travis-ci.org/)
-
 - [Wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection. [http://wercker.com](http://wercker.com/)
 
 ### Database
