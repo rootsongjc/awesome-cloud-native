@@ -194,6 +194,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [drydock](https://github.com/zuBux/drydock) - drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates
 - [falco](https://github.com/draios/falco) - Behavioral Activity Monitoring With Container Support
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API [https://vault-ui.io](https://vault-ui.io/)
+- [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
 - [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon by <https://appscode.com>
