@@ -176,10 +176,11 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Networking
 
-- [Flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
-- [Calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers
 - [CNI](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
+- [Calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers
 - [Contiv](https://github.com/contiv) - Container networking for various use cases
+- [Flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
+- [MatchBox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
 - [Weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
 
 ### Security and audit
