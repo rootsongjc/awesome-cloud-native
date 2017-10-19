@@ -2,12 +2,10 @@ package main
 
 import (
 	"io/ioutil"
-	"net/http"
 	"os"
 	"os/exec"
 	"text/template"
 
-	"github.com/gorilla/mux"
 	gfm "github.com/shurcooL/github_flavored_markdown"
 )
 
@@ -47,13 +45,6 @@ func generateHTML() {
 	t.Execute(f, c)
 }
 
-func hookHandler(w http.ResponseWriter, r *http.Request) {
-	go generateHTML()
-	w.Write(doneResp)
-}
-
 func main() {
-	r := mux.NewRouter()
-	r.HandleFunc("/hook", hookHandler)
-	http.ListenAndServe(":9000", r)
+	generateHTML()
 }
