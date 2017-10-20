@@ -62,6 +62,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### CI-CD
 
+- [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 - [buddy.works](https://buddy.works/) - Build, Test & Deploy Code in Seconds Continuous Delivery, simplified.
 - [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment
 - [Cyclone](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow
