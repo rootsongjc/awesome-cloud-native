@@ -193,6 +193,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Security and audit
 
 - [AppArmor](http://wiki.apparmor.net/) - AppArmor is an effective and easy-to-use Linux application security system.
+- [authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
 - [Cilium](https://github.com/cilium/cilium) - Linux Native, HTTP Aware Networking and Security for Containers
 - [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [OpenSCAP](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
