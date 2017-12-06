@@ -216,6 +216,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Service mesh
 
 - [Amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices
+- [Conduit](https://conduit.io) - The Ultralight Service Mesh for Kubernetes [https://conduit.io](https://conduit.io/)
 - [Istio](https://github.com/istio) - An open platform to connect, manage, and secure microservices.
 - [Linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps [https://linkerd.io](https://linkerd.io/)
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx
