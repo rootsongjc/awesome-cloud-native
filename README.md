@@ -208,6 +208,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
+- [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes
 - [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon by <https://appscode.com>
 - [metallb](https://github.com/google/metallb) - A network load-balancer implementation for Kubernetes using BGP
 - [notary](https://github.com/docker/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data [https://docker.com](https://docker.com/)
@@ -295,6 +296,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
 - [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI
+- [kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
+- [kubeadm-offline-installer](https://github.com/fleeto/kubeadm-offline-installer) - Setup a cluster with kubeadm, without internet connections.
 - [kubeapps](https://kubeapps.com/) - Discover & launch great Kubernetes-ready apps
 - [kubecfg](https://github.com/ksonnet/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.￼
 - [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI [https://kubedb.com](https://kubedb.com/) to manage kubernetes ready production-grade Databases
