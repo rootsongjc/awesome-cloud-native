@@ -327,6 +327,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Tutorial
 
+- [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [Cloud Native Go](http://rootsongjc.github.io/cloud-native-go) - Building Web Applications and Microservices for the Cloud with Go and React 
   written by Kevin Hoffman and Dan Nemeth translated to Chinese by four guys from [TalkingData](http://www.talkingdata.com/) with ❤️
 - [Istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes
