@@ -288,6 +288,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container
+- [cri-tools](https://github.com/kubernetes-incubator/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
