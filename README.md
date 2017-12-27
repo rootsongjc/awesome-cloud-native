@@ -143,6 +143,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically. [https://conjure-up.io](https://conjure-up.io/)
 - [DC/OS](https://github.com/dcos) - Datacenter Operating System
 - [Deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
+- [Kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [OpenDCP](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.com
 - [Openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers [http://www.openshift.org](http://www.openshift.org/)
 - [Rancher](https://github.com/rancher/rancher) - Platform for operating Docker in production [http://rancher.com](http://rancher.com/)
