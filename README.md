@@ -324,6 +324,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes
 - [tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 - [telepresence](https://github.com/datawire/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [http://www.telepresence.io](http://www.telepresence.io/)
+- [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 
 ### Tracing
 
