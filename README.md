@@ -272,6 +272,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [LeoFS](https://leo-project.net/leofs/) - The LeoFS Storage System https://leo-project.net/leofs/
 - [Longhorn](https://github.com/rancher/longhorn) - We put storage on cows and move them around from rancher.
 - [Minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs https://minio.io
+- [OpenEBS](https://github.com/openebs/openebs) - OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance. [https://www.openebs.io](https://www.openebs.io/)
 - [Rook](https://github.com/rook/rook) - File, Block, and Object Storage Services for your Cloud-Native Environment https://rook.io
 - [StorageOS](https://storageos.com/) - Enterprise persistent storage for containers and the cloud
 - [Torus](https://github.com/coreos/torus) - Torus Distributed Storage https://coreos.com/blog/torus-distributed-storage-by-cores.html
