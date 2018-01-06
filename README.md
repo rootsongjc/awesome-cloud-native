@@ -95,6 +95,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Data Science
 
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale! [http://pachyderm.io](http://pachyderm.io/)
+- [Wallaroo](https://github.com/WallarooLabs/wallaroo) - Ultrafast and elastic data processing [https://www.wallaroolabs.com](https://www.wallaroolabs.com/)
 
 ### DevOps
 
