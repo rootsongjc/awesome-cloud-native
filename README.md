@@ -174,10 +174,11 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Message broker
 
-- [Flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. 
-- [Kafka](https://github.com/apache/kafka) - A distributed streaming platform.
-- [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
 - [RabbitMQ](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker
+- [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
+- [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system. [https://nats.io](https://nats.io/)
+- [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
+- [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
 
 ### Monitoring
 
