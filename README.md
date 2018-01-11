@@ -294,6 +294,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+- [container-structure-test](https://github.com/GoogleCloudPlatform/container-structure-test) - validate the structure of your container images
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container
 - [cri-tools](https://github.com/kubernetes-incubator/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
