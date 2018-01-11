@@ -66,17 +66,18 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### CI-CD
 
-- [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
-- [buddy.works](https://buddy.works/) - Build, Test & Deploy Code in Seconds Continuous Delivery, simplified.
 - [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment
-- [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
 - [Cyclone](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow
 - [Drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io/)
-- [GitLab-CI](https://about.gitlab.com/features/gitlab-ci-cd) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code 
+- [GitLab-CI](https://about.gitlab.com/features/gitlab-ci-cd) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code
 - [Hygieia](https://github.com/capitalone/Hygieia) - CapitalOne DevOps Dashboard <http://www.capitalone.io/Hygieia>
 - [Jenkins](http://jenkins.io) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 - [Travis](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects. [https://travis-ci.org](https://travis-ci.org/)
 - [Wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection. [http://wercker.com](http://wercker.com/)
+- [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
+- [buddy.works](https://buddy.works/) - Build, Test & Deploy Code in Seconds Continuous Delivery, simplified.
+- [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
+- [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps
 
 ### Database
 
@@ -336,6 +337,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes
 - [tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 - [telepresence](https://github.com/datawire/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [http://www.telepresence.io](http://www.telepresence.io/)
+- [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 
 ### Tracing
