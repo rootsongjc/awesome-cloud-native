@@ -272,6 +272,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [Ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform http://ceph.com
 - [Convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
+- [FastDFS](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
 - [Flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application https://clusterhq.com
 - [GlusterFS](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [Heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS
