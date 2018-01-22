@@ -52,6 +52,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Big Data
 
 - [spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end
+- [wallaroo](https://github.com/WallarooLabs/wallaroo) - Ultrafast and elastic data processing [https://www.wallaroolabs.com](https://www.wallaroolabs.com/)
 
 ### Container engine
 
