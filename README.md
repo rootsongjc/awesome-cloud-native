@@ -17,6 +17,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Database](#database)
   - [Data Science](#data-science)
   - [Fault tolerant](#fault-tolerant)
+  - [IoT](#iot)
   - [Logging](#logging)
   - [Message broker](#message-broker)
   - [Monitoring](#monitoring)
@@ -118,6 +119,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [Chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+
+### IoT
+
+- [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device [http://eliot.run](http://eliot.run/)
 
 ### Logging
 
