@@ -213,6 +213,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [MatchBox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
 - [Weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
+- [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking. [https://kube-router.io](https://kube-router.io/)
 
 ### Security and audit
 
