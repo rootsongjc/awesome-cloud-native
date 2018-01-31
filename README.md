@@ -49,6 +49,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [ambassador](https://github.com/datawire/ambassador) - Ambassador: a self-service API gateway for microservices built on Lyft Envoy [http://www.getambassador.io](http://www.getambassador.io/)
 - [kong](https://github.com/Mashape/kong) - 🐒 The Microservice API Gateway <https://getkong.org/install>
+- [KrakenD](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares. <http://krakend.io/>
 
 ### Big Data
 
