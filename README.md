@@ -319,6 +319,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [cri-tools](https://github.com/kubernetes-incubator/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
+- [dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes [https://dotmesh.com](https://dotmesh.com/)
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
