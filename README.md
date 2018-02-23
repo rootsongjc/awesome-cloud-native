@@ -312,6 +312,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
 - [Vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
+- [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [container-structure-test](https://github.com/GoogleCloudPlatform/container-structure-test) - validate the structure of your container images
