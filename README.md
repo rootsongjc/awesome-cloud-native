@@ -300,6 +300,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Rook](https://github.com/rook/rook) - File, Block, and Object Storage Services for your Cloud-Native Environment https://rook.io
 - [StorageOS](https://storageos.com/) - Enterprise persistent storage for containers and the cloud
 - [Torus](https://github.com/coreos/torus) - Torus Distributed Storage https://coreos.com/blog/torus-distributed-storage-by-cores.html
+- [Vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. [http://vitess.io](http://vitess.io/)
 - [Zenko](https://github.com/scality/Zenko) - Because everyone should be in control of their data. [http://zenko.io](http://zenko.io/)
 
 ### Tools
