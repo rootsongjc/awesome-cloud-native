@@ -152,6 +152,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp. [https://www.serf.io/](https://www.serf.io/)
 - [Swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg [https://www.shurenyun.com/product-swa…](https://www.shurenyun.com/product-swan.html)
 - [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system
+- [descheduler](https://github.com/kubernetes-incubator/descheduler) - Descheduler for Kubernetes [https://github.com/kubernetes-incubator/descheduler](https://github.com/kubernetes-incubator/descheduler)
 
 ### Portability
 
