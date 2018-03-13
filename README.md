@@ -227,6 +227,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Cilium](https://github.com/cilium/cilium) - Linux Native, HTTP Aware Networking and Security for Containers
 - [Clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [OpenSCAP](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
+- [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [dex](https://github.com/coreos/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors [https://coreos.com/blog/announcing-de…](https://coreos.com/blog/announcing-dex.html)
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dockscan](https://github.com/kost/dockscan) - dockscan is security vulnerability and audit scanner for Docker installations
