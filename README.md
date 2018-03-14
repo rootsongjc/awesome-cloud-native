@@ -85,6 +85,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [buddy.works](https://buddy.works/) - Build, Test & Deploy Code in Seconds Continuous Delivery, simplified.
 - [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse [https://concourse.ci](https://concourse.ci/)
 - [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
+- [gitkube](https://github.com/hasura/gitkube) - Gitkube: Build and deploy docker images to Kubernetes using git push. [https://gitkube.sh](https://gitkube.sh/)
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps
 
 ### Database
