@@ -154,6 +154,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg [https://www.shurenyun.com/product-swa…](https://www.shurenyun.com/product-swan.html)
 - [Swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system
 - [descheduler](https://github.com/kubernetes-incubator/descheduler) - Descheduler for Kubernetes [https://github.com/kubernetes-incubator/descheduler](https://github.com/kubernetes-incubator/descheduler)
+- [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. [https://docs.microsoft.com/en-us/azure/service-fabric](https://docs.microsoft.com/en-us/azure/service-fabric/)
 
 ### Portability
 
