@@ -339,6 +339,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
 - [kail](https://github.com/boz/kail) - kubernetes log viewer
+- [kaniko](https://github.com/GoogleCloudPlatform/kaniko) - Build Container Images In Kubernetes
 - [kd](https://github.com/UKHomeOffice/kd) - Minimalistic kubernetes resources deployment tool with templating
 - [kedge](https://github.com/kedgeproject/kedge) - Kedge - Concise Application Definition for Kubernetes [http://kedgeproject.org](http://kedgeproject.org/)
 - [kismatic](https://github.com/apprenda/kismatic) - Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations
