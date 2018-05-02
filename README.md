@@ -66,6 +66,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [cri-containerd](https://github.com/containerd/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface
 - [cri-o](http://cri-o.io/) - Lightweight Container Runtime for Kubernetes
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
+- [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon [http://www.hypercontainer.io](http://www.hypercontainer.io/)
 - [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
 - [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
