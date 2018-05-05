@@ -22,6 +22,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Message broker](#message-broker)
   - [Monitoring](#monitoring)
   - [Networking](#networking)
+  - [Observability](#observability)
   - [Orchestration and scheduler](#orchestration-and-scheduler)
   - [Portability](#portability)
   - [Proxy and load balancer](#proxy-and-load-balancer)
@@ -143,6 +144,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [collectbeat](https://github.com/eBay/collectbeat) - Beats with discovery capabilities for environments like Kubernetes
 - [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs in docker containers
+
+### Observability
+
+- [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability
 
 ### Orchestration and scheduler
 
