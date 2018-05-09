@@ -199,6 +199,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
 - [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
 - [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
+- [sofa-rpc](https://github.com/alipay/sofa-rpc) - SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.
 - [thrift](https://github.com/apache/thrift) - Apache thrift
 
 ### Message broker
