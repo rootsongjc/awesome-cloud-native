@@ -192,6 +192,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy [https://traefik.io](https://traefik.io/)
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS [https://caddyserver.com](https://caddyserver.com/)
 - [gimbal](https://github.com/heptio/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio. [https://www.heptio.com](https://www.heptio.com/)
+- [kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - Deploy Kong in a native Kubernetes Ingress Controller <https://konghq.com/>
 - [voyager](https://github.com/appscode/voyager) - ✈️️ Secure Ingress Controller for Kubernetes by <https://appscode.com>
 
 ### RPC
