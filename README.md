@@ -224,6 +224,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE)
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi [http://open-falcon.com/](http://open-falcon.com/)
 - [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData
+- [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation
 
 ### Networking
 
