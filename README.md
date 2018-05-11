@@ -254,6 +254,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices
 - [kube-lego](https://github.com/jetstack/kube-lego) - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt
 - [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes
 - [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon by <https://appscode.com>
