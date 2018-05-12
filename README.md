@@ -20,6 +20,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [IoT](#iot)
   - [Logging](#logging)
   - [Message broker](#message-broker)
+  - [Miscellaneous](Miscellaneous)
   - [Monitoring](#monitoring)
   - [Networking](#networking)
   - [Observability](#observability)
@@ -211,6 +212,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system. [https://nats.io](https://nats.io/)
 - [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
+
+### Miscellaneous
+
+- [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
 
 ### Monitoring
 
