@@ -20,7 +20,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [IoT](#iot)
   - [Logging](#logging)
   - [Message broker](#message-broker)
-  - [Miscellaneous](Miscellaneous)
+  - [Miscellaneous](#miscellaneous)
   - [Monitoring](#monitoring)
   - [Networking](#networking)
   - [Observability](#observability)
