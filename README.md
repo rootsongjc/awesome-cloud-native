@@ -333,6 +333,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Torus](https://github.com/coreos/torus) - Torus Distributed Storage https://coreos.com/blog/torus-distributed-storage-by-cores.html
 - [Vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. [http://vitess.io](http://vitess.io/)
 - [Zenko](https://github.com/scality/Zenko) - Because everyone should be in control of their data. [http://zenko.io](http://zenko.io/)
+- [glusterd2](https://github.com/gluster/glusterd2) -  GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0
 
 ### Tools
 - [Aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
