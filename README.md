@@ -197,6 +197,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [gimbal](https://github.com/heptio/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio. [https://www.heptio.com](https://www.heptio.com/)
 - [katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - Deploy Kong in a native Kubernetes Ingress Controller <https://konghq.com/>
+- [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress 
 - [voyager](https://github.com/appscode/voyager) - ✈️️ Secure Ingress Controller for Kubernetes by <https://appscode.com>
 
 ### RPC
