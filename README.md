@@ -392,6 +392,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way
 - [kube-version-converter](https://github.com/fleeto/kube-version-converter) - Convert API Object file into specified version.
+- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators> 
