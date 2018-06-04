@@ -4,7 +4,7 @@ A curated list of awesome cloud native architectures, tools and  softwares. Insp
 
 ### Contributing
 
-Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**; you rock!
+Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. View in [GitHub](https://github.com/rootsongjc/awesome-cloud-native). Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**, you rock🤟!
 
 ### Contents
 
