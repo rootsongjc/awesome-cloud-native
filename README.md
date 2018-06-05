@@ -369,6 +369,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
+- [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (Shoots) as a service on AWS, Azure, GCP, and OpenStack.
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
 - [kail](https://github.com/boz/kail) - kubernetes log viewer
@@ -424,7 +425,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Tutorial
 
-- [Cloud Native Go](http://rootsongjc.github.io/cloud-native-go) - Building Web Applications and Microservices for the Cloud with Go and React written by Kevin Hoffman and Dan Nemeth translated to Chinese by four guys from [TalkingData](http://www.talkingdata.com/) with ❤️
 - [Istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes
 - [Migrating to Cloud Native Application Architectures](https://github.com/rootsongjc/migrating-to-cloud-native-application-architectures) - 《迁移到云原生应用架构》中文版 https://jimmysong.io/migrating-to-cloud-native-application-architectures/
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
