@@ -414,6 +414,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [telepresence](https://github.com/datawire/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [http://www.telepresence.io](http://www.telepresence.io/)
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
 
 ### Tracing
