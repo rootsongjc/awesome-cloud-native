@@ -205,6 +205,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### RPC
 
+- [RSocket](https://github.com/rsocket) - Streaming message protocol with Reactive Extension/Stream semantics
 - [brpc](https://github.com/brpc/brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system [http://twitter.github.io/finagle](http://twitter.github.io/finagle)
 - [gRPC](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework
