@@ -227,6 +227,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Miscellaneous
 
 - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
+- [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team
 
 ### Monitoring
 
