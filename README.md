@@ -152,6 +152,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral
+- [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 
 ### Orchestration and scheduler
 
