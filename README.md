@@ -151,6 +151,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Observability
 
 - [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability
+- [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral
 
 ### Orchestration and scheduler
 
