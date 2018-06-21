@@ -375,6 +375,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes [https://dotmesh.com](https://dotmesh.com/)
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
+- [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS [https://eksctl.io](https://eksctl.io/)
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
