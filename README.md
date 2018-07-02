@@ -234,6 +234,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team
+- [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content
 
 ### Monitoring
 
@@ -300,9 +301,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Conduit](https://conduit.io) - The Ultralight Service Mesh for Kubernetes [https://conduit.io](https://conduit.io/)
 - [Istio](https://github.com/istio) - An open platform to connect, manage, and secure microservices.
 - [Linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps [https://linkerd.io](https://linkerd.io/)
+- [ServiceComb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud. 
+- [mesher](https://github.com/go-chassis/mesher) -  A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis).
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications. 
-- [ServiceComb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud. 
 
 ### Service registry and discovery
 
