@@ -387,6 +387,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
 - [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (Shoots) as a service on AWS, Azure, GCP, and OpenStack.
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
+- [jib](https://github.com/GoogleContainerTools/jib) -  ⛵️ Build container images for your Java applications.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
 - [kail](https://github.com/boz/kail) - kubernetes log viewer
 - [kaniko](https://github.com/GoogleCloudPlatform/kaniko) - Build Container Images In Kubernetes
