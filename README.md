@@ -285,6 +285,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes
 - [keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services [http://www.keycloak.org](http://www.keycloak.org/)
+- [kritis](https://github.com/grafeas/kritis) - Software supply chain security for #Kubernetes apps [https://grafeas.io/docs/concepts/what-is-kritis](https://grafeas.io/docs/concepts/what-is-kritis)
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices
 - [kube-lego](https://github.com/jetstack/kube-lego) - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt
 - [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes
