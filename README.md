@@ -263,6 +263,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [Calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers
 - [Contiv](https://github.com/contiv) - Container networking for various use cases
 - [Flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
+- [Knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution
 - [MatchBox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
 - [Weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
 - [istio-cni](https://github.com/tiswanso/istio-cni) - Istio CNI to setup kubernetes pod namespaces to redirect traffic to sidecar proxy.
