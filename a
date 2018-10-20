@@ -1,0 +1,79 @@
+- [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
+- [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [http://www.heptio.com](http://www.heptio.com/)
+- [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
+- [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+- [dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
+- [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
+- [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
+- [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder
+- [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
+- [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
+- [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
+- [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
+- [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
+- [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+- [container-structure-test](https://github.com/GoogleCloudPlatform/container-structure-test) - validate the structure of your container images
+- [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations
+- [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container
+- [cri-tools](https://github.com/kubernetes-incubator/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
+- [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
+- [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
+- [dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes [https://dotmesh.com](https://dotmesh.com/)
+- [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
+- [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS [https://eksctl.io](https://eksctl.io/)
+- [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
+- [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
+- [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
+- [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (Shoots) as a service on AWS, Azure, GCP, and OpenStack.
+- [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
+- [istio-pod-network-controller](https://github.com/sabre1041/istio-pod-network-controller) - Controller to manage Istio Pod Network
+- [jib](https://github.com/GoogleContainerTools/jib) -  ⛵️ Build container images for your Java applications.
+- [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
+- [kail](https://github.com/boz/kail) - kubernetes log viewer
+- [kaniko](https://github.com/GoogleCloudPlatform/kaniko) - Build Container Images In Kubernetes
+- [kd](https://github.com/UKHomeOffice/kd) - Minimalistic kubernetes resources deployment tool with templating
+- [kedge](https://github.com/kedgeproject/kedge) - Kedge - Concise Application Definition for Kubernetes [http://kedgeproject.org](http://kedgeproject.org/)
+- [kismatic](https://github.com/apprenda/kismatic) - Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations
+- [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes [http://kompose.io](http://kompose.io/)
+- [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+- [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
+- [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.<https://ksonnet.io/>
+- [ksync](https://github.com/vapor-ware/ksync) -  Sync files between your local system and a kubernetes cluster. <https://vapor-ware.github.io/ksync> 
+- [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
+- [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI
+- [kube-version-converter](https://github.com/fleeto/kube-version-converter) - Convert API Object file into specified version.
+- [kubeadm-offline-installer](https://github.com/fleeto/kubeadm-offline-installer) - Setup a cluster with kubeadm, without internet connections.
+- [kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
+- [kubeapps](https://kubeapps.com/) - Discover & launch great Kubernetes-ready apps
+- [kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal console for Kubernetes clusters [https://kube.sh](https://kube.sh/)
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs [http://book.kubebuilder.io](http://book.kubebuilder.io/)
+- [kubecfg](https://github.com/ksonnet/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.￼
+- [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI [https://kubedb.com](https://kubedb.com/) to manage kubernetes ready production-grade Databases
+- [kubegen](https://github.com/errordeveloper/kubegen) - kubegen – simple way to describe Kubernetes resources
+- [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers
+- [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes. <https://kubeiql.io/>
+- [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3 [http://fabric8.io](http://fabric8.io/)
+- [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+- [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox
+- [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo
+- [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way
+- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+- [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource
+- [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators>
+- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
+- [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes
+- [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+- [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[http://www.heptio.com](http://www.heptio.com/)
+- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
+- [squash](https://github.com/solo-io/squash) - The debugger for microservices
+- [stash](https://github.com/appscode/stash) - 🛅 Backup your Kubernetes Volumes by <htts://appscode.com>
+- [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes
+- [tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
+- [telepresence](https://github.com/datawire/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [http://www.telepresence.io](http://www.telepresence.io/)
+- [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
+- [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
+- [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers

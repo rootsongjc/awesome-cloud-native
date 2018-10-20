@@ -367,17 +367,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [glusterd2](https://github.com/gluster/glusterd2) -  GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0
 
 ### Tools
-- [Aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
-- [Ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [http://www.heptio.com](http://www.heptio.com/)
-- [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
-- [Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
-- [Dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
-- [Habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
-- [Helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
-- [Smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder
-- [Swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
-- [Vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
+- [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
+- [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [http://www.heptio.com](http://www.heptio.com/)
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
+- [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
@@ -388,6 +381,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes [https://dotmesh.com](https://dotmesh.com/)
+- [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+- [dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification
 - [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS [https://eksctl.io](https://eksctl.io/)
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
@@ -395,6 +390,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
 - [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (Shoots) as a service on AWS, Azure, GCP, and OpenStack.
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
+- [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
+- [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
 - [istio-pod-network-controller](https://github.com/sabre1041/istio-pod-network-controller) - Controller to manage Istio Pod Network
 - [jib](https://github.com/GoogleContainerTools/jib) -  ⛵️ Build container images for your Java applications.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
@@ -407,7 +404,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.<https://ksonnet.io/>
-- [ksync](https://github.com/vapor-ware/ksync) -  Sync files between your local system and a kubernetes cluster. <https://vapor-ware.github.io/ksync> 
+- [ksync](https://github.com/vapor-ware/ksync) -  Sync files between your local system and a kubernetes cluster. <https://vapor-ware.github.io/ksync>
 - [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI
@@ -435,16 +432,19 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
 - [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+- [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder
 - [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[http://www.heptio.com](http://www.heptio.com/)
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [stash](https://github.com/appscode/stash) - 🛅 Backup your Kubernetes Volumes by <htts://appscode.com>
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes
+- [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
 - [tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 - [telepresence](https://github.com/datawire/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [http://www.telepresence.io](http://www.telepresence.io/)
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
+- [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
 
 ### Tracing
