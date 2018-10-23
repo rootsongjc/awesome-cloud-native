@@ -154,7 +154,9 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Observability
 
+- [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend
 - [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability
+- [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 
