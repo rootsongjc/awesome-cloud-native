@@ -396,6 +396,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
 - [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
+- [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web and cli application framework with dependency injection support [https://hiboot.hidevops.io](https://hiboot.hidevops.io/)
 - [istio-pod-network-controller](https://github.com/sabre1041/istio-pod-network-controller) - Controller to manage Istio Pod Network
 - [jib](https://github.com/GoogleContainerTools/jib) -  ⛵️ Build container images for your Java applications.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
