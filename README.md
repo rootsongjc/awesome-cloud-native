@@ -319,6 +319,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud.
 - [sofa-mesh](https://github.com/alipay/sofa-mesh) - A solution for large-scale Service Mesh based on Istio. <http://www.sofastack.tech/>
+- [supergloo](https://github.com/solo-io/supergloo) - The Service Mesh Orchestration Platform [https://supergloo.solo.io](https://supergloo.solo.io/)
 
 ### Service Registry and Discovery
 
