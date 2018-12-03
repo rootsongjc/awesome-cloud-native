@@ -163,6 +163,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Orchestration and Scheduler
 
+- [alameda](https://github.com/containers-ai/alameda) - Intelligent Resources Orchestrator for Kubernetes by using machine learning
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine - [https://netflix.github.io/conductor/](https://netflix.github.io/conductor/)
