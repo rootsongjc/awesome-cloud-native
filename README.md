@@ -191,6 +191,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS) [https://flynn.io](https://flynn.io/)
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
+- [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform https://kubesphere.io
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.com
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers [http://www.openshift.org](http://www.openshift.org/)
 - [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.[http://www.rainbond.com](http://www.rainbond.com/)
