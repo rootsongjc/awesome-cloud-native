@@ -156,6 +156,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Observability
 
+- [envoy-ui](https://github.com/Nitro/envoy-ui) - Dead simple server-side UI for Envoy proxy (like HAproxy stats)
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend
 - [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
