@@ -187,6 +187,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [choerodon](https://github.com/choerodon/choerodon) - The open source PaaS for Kubernetes.[http://choerodon.io](http://choerodon.io/)
 - [cloudfoundry](https://www.cloudfoundry.org) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
 - [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically. [https://conjure-up.io](https://conjure-up.io/)
+- [crossplane](https://github.com/crossplaneio/crossplane) - An Open Source Multicloud Control Plane [https://crossplane.io](https://crossplane.io/)
 - [dc/os](https://github.com/dcos) - Datacenter Operating System
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS) [https://flynn.io](https://flynn.io/)
