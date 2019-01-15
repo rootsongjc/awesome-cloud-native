@@ -486,8 +486,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
-- [envoy](https://github.com/servicemesher/envoy) - Envoy proxy中文文档 - <http://www.servicemesher.com/envoy/>
-- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio中文指南/服务网格实践手册 - https://jimmysong.io/isito-handbook
+- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio服务网格实践指南 by Jimmy Song and [ServiceMesher Community](http://www.servicemesher.com) - https://jimmysong.io/istio-handbook
 - [istio-in-action](https://www.manning.com/books/istio-in-action) - Istio in Action by Christian E. Posta - <https://www.manning.com/books/istio-in-action>
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh [https://developer.ibm.com/indexconf/s…](https://developer.ibm.com/indexconf/sessions/#!?id=5399)
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes
@@ -500,4 +499,3 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
-- [migrating-to-cloud-native-application-architectures](https://github.com/rootsongjc/migrating-to-cloud-native-application-architectures) - 《迁移到云原生应用架构》中文版 https://jimmysong.io/migrating-to-cloud-native-application-architectures/
