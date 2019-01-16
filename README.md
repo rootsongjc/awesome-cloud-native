@@ -1,6 +1,6 @@
 # Awesome Cloud Native![](https://ws1.sinaimg.cn/large/00704eQkgy1frzchbek3ej300w00wgle.jpg)
 
-A curated list of awesome cloud native architectures, tools and  softwares. Inspired by **[awesome-go](https://github.com/avelino/awesome-go)**.
+A curated list of awesome cloud native tools, softwares and tutorials. Inspired by **[awesome-go](https://github.com/avelino/awesome-go)**.
 
 ### Contributing
 
@@ -428,6 +428,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI
 - [kube-version-converter](https://github.com/fleeto/kube-version-converter) - Convert API Object file into specified version.
+- [kubeasz](https://github.com/gjmzj/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [kubeadm-offline-installer](https://github.com/fleeto/kubeadm-offline-installer) - Setup a cluster with kubeadm, without internet connections.
 - [kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [kubeapps](https://kubeapps.com/) - Discover & launch great Kubernetes-ready apps
