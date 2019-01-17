@@ -482,7 +482,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [sofa-tracker](https://github.com/alipay/sofa-tracer) -  SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link . These logs can be used for quick discovery of faults, service governance, etc.
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system [http://zipkin.io](http://zipkin.io/)
 
-### Tutorial
+### Tutorials
 
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step
@@ -491,6 +491,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [istio-in-action](https://www.manning.com/books/istio-in-action) - Istio in Action by Christian E. Posta - <https://www.manning.com/books/istio-in-action>
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh [https://developer.ibm.com/indexconf/s…](https://developer.ibm.com/indexconf/sessions/#!?id=5399)
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes
+- [istio-service-mesh-workshop](https://github.com/leecalcote/istio-service-mesh-workshop) - Using Istio Workshop [https://layer5.io](https://layer5.io/)
 - [istio-tutorial](https://github.com/redhat-developer-demos/istio-tutorial) - Istio Tutorial for Java Microservices
 - [ks](https://github.com/red-gate/ks) - A series of Kubernetes walk-throughs
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
