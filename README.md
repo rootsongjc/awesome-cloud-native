@@ -36,7 +36,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Storage](#storage)
   - [Tracing](#tracing)
   - [Tools](#tools)
-  - [Tutorial](#tutorial)
+  - [Tutorials](#tutorials)
 
 ### AI
 
