@@ -346,6 +346,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Serverless
 
 - [dispatch](https://github.com/vmware/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
+- [eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery
 - [faas-netes](https://github.com/alexellis/faas-netes) - Enable Kubernetes as a backend for Functions as a Service (OpenFaaS) <https://github.com/alexellis/faas>
 - [firecamp](https://github.com/cloudstax/firecamp) - Serverless Platform for the stateful services [https://www.cloudstax.io](https://www.cloudstax.io/)
 - [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes http://fission.io
@@ -388,6 +389,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [http://www.heptio.com](http://www.heptio.com/)
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
 - [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
+- [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
