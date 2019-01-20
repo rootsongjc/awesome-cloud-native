@@ -86,7 +86,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment
 - [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse [https://concourse.ci](https://concourse.ci/)
 - [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
-- [cyclone](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow
+- [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io/)
 - [gitLab-ci](https://about.gitlab.com/features/gitlab-ci-cd) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code
 - [gitkube](https://github.com/hasura/gitkube) - Gitkube: Build and deploy docker images to Kubernetes using git push. [https://gitkube.sh](https://gitkube.sh/)
