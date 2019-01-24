@@ -54,7 +54,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kong](https://github.com/Mashape/kong) - 🐒 The Microservice API Gateway <https://getkong.org/install>
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares. <http://krakend.io/>
 - [orange](https://github.com/sumory/orange) - OpenResty/Nginx Gateway for API Monitoring and Management. [http://orange.sumory.com](http://orange.sumory.com/)
-- [ocelot](https://github.com/ThreeMammals/Ocelot) -.NET core API Gateway .[http://threemammals.com/ocelot](http://threemammals.com/ocelot)
+- [ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway. [http://threemammals.com/ocelot](http://threemammals.com/ocelot)
 
 ### Big Data
 
@@ -86,13 +86,14 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment
 - [concourse](https://github.com/concourse/concourse) - BOSH release and development workspace for Concourse [https://concourse.ci](https://concourse.ci/)
 - [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
-- [cyclone](https://github.com/caicloud/cyclone) - A cloud native CI/CD platform built for container workflow
+- [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io/)
 - [gitLab-ci](https://about.gitlab.com/features/gitlab-ci-cd) - GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code
 - [gitkube](https://github.com/hasura/gitkube) - Gitkube: Build and deploy docker images to Kubernetes using git push. [https://gitkube.sh](https://gitkube.sh/)
 - [hygieia](https://github.com/capitalone/Hygieia) - CapitalOne DevOps Dashboard <http://www.capitalone.io/Hygieia>
 - [jenkins](http://jenkins.io) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 - [jx](https://github.com/jenkins-x/jx) - A command line tool for installing and working with Jenkins X <http://jenkins-x.io/>
+- [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
 - [kenyata](https://github.com/spinnaker/kayenta) - Automated Canary Service
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps
 - [skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Easy and Repeatable Kubernetes Development
@@ -158,8 +159,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Observability
 
 - [envoy-ui](https://github.com/Nitro/envoy-ui) - Dead simple server-side UI for Envoy proxy (like HAproxy stats)
+- [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend
 - [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability
+- [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters [https://kubernetes-operational-view.readthedocs.io](https://kubernetes-operational-view.readthedocs.io/)
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
@@ -346,6 +349,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Serverless
 
 - [dispatch](https://github.com/vmware/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
+- [eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery
 - [faas-netes](https://github.com/alexellis/faas-netes) - Enable Kubernetes as a backend for Functions as a Service (OpenFaaS) <https://github.com/alexellis/faas>
 - [firecamp](https://github.com/cloudstax/firecamp) - Serverless Platform for the stateful services [https://www.cloudstax.io](https://www.cloudstax.io/)
 - [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes http://fission.io
@@ -359,6 +363,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes [https://blog.alexellis.io/introducing-functions-as-a-service/](https://blog.alexellis.io/introducing-functions-as-a-service/)
 - [openwhisk](http://openwhisk.incubator.apache.org/) - Apache OpenWhisk (Incubating) is a [serverless](http://openwhisk.incubator.apache.org/serverless), open source cloud platform that executes functions in response to events at any scale.
+- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – [https://serverless.com](https://serverless.com/)
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification [https://cloudevents.io](https://cloudevents.io/)
 - [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
@@ -387,6 +392,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [http://www.heptio.com](http://www.heptio.com/)
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
 - [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
+- [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
