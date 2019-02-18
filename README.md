@@ -49,6 +49,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 [https://www.kubeflow.org](https://www.kubeflow.org/)
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://autumnai.com/leaf/book>
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning. （PaddlePaddle核心框架，高性能单机、分布式训练和跨平台部署）
+[http://www.paddlepaddle.org](http://www.paddlepaddle.org/)
 - [predictionio](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.[https://predictionio.incubator.apache…](https://predictionio.incubator.apache.org/)
 - [pytorch](https://github.com/pytorch/pytorch) -An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
 [https://pytorch.org](https://pytorch.org)
