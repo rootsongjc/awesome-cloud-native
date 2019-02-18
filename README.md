@@ -484,6 +484,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
+- [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
 
