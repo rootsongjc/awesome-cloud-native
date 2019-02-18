@@ -40,12 +40,17 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### AI
 
+- [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch. 
+[http://www.allennlp.org](http://www.allennlp.org/)
 - [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. [https://caffe2.ai](https://caffe2.ai/)
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...) [http://h2o.ai](http://h2o.ai/)
 - [keras](https://github.com/keras-team/keras) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
 [http://keras.io/](http://keras.io/)
-- [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
+[https://www.kubeflow.org](https://www.kubeflow.org/)
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://autumnai.com/leaf/book>
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning. （PaddlePaddle核心框架，高性能单机、分布式训练和跨平台部署）
+[http://www.paddlepaddle.org](http://www.paddlepaddle.org/)
 - [predictionio](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.[https://predictionio.incubator.apache…](https://predictionio.incubator.apache.org/)
 - [pytorch](https://github.com/pytorch/pytorch) -An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
 [https://pytorch.org](https://pytorch.org)
