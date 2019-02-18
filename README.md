@@ -209,7 +209,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.com
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers [http://www.openshift.org](http://www.openshift.org/)
 - [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.[http://www.rainbond.com](http://www.rainbond.com/)
-- [rancher](https://github.com/rancher/rancher) - Platform for operating Docker in production [http://rancher.com](http://rancher.com/)
+- [rancher](https://github.com/rancher/rancher) - Complete container management platform [http://rancher.com](http://rancher.com/)
 - [supergiant](https://github.com/supergiant/supergiant) - Automatically scale hardware and easily run stateful applications using Kubernetes. <https://supergiant.io/>
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems [http://vamp.io](http://vamp.io/)
