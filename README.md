@@ -210,7 +210,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.com
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers [http://www.openshift.org](http://www.openshift.org/)
 - [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.[http://www.rainbond.com](http://www.rainbond.com/)
-- [rancher](https://github.com/rancher/rancher) - Platform for operating Docker in production [http://rancher.com](http://rancher.com/)
+- [rancher](https://github.com/rancher/rancher) - Complete container management platform [http://rancher.com](http://rancher.com/)
 - [supergiant](https://github.com/supergiant/supergiant) - Automatically scale hardware and easily run stateful applications using Kubernetes. <https://supergiant.io/>
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems [http://vamp.io](http://vamp.io/)
@@ -300,7 +300,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [apparmor](http://wiki.apparmor.net/) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [cilium](https://github.com/cilium/cilium) - Linux Native, HTTP Aware Networking and Security for Containers
+- [cilium](https://github.com/cilium/cilium) - API Aware Networking and Security using BPF and XDP
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [dex](https://github.com/coreos/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors [https://coreos.com/blog/announcing-de…](https://coreos.com/blog/announcing-dex.html)
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
