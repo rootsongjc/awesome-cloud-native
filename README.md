@@ -299,7 +299,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [apparmor](http://wiki.apparmor.net/) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [cilium](https://github.com/cilium/cilium) - Linux Native, HTTP Aware Networking and Security for Containers
+- [cilium](https://github.com/cilium/cilium) - API Aware Networking and Security using BPF and XDP
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 - [dex](https://github.com/coreos/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors [https://coreos.com/blog/announcing-de…](https://coreos.com/blog/announcing-dex.html)
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
