@@ -293,12 +293,13 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers
 - [cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
+- [cni-genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave <https://github.com/cni-genie/CNI-Genie/>
 - [contiv](https://github.com/contiv) - Container networking for various use cases
 - [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [istio-cni](https://github.com/tiswanso/istio-cni) - Istio CNI to setup kubernetes pod namespaces to redirect traffic to sidecar proxy.
 - [knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking. [https://kube-router.io](https://kube-router.io/)
-- [matchBox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
+- [matchbox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
 - [weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
 
 ### Security and Audit
