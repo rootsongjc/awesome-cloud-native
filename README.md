@@ -272,6 +272,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [talos](https://github.com/autonomy/talos) - A modern Linux distribution for Kubernetes. [https://talos.autonomy.io](https://talos.autonomy.io/)
 
 ### Monitoring
 
