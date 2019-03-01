@@ -154,6 +154,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Kubernetes operator
 
+- [flagger](https://github.com/stefanprodan/flagger) - Istio progressive delivery Kubernetes operator [https://docs.flagger.app](https://docs.flagger.app/)
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators>
@@ -513,7 +514,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
-- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio服务网格实践指南 by Jimmy Song and [ServiceMesher Community](http://www.servicemesher.com) - https://jimmysong.io/istio-handbook
+- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
 - [istio-in-action](https://www.manning.com/books/istio-in-action) - Istio in Action by Christian E. Posta - <https://www.manning.com/books/istio-in-action>
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh [https://developer.ibm.com/indexconf/s…](https://developer.ibm.com/indexconf/sessions/#!?id=5399)
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes
