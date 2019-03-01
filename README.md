@@ -149,6 +149,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### IoT
 
 - [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device [http://eliot.run](http://eliot.run/)
+- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
+[https://k3s.io](https://k3s.io/)
 
 ### Kubernetes operator
 
