@@ -479,8 +479,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource
-- [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators>
-- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
 - [riff](https://github.com/projectriff/riff) - riff is for functions 
 [https://projectriff.io](https://projectriff.io/)
 - [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes
