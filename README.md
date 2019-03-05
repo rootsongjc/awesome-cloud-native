@@ -18,6 +18,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Data Science](#data-science)
   - [Fault Tolerant](#fault-tolerant)
   - [IoT](#iot)
+  - [Kubernetes Operator](#kubernetes-operator)
   - [Logging](#logging)
   - [Message Broker](#message-broker)
   - [Miscellaneous](#miscellaneous)
@@ -81,7 +82,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon [http://www.hypercontainer.io](http://www.hypercontainer.io/)
 - [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
-- [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems[https://mobyproject.org/](https://mobyproject.org/)
 - [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
 - [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
@@ -102,7 +102,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [hygieia](https://github.com/capitalone/Hygieia) - CapitalOne DevOps Dashboard <http://www.capitalone.io/Hygieia>
 - [jenkins](http://jenkins.io) - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 - [jx](https://github.com/jenkins-x/jx) - A command line tool for installing and working with Jenkins X <http://jenkins-x.io/>
-- [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
 - [kenyata](https://github.com/spinnaker/kayenta) - Automated Canary Service
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps
 - [skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Easy and Repeatable Kubernetes Development
@@ -152,6 +151,15 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device [http://eliot.run](http://eliot.run/)
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 [https://k3s.io](https://k3s.io/)
+
+### Kubernetes operator
+
+- [flagger](https://github.com/stefanprodan/flagger) - Istio progressive delivery Kubernetes operator [https://docs.flagger.app](https://docs.flagger.app/)
+- [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
+- [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
+- [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators>
+- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
+- [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 
 ### Logging
 
@@ -267,6 +275,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [talos](https://github.com/autonomy/talos) - A modern Linux distribution for Kubernetes. [https://talos.autonomy.io](https://talos.autonomy.io/)
 
 ### Monitoring
 
@@ -288,12 +297,13 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers
 - [cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
+- [cni-genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave <https://github.com/cni-genie/CNI-Genie/>
 - [contiv](https://github.com/contiv) - Container networking for various use cases
 - [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [istio-cni](https://github.com/tiswanso/istio-cni) - Istio CNI to setup kubernetes pod namespaces to redirect traffic to sidecar proxy.
 - [knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking. [https://kube-router.io](https://kube-router.io/)
-- [matchBox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
+- [matchbox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
 - [weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
 
 ### Security and Audit
@@ -407,6 +417,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+- [cloud-native-sandbox](https://github.com/rootsongjc/cloud-native-sandbox) - Cloud Native Sandbox can help you setup a standalone Kubernetes and Istio environment with Docker on you own laptop.
 - [container-structure-test](https://github.com/GoogleCloudPlatform/container-structure-test) - validate the structure of your container images
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container
@@ -422,7 +433,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
-- [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (Shoots) as a service on AWS, Azure, GCP, and OpenStack.
+- [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
 - [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
@@ -486,6 +497,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
+- [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
 
@@ -506,7 +518,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
-- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio服务网格实践指南 by Jimmy Song and [ServiceMesher Community](http://www.servicemesher.com) - https://jimmysong.io/istio-handbook
+- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
 - [istio-in-action](https://www.manning.com/books/istio-in-action) - Istio in Action by Christian E. Posta - <https://www.manning.com/books/istio-in-action>
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh [https://developer.ibm.com/indexconf/s…](https://developer.ibm.com/indexconf/sessions/#!?id=5399)
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes
