@@ -435,6 +435,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds
+- [garden](https://github.com/garden-io/garden) - Development orchestrator for Kubernetes, containers and serverless functions. [https://garden.io](https://garden.io/)
 - [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](http://www.habitus.io/)
