@@ -384,6 +384,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes [https://blog.alexellis.io/introducing-functions-as-a-service/](https://blog.alexellis.io/introducing-functions-as-a-service/)
 - [openwhisk](http://openwhisk.incubator.apache.org/) - Apache OpenWhisk (Incubating) is a [serverless](http://openwhisk.incubator.apache.org/serverless), open source cloud platform that executes functions in response to events at any scale.
+- [riff](https://github.com/projectriff/riff) - riff is for functions 
+[https://projectriff.io](https://projectriff.io/)
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – [https://serverless.com](https://serverless.com/)
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification [https://cloudevents.io](https://cloudevents.io/)
 - [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
@@ -479,8 +481,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource
-- [riff](https://github.com/projectriff/riff) - riff is for functions 
-[https://projectriff.io](https://projectriff.io/)
 - [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder
