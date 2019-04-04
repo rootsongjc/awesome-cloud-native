@@ -41,7 +41,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### AI
 
-- [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch. 
+- [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 [http://www.allennlp.org](http://www.allennlp.org/)
 - [caffe2](https://github.com/caffe2/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. [https://caffe2.ai](https://caffe2.ai/)
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...) [http://h2o.ai](http://h2o.ai/)
@@ -278,7 +278,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [talos](https://github.com/autonomy/talos) - A modern Linux distribution for Kubernetes. [https://talos.autonomy.io](https://talos.autonomy.io/)
+- [talos](https://github.com/talos-systems/talos) - A modern Linux distribution for Kubernetes. [https://docs.talos-systems.com](https://docs.talos-systems.com)
 
 ### Monitoring
 
@@ -342,7 +342,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Service Broker
 
 - [open-service-broker-sdk](https://github.com/openshift/open-service-broker-sdk) - A starting point for creating service brokers implementing the Open Service Broker API
-- [rotor](https://github.com/turbinelabs/rotor) - Rotor is a fast, lightweight bridge between your service discovery and Envoy’s configuration APIs. Rotor supports Kubernetes, Consul, AWS (EC2 and ECS), DC/OS, flat files, and even other EDS/CDS implementations. 
+- [rotor](https://github.com/turbinelabs/rotor) - Rotor is a fast, lightweight bridge between your service discovery and Envoy’s configuration APIs. Rotor supports Kubernetes, Consul, AWS (EC2 and ECS), DC/OS, flat files, and even other EDS/CDS implementations.
 - [service-catalog](https://github.com/kubernetes-incubator/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
 - [service-broker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification <https://openservicebrokerapi.org/>
 
@@ -389,7 +389,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes [https://blog.alexellis.io/introducing-functions-as-a-service/](https://blog.alexellis.io/introducing-functions-as-a-service/)
 - [openwhisk](http://openwhisk.incubator.apache.org/) - Apache OpenWhisk (Incubating) is a [serverless](http://openwhisk.incubator.apache.org/serverless), open source cloud platform that executes functions in response to events at any scale.
-- [riff](https://github.com/projectriff/riff) - riff is for functions 
+- [riff](https://github.com/projectriff/riff) - riff is for functions
 [https://projectriff.io](https://projectriff.io/)
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – [https://serverless.com](https://serverless.com/)
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification [https://cloudevents.io](https://cloudevents.io/)
