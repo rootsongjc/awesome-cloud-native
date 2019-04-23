@@ -522,7 +522,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Tutorials
 
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
-- [azure-data-engineering](https://www.manning.com/books/azure-data-engineering) - Book on how to build high-capacity data analytics systems using Azure cloud services for storing, collecting, and analyzing data.
+- [azure-data-engineering](https://www.manning.com/books/azure-data-engineering) - Build high-capacity data analytics systems using Azure cloud services.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
 - [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
