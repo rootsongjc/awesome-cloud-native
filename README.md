@@ -338,7 +338,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [notary](https://github.com/docker/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data [https://docker.com](https://docker.com/)
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service. [http://openpolicyagent.org](http://openpolicyagent.org/)
 - [openscap](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
-- [Pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
+- [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project [http://spiffe.io](http://spiffe.io/)
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets. <https://www.vaultproject.io>
 
