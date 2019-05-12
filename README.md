@@ -1,4 +1,4 @@
-# Awesome Cloud Native![](https://ws1.sinaimg.cn/large/00704eQkgy1frzchbek3ej300w00wgle.jpg)
+# Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome cloud native tools, softwares and tutorials. Inspired by **[awesome-go](https://github.com/avelino/awesome-go)**. Hosted on [Github](https://github.com/rootsongjc/awesome-cloud-native) and maintained by [Jimmy Song](https://jimmysong.io).
 
