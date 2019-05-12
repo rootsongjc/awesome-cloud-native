@@ -1,6 +1,6 @@
 # Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome cloud native tools, softwares and tutorials.
+A curated list of awesome cloud native tools, software, and tutorials.
 
 ### Contributing
 
