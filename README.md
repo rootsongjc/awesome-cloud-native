@@ -198,6 +198,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [descheduler](https://github.com/kubernetes-incubator/descheduler) - Descheduler for Kubernetes [https://github.com/kubernetes-incubator/descheduler](https://github.com/kubernetes-incubator/descheduler)
 - [domeos](https://github.com/domeos) - An enterprise application orchestration system based on docker by Sohu.com - http://domeos.org
 - [fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system.
+- [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes [https://openkruise.io](https://openkruise.io/)
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management [http://kubernetes.io](http://kubernetes.io/)
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.[https://mesosphere.github.io/marathon/](https://mesosphere.github.io/marathon/)
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
