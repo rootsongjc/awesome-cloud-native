@@ -184,6 +184,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kiali](https://github.com/kiali/kiali) - kiali project to help istio service mesh observability.
+- [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications. [https://containership.github.io/konstellate](https://containership.github.io/konstellate)
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters [https://kubernetes-operational-view.readthedocs.io](https://kubernetes-operational-view.readthedocs.io/)
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
