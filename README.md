@@ -18,7 +18,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Data Science](#data-science)
   - [Fault Tolerant](#fault-tolerant)
   - [IoT](#iot)
-  - [Kubernetes Operator](#kubernetes-operator)
+  - [Kubernetes Operators](#kubernetes-operators)
   - [Logging](#logging)
   - [Message Broker](#message-broker)
   - [Miscellaneous](#miscellaneous)
@@ -155,10 +155,11 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 [https://k3s.io](https://k3s.io/)
 
-### Kubernetes operator
+### Kubernetes operators
 
 - [flagger](https://github.com/stefanprodan/flagger) - Istio progressive delivery Kubernetes operator [https://docs.flagger.app](https://docs.flagger.app/)
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
+- [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code. [https://kopf.readthedocs.io](https://kopf.readthedocs.io/)
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators>
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
