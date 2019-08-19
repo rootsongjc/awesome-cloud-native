@@ -237,6 +237,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [envoy-docker-shim](https://github.com/Nitro/envoy-docker-shim) - Run Envoy in place of docker-proxy.
 - [envoy](https://github.com/lyft/envoy) - C++ front/service proxy [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
 - [gimbal](https://github.com/heptio/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio. [https://www.heptio.com](https://www.heptio.com/)
+- [gobetween](https://github.com/yyyar/gobetween) - ☁️ Modern & minimalistic load balancer for the Сloud era [http://gobetween.io](http://gobetween.io/)
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
 - [kEdge](https://github.com/improbable-eng/kedge) - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices.
 - [katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer.
