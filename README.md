@@ -90,6 +90,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### CI-CD
 
 - [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
+- [argo-cd](https://github.com/argoproj/argo-cd/) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
 - [binderhub](https://github.com/jupyterhub/binderhub) - Deterministically build docker images from a git repository + commit [https://binderhub.readthedocs.io](https://binderhub.readthedocs.io/)
 - [buddy.works](https://buddy.works/) - Build, Test & Deploy Code in Seconds Continuous Delivery, simplified.
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform <https://ovh.github.io/cds/>
