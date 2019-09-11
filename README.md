@@ -363,6 +363,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [istio](https://github.com/istio) - An open platform to connect, manage, and secure microservices.
 - [kuma](https://github.com/Kong/kuma) - 🐻 Universal Control Plane for your Service Mesh https://kuma.io/install
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps [https://linkerd.io](https://linkerd.io/)
+- [maesh](https://github.com/containous/maesh) - Simpler Service Mesh [https://mae.sh](https://mae.sh/)
 - [mesher](https://github.com/go-chassis/mesher) -  A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis).
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications.
