@@ -361,6 +361,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices.
 - [conduit](https://conduit.io) - The Ultralight Service Mesh for Kubernetes [https://conduit.io](https://conduit.io/)
 - [istio](https://github.com/istio) - An open platform to connect, manage, and secure microservices.
+- [kuma](https://github.com/Kong/kuma) - 🐻 Universal Control Plane for your Service Mesh https://kuma.io/install
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps [https://linkerd.io](https://linkerd.io/)
 - [mesher](https://github.com/go-chassis/mesher) -  A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis).
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx.
