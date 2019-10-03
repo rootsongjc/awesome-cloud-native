@@ -536,6 +536,9 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Tutorials
 
+- [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
+- [azure-data-engineering](https://www.manning.com/books/azure-data-engineering) - Build high-capacity data analytics systems using Azure cloud services.
+- [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
@@ -554,6 +557,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
+- [learn-docker-in-a-month-of-lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) - Learn Docker in a Month of Lunches by Elton Stoneman 
+
 
 ### License
 
