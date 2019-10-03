@@ -540,3 +540,4 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
+- [learn-docker-in-a-month-of-lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) - Learn Docker in a Month of Lunches by Elton Stoneman - <https://www.manning.com/books/learn-docker-in-a-month-of-lunches>
