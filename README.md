@@ -287,6 +287,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [osiris](https://github.com/deislabs/osiris) - A general purpose, scale-to-zero component for Kubernetes
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team.
+- [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [talos](https://github.com/talos-systems/talos) - A modern Linux distribution for Kubernetes. [https://docs.talos-systems.com](https://docs.talos-systems.com)
 
