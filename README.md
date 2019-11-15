@@ -559,6 +559,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
+- [learn-azure-in-a-month-of-lunches-second-edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) - Learn the most important skills you’ll need to write, deploy, and run cloud-based applications in Azure.
 
 ### License
 
