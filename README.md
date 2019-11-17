@@ -492,6 +492,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs [http://book.kubebuilder.io](http://book.kubebuilder.io/)
 - [kubecdn](https://github.com/ilhaan/kubeCDN) - Self-hosted CDN based on Kubernetes.
 - [kubecfg](https://github.com/ksonnet/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.￼
+- [kubectl-doctor](http://github.com/emirozer/kubectl-doctor) - kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)
 - [kubectl-trace](https://github.com/fntlnz/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl.
 - [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI [https://kubedb.com](https://kubedb.com/) to manage kubernetes ready production-grade Databases.
 - [kubedirector](https://github.com/bluek8s/kubedirector) - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
@@ -511,6 +512,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource.
 - [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes.
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
+- [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
 - [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder.
 - [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[http://www.heptio.com](http://www.heptio.com/)
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images.
