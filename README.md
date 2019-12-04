@@ -416,6 +416,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 ### Storage
 
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform http://ceph.com
+- [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed storage system for cloud native applications http://chubao.io/
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
 - [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application https://clusterhq.com
