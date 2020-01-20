@@ -330,6 +330,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [apparmor](http://wiki.apparmor.net/) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/heptio/authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
+- [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time
 - [cilium](https://github.com/cilium/cilium) - API Aware Networking and Security using BPF and XDP.
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers.
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes [http://kubecost.com](http://kubecost.com/)
@@ -354,7 +355,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project [http://spiffe.io](http://spiffe.io/)
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets. <https://www.vaultproject.io>
-- [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time
 
 ### Service Broker
 
