@@ -354,6 +354,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project [http://spiffe.io](http://spiffe.io/)
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets. <https://www.vaultproject.io>
+- [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time
 
 ### Service Broker
 
