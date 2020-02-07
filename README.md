@@ -317,6 +317,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [cni-genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave <https://github.com/cni-genie/CNI-Genie/>
 - [contiv](https://github.com/contiv) - Container networking for various use cases.
 - [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes.
+- [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes
 - [istio-cni](https://github.com/tiswanso/istio-cni) - Istio CNI to setup kubernetes pod namespaces to redirect traffic to sidecar proxy.
 - [knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution.
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking. [https://kube-router.io](https://kube-router.io/)
