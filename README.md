@@ -529,6 +529,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [telepresence](https://github.com/datawire/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [http://www.telepresence.io](http://www.telepresence.io/)
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes.
 - [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges.
 - [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
