@@ -286,6 +286,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. [http://firecracker-microvm.io](http://firecracker-microvm.io/)
 - [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution [http://vmware.github.io/harbor/](http://vmware.github.io/harbor/)
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
+- [oam-dev](https://github.com/oam-dev) - Open Application Model is a specification for building cloud native applications. [https://oam.dev](https://oam.dev/)
 - [osiris](https://github.com/deislabs/osiris) - A general purpose, scale-to-zero component for Kubernetes
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team.
