@@ -486,6 +486,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.<https://ksonnet.io/>
 - [ksync](https://github.com/vapor-ware/ksync) -  Sync files between your local system and a kubernetes cluster. <https://vapor-ware.github.io/ksync>
+- [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient. https://alibaba.github.io/kt-connect/#/
 - [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
 - [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours https://hub.docker.com/r/hjacobs/kube-downscaler
