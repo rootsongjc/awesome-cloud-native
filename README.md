@@ -501,6 +501,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubeapps](https://kubeapps.com/) - Discover & launch great Kubernetes-ready apps.
 - [kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal console for Kubernetes clusters [https://kube.sh](https://kube.sh/)
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs [http://book.kubebuilder.io](http://book.kubebuilder.io/)
+- [kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale
 - [kubecdn](https://github.com/ilhaan/kubeCDN) - Self-hosted CDN based on Kubernetes.
 - [kubecfg](https://github.com/ksonnet/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.￼
 - [kubectl-doctor](http://github.com/emirozer/kubectl-doctor) - kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)
