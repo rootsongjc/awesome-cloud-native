@@ -561,7 +561,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
-- [istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
+- [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh [https://developer.ibm.com/indexconf/s…](https://developer.ibm.com/indexconf/sessions/#!?id=5399)
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes.
 - [istio-service-mesh-workshop](https://github.com/leecalcote/istio-service-mesh-workshop) - Using Istio Workshop [https://layer5.io](https://layer5.io/)
