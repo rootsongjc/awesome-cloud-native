@@ -542,6 +542,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges.
 - [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers.
+- [xlskubectl](https://github.com/learnk8s/xlskubectl) - a spreadsheet to control your Kubernetes cluster https://learnk8s.io/real-time-dashboard
 
 ### Tracing
 
