@@ -73,6 +73,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform <https://ovh.github.io/cds/>
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
+- [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification [https://cnab.io](https://cnab.io/)
 - [commandeer](https://github.com/commandeer/open) - Cloud management desktop app for macOS, Windows, and Linux [https://getcommandeer.com](https://getcommandeer.com)
 - [concourse](https://concourse-ci.org/) - BOSH release and development workspace for Concourse [https://concourse-ci.org/](https://concourse-ci.org/)
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform [https://cncf.build](https://cncf.build/)
