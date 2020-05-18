@@ -84,7 +84,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services.
 - [gitkube](https://github.com/hasura/gitkube) - Gitkube: Build and deploy docker images to Kubernetes using git push. [https://gitkube.sh](https://gitkube.sh/)
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
-- [habitus](https://github.com/cloud66/habitus) - A Build Flow Tool for Docker [http://www.habitus.io](
+- [habitus](https://github.com/cloud66/habitus) - A build flow tool for Docker. https://help.cloud66.com/habitus/
 - [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager.
 - [helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web and cli application framework with dependency injection support [https://hiboot.hidevops.io](https://hiboot.hidevops.io/)
