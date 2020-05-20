@@ -504,7 +504,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
-- [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way to manage all types of microservice configuration.
+- [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH
