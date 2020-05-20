@@ -73,10 +73,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end.
 - [wallaroo](https://github.com/WallarooLabs/wallaroo) - Ultrafast and elastic data processing [https://www.wallaroolabs.com](https://www.wallaroolabs.com/)
 
-### Configuration
-- [microconfig](https://microconfig.io) - Modern and simple way to manage all types of configuration.
-
-
 ### Container Runtime
 
 - [clear-containers](https://github.com/clearcontainers) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines.
@@ -524,6 +520,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
+- [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way to manage all types of configuration.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH
