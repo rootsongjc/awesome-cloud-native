@@ -12,7 +12,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [AI](#ai)
   - [API Gateway](#api-gateway)
   - [Big Data](#big-data)
-  - [Configuration](#configuration)
   - [Container Runtime](#container-runtime)
   - [CI-CD](#ci-cd)
   - [Database](#database)
