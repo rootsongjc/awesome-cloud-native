@@ -106,6 +106,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
 - [lastbackend](https://github.com/lastbackend/lastbackend) - Container orchestration with CI&CD, cli and amazing UI [https://lastbackend.com](https://lastbackend.com/)
+- [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way to manage all types of configuration.
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource.
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource. [https://tekton.dev](https://tekton.dev/)
@@ -504,8 +505,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
-- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
-- [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way to manage all types of configuration.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH
