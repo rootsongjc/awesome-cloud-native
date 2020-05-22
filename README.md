@@ -69,6 +69,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
 - [binderhub](https://github.com/jupyterhub/binderhub) - Deterministically build docker images from a git repository + commit [https://binderhub.readthedocs.io](https://binderhub.readthedocs.io/)
 - [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
+- [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming [https://cdk8s.io](https://cdk8s.io/)
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform <https://ovh.github.io/cds/>
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
