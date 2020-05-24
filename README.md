@@ -90,6 +90,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web and cli application framework with dependency injection support [https://hiboot.hidevops.io](https://hiboot.hidevops.io/)
 - [hygieia](https://github.com/capitalone/Hygieia) - CapitalOne DevOps Dashboard <http://hygieia.github.io/Hygieia>
+- [hyscale](https://github.com/hyscale/hyscale) - All things HyScale https://www.hyscale.io/
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server https://jenkins.io/
 - [jib](https://github.com/GoogleContainerTools/jib) -  ⛵️ Build container images for your Java applications.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language [http://jsonnet.org](http://jsonnet.org/)
