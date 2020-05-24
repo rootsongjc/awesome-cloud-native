@@ -1,6 +1,6 @@
-# Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Go](https://github.com/rootsongjc/awesome-cloud-native/workflows/Go/badge.svg?branch=master)
 
-A curated list of awesome cloud native tools, software, and tutorials.
+A curated list of awesome cloud native tools, software, and tutorials by [Jimmy Song](https://jimmysong.io).
 
 ### Contributing
 
