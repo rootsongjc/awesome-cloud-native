@@ -17,7 +17,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Database](#database)
   - [Edge Computing](#edge-computing)
   - [Fault Tolerant](#fault-tolerant)
-  - [IoT](#iot)
   - [Kubernetes Operators](#kubernetes-operators)
   - [Logging](#logging)
   - [Message Broker](#message-broker)
