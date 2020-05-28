@@ -15,6 +15,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Big Data](#big-data)
   - [Container Runtime](#container-runtime)
   - [Database](#database)
+  - [Edge Computing](#edge-computing)
   - [Fault Tolerant](#fault-tolerant)
   - [IoT](#iot)
   - [Kubernetes Operators](#kubernetes-operators)
@@ -163,6 +164,15 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol [https://pingcap.com](https://pingcap.com/)
 
+### Edge Computing
+
+- [baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices. https://baetyl.io/
+- [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device [http://eliot.run](http://eliot.run/)
+- [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
+- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s. [https://k3s.io](https://k3s.io/)
+- [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF) [https://kubeedge.io](https://kubeedge.io/)
+- [openyurt](https://github.com/alibaba/openyurt) - Extending your native Kubernetes to the edge
+
 ### Fault Tolerant
 
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -170,14 +180,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [concurrency-limits](https://github.com/Netflix/concurrency-limits) - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 - [hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [ratelimit](https://github.com/lyft/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
-
-### IoT
-
-- [baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices. https://baetyl.io/
-- [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device [http://eliot.run](http://eliot.run/)
-- [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s. [https://k3s.io](https://k3s.io/)
-- [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF) [https://kubeedge.io](https://kubeedge.io/)
 
 ### Kubernetes Operators
 
