@@ -1,6 +1,6 @@
 # Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Go](https://github.com/rootsongjc/awesome-cloud-native/workflows/Go/badge.svg?branch=master)
 
-A curated list of awesome cloud native tools, software, and tutorials by [Jimmy Song](https://jimmysong.io).
+A curated list of awesome cloud native tools, software, and tutorials collected by [Jimmy Song](https://jimmysong.io).
 
 ### Contributing
 
@@ -45,7 +45,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [keras](https://github.com/keras-team/keras) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. [http://keras.io/](http://keras.io/)
 - [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes. [https://www.kubeflow.org](https://www.kubeflow.org/)
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://autumnai.com/leaf/book>
-- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning. （PaddlePaddle核心框架，高性能单机、分布式训练和跨平台部署）[http://www.paddlepaddle.org](http://www.paddlepaddle.org/)
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） http://www.paddlepaddle.org/http://www.paddlepaddle.org/)
 - [predictionio](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.[https://predictionio.incubator.apache…](https://predictionio.incubator.apache.org/)
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration [https://pytorch.org](https://pytorch.org/)https://pytorch.org)
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together. [https://sqlflow.org](https://sqlflow.org/)
