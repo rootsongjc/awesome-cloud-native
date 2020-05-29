@@ -331,6 +331,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [istio-cni](https://github.com/tiswanso/istio-cni) - Istio CNI to setup kubernetes pod namespaces to redirect traffic to sidecar proxy.
 - [knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution.
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking. [https://kube-router.io](https://kube-router.io/)
+- [kube-ovn](https://github.com/alauda/kube-ovn) - Kube-OVN, a Kubernetes network fabric for enterprises that is rich in functions and easy in operations.
 - [matchbox](https://github.com/coreos/matchbox/) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more) <https://coreos.com/matchbox/docs/latest/>
 - [submariner](https://github.com/rancher/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world. [https://submariner.io](https://submariner.io/)
 - [weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more. [https://www.weave.works](https://www.weave.works/)
