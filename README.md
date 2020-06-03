@@ -457,6 +457,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [cloud-native-sandbox](https://github.com/rootsongjc/cloud-native-sandbox) - Cloud Native Sandbox can help you setup a standalone Kubernetes and Istio environment with Docker on you own laptop.
 - [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters
+- [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes
 - [container-structure-test](https://github.com/GoogleCloudPlatform/container-structure-test) - validate the structure of your container images.
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations.
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container.
@@ -516,6 +517,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
+- [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
 - [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it! [https://www.stakater.com/projects-overview.html](https://www.stakater.com/projects-overview.html)
 - [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes.
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content.
