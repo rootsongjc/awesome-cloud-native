@@ -84,7 +84,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins [http://fabric8.io/](http://fabric8.io/)
 - [flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) [https://flagger.app](https://flagger.app/)
 - [flux](https://github.com/weaveworks/flux) - A tool for turning container images into running Kubernetes services.
-- [garden](https://github.com/garden-io/garden) - Development orchestrator for Kubernetes, containers and functions. [https://garden.io](https://garden.io)
 - [gitkube](https://github.com/hasura/gitkube) - Gitkube: Build and deploy docker images to Kubernetes using git push. [https://gitkube.sh](https://gitkube.sh/)
 - [gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers.
 - [habitus](https://github.com/cloud66/habitus) - A build flow tool for Docker. https://help.cloud66.com/habitus/
@@ -471,7 +470,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers.
 - [dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes [https://dotmesh.com](https://dotmesh.com/)
-- [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [dragonfly](https://github.com/alibaba/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification.
 - [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS [https://eksctl.io](https://eksctl.io/)
