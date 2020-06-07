@@ -4,6 +4,7 @@
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link.
 - The link should be the name of the package or project.
+- The project should be hosted on GitHub.
 - Descriptions should be clear, concise, and non-promotional.
 - Descriptions should follow the link, on the same line and end with a punctuation mark.
 

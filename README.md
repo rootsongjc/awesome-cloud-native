@@ -1,8 +1,12 @@
 # Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Go](https://github.com/rootsongjc/awesome-cloud-native/workflows/Go/badge.svg?branch=master)
 
-A curated list of awesome cloud native tools, software, and tutorials collected by [Jimmy Song](https://jimmysong.io).
+A curated list of awesome cloud native tools, software, and tutorials.
+
+Follow [#AwesomeCloudNative](https://twitter.com/hashtag/AwesomeCloudNative) hashtag on twitter to get the latest update.
 
 ### Contributing
+
+This website is hosted on GitHub Pages with [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) repository.
 
 Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**, you rock🤟!
 
@@ -185,6 +189,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Kubernetes Operators
 
+- [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes
 - [flagger](https://github.com/stefanprodan/flagger) - Istio progressive delivery Kubernetes operator [https://docs.flagger.app](https://docs.flagger.app/)
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
@@ -195,6 +200,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes http://strimzi.io/
+- [tidb-operator](https://github.com/pingcap/tidb-operator) - TiDB operator creates and manages TiDB clusters running in Kubernetes.
 
 ### Logging
 
