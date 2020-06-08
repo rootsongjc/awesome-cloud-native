@@ -561,7 +561,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial
-- [Getting-Started-with-Kubernetes](https://caylent.com/wp-content/uploads/2019/09/Getting-Started-with-Kubernetes.pdf) - Getting Started with Kubernetes by [https://caylent.com](https://caylent.com)
 - [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh [https://developer.ibm.com/indexconf/s…](https://developer.ibm.com/indexconf/sessions/#!?id=5399)
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes.
@@ -578,7 +577,6 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh - https://www.katacoda.com/mosn
-- [Understanding Kubernetes in a visual way](https://gumroad.com/l/uCxcr) - Understanding Kubernetes in a visual way By  Aurélie Vache [https://gumroad.com/l/uCxcr](https://gumroad.com/l/uCxcr)
 
 ### License
 
