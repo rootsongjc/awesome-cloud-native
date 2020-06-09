@@ -522,6 +522,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
 - [kubesql](https://github.com/xuxinkun/kubesql) - A tool using sql to query the resources of kubernetes, such as pod, node and so on.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
+- [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens [https://blog.sbstp.ca/introducing-kubie/](https://blog.sbstp.ca/introducing-kubie/)
 - [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
