@@ -24,6 +24,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Kubernetes Operators](#kubernetes-operators)
   - [Logging](#logging)
   - [Message Broker](#message-broker)
+  - [Miscellaneous](#miscellaneous)
   - [Monitoring](#monitoring)
   - [Network](#network)
   - [Observability](#observability)
@@ -312,6 +313,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
 - [rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+
+### Miscellaneous
+
+- [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 
 ### Monitoring
 
