@@ -534,6 +534,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH
 - [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps
+- [pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a k8 service
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
