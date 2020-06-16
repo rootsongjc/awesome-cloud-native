@@ -272,6 +272,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [supergiant](https://github.com/supergiant/supergiant) - Automatically scale hardware and easily run stateful applications using Kubernetes. <https://supergiant.io/>
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems [http://vamp.io](http://vamp.io/)
+- [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 
 ### Proxy
 
