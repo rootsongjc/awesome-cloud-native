@@ -84,6 +84,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform [https://cncf.build](https://cncf.build/)
 - [crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit [https://www.shurenyun.com/product-crane.html](https://www.shurenyun.com/product-crane.html)
 - [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
+- [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 - [draft](https://github.com/azure/draft) - A tool for developers to create cloud-native applications on Kubernetes. [https://draft.sh](https://draft.sh)
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io/)
