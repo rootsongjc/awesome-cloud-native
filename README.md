@@ -263,6 +263,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS) [https://flynn.io](https://flynn.io/)
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
+- [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform https://kubesphere.io
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
