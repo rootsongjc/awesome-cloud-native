@@ -1,8 +1,12 @@
 # Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Go](https://github.com/rootsongjc/awesome-cloud-native/workflows/Go/badge.svg?branch=master)
 
-A curated list of awesome cloud native tools, software, and tutorials collected by [Jimmy Song](https://jimmysong.io).
+A curated list of awesome cloud native tools, software, and tutorials.
+
+Follow [#AwesomeCloudNative](https://twitter.com/hashtag/AwesomeCloudNative) hashtag on twitter to get the latest update.
 
 ### Contributing
+
+This website is hosted on GitHub Pages with [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) repository.
 
 Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**, you rock🤟!
 
@@ -20,6 +24,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
   - [Kubernetes Operators](#kubernetes-operators)
   - [Logging](#logging)
   - [Message Broker](#message-broker)
+  - [Miscellaneous](#miscellaneous)
   - [Monitoring](#monitoring)
   - [Network](#network)
   - [Observability](#observability)
@@ -47,7 +52,8 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://autumnai.com/leaf/book>
 - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） http://www.paddlepaddle.org/http://www.paddlepaddle.org/)
 - [predictionio](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.[https://predictionio.incubator.apache…](https://predictionio.incubator.apache.org/)
-- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration [https://pytorch.org](https://pytorch.org/)https://pytorch.org)
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration [https://pytorch.org](https://pytorch.org/)https://pytorch.org
+- [seldon-core](https://github.com/SeldonIO/seldon-core) - A framework to deploy, manage and scale your production machine learning to thousands of models
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together. [https://sqlflow.org](https://sqlflow.org/)
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning [http://tensorflow.org](http://tensorflow.org/)
 
@@ -78,6 +84,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform [https://cncf.build](https://cncf.build/)
 - [crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit [https://www.shurenyun.com/product-crane.html](https://www.shurenyun.com/product-crane.html)
 - [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
+- [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 - [draft](https://github.com/azure/draft) - A tool for developers to create cloud-native applications on Kubernetes. [https://draft.sh](https://draft.sh)
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io/)
@@ -109,6 +116,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
 - [lastbackend](https://github.com/lastbackend/lastbackend) - Container orchestration with CI&CD, cli and amazing UI [https://lastbackend.com](https://lastbackend.com/)
+- [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource.
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource. [https://tekton.dev](https://tekton.dev/)
@@ -176,6 +184,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Fault Tolerant
 
+- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes
 - [concurrency-limits](https://github.com/Netflix/concurrency-limits) - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
@@ -185,16 +194,19 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Kubernetes Operators
 
+- [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes
 - [flagger](https://github.com/stefanprodan/flagger) - Istio progressive delivery Kubernetes operator [https://docs.flagger.app](https://docs.flagger.app/)
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates [https://keel.sh](https://keel.sh/)
 - [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code. [https://kopf.readthedocs.io](https://kopf.readthedocs.io/)
 - [kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO) [https://kudo.dev](https://kudo.dev/)
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
+- [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. <https://coreos.com/operators>
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes<https://coreos.com/operators/prometheus>
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes http://strimzi.io/
+- [tidb-operator](https://github.com/pingcap/tidb-operator) - TiDB operator creates and manages TiDB clusters running in Kubernetes.
 
 ### Logging
 
@@ -252,8 +264,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS) [https://flynn.io](https://flynn.io/)
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
+- [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform https://kubesphere.io
+- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by [weibo.com](https://weibo.com)
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers [http://www.openshift.org](http://www.openshift.org/)
 - [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.[http://www.rainbond.com](http://www.rainbond.com/)
@@ -261,6 +275,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [supergiant](https://github.com/supergiant/supergiant) - Automatically scale hardware and easily run stateful applications using Kubernetes. <https://supergiant.io/>
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems [http://vamp.io](http://vamp.io/)
+- [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
 
 ### Proxy
 
@@ -298,6 +313,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Message Broker
 
+- [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era
 - [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 - [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system. [https://nats.io](https://nats.io/)
 - [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)<https://twitter.com/travisjeffery>
@@ -305,6 +321,10 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
 - [rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+
+### Miscellaneous
+
+- [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 
 ### Monitoring
 
@@ -455,6 +475,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 ### Tools
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML.
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [http://www.heptio.com](http://www.heptio.com/)
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [http://chaostoolkit.org](http://chaostoolkit.org/)
 - [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
@@ -485,6 +506,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
+- [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.<https://ksonnet.io/>
 - [ksync](https://github.com/vapor-ware/ksync) -  Sync files between your local system and a kubernetes cluster. <https://vapor-ware.github.io/ksync>
@@ -515,12 +537,17 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
 - [kubesql](https://github.com/xuxinkun/kubesql) - A tool using sql to query the resources of kubernetes, such as pod, node and so on.
+- [kubetap](https://github.com/soluble-ai/kubetap) - Kubectl plugin to interactively proxy Kubernetes Services with ease
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
 - [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens [https://blog.sbstp.ca/introducing-kubie/](https://blog.sbstp.ca/introducing-kubie/)
 - [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH
+- [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps
+- [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a k8 service
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
 - [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it! [https://www.stakater.com/projects-overview.html](https://www.stakater.com/projects-overview.html)
@@ -530,6 +557,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[http://www.heptio.com](http://www.heptio.com/)
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stash](https://github.com/appscode/stash) - 🛅 Backup your Kubernetes Volumes by <htts://appscode.com>
+- [statusbasy](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
 - [talos](https://github.com/talos-systems/talos) - A modern OS for Kubernetes. [https://www.talos.dev](https://www.talos.dev/)
@@ -542,6 +570,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges.
 - [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments. [https://www.vagrantup.com](https://www.vagrantup.com/)
 - [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers.
+- [wksctl](https://github.com/weaveworks/wksctl) - Open Source Weaveworks Kubernetes System
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - a spreadsheet to control your Kubernetes cluster https://learnk8s.io/real-time-dashboard
 
 ### Tracing
@@ -577,6 +606,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh - https://www.katacoda.com/mosn
+- [rpi-handbook](https://github.com/rootsongjc/rpi-handbook) - Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook
 
 ### License
 
