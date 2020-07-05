@@ -70,9 +70,11 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 
 - [argo-cd](https://github.com/argoproj/argo-cd/) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
 - [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
+- [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
 - [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
 - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
+- [beetle](https://github.com/Clivern/Beetle) - 🔥 Kubernetes multi-cluster deployment automation service.
 - [binderhub](https://github.com/jupyterhub/binderhub) - Deterministically build docker images from a git repository + commit [https://binderhub.readthedocs.io](https://binderhub.readthedocs.io/)
 - [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming [https://cdk8s.io](https://cdk8s.io/)
@@ -105,6 +107,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [jx](https://github.com/jenkins-x/jx) - A command line tool for installing and working with Jenkins X <http://jenkins-x.io/>
 - [kaniko](https://github.com/GoogleCloudPlatform/kaniko) - Build Container Images In Kubernetes.
 - [kd](https://github.com/UKHomeOffice/kd) - Minimalistic kubernetes resources deployment tool with templating.
+- [kdo](https://github.com/stepro/kdo) - Deployless Development on Kubernetes
 - [kedge](https://github.com/kedgeproject/kedge) - Kedge - Concise Application Definition for Kubernetes [http://kedgeproject.org](http://kedgeproject.org/)
 - [kenyata](https://github.com/spinnaker/kayenta) - Automated Canary Service.
 - [keptn](https://github.com/keptn/keptn) - keptn is a control-plane for continuous delivery and operations enable cloud-native applications to run autonomously [https://keptn.sh](https://keptn.sh/)
@@ -439,6 +442,7 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [ironfunctions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform. [http://iron.io](http://iron.io/)
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes [https://keda.sh](https://keda.sh/)
 - [knative-lambda-runtime](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters [https://triggermesh.com](https://triggermesh.com/)
+- [knix](https://github.com/knix-microfunctions/knix) - KNIX MicroFunctions is a serverless computing platform that combines container-based resource isolation with a lightweight execution model using processes to significantly improve resource efficiency and decrease the function startup latency. KNIX MicroFunctions works in Knative as well as bare metal or virtual machine-based environments.
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework [http://kubeless.io](http://kubeless.io/)
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform.
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes [https://blog.alexellis.io/introducing-functions-as-a-service/](https://blog.alexellis.io/introducing-functions-as-a-service/)
