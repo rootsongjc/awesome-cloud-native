@@ -6,7 +6,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [Join the Cloud Native Community](https://cloudnative.to)
 
-### Contents
+## Contents
 
 - [AI](#ai)
 - [API Gateway](#api-gateway)
@@ -42,7 +42,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch. [http://www.allennlp.org](http://www.allennlp.org/)
 - [caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. [https://caffe2.ai](https://caffe2.ai/)
 - [elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework [https://elasticdl.org](https://elasticdl.org/)
-- [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...) [http://h2o.ai](http://h2o.ai/)
+- [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles.) [http://h2o.ai](http://h2o.ai/)
 - [keras](https://github.com/keras-team/keras) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. [http://keras.io/](http://keras.io/)
 - [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes. [https://www.kubeflow.org](https://www.kubeflow.org/)
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://autumnai.com/leaf/book>
@@ -64,17 +64,17 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ### Application Delivery
 
-- [argo-cd](https://github.com/argoproj/argo-cd/) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
+- [argo-cd](https://github.com/argoproj/argo-cd/) - Declarative continuous deployment for Kubernetes. [https://argoproj.github.io/argo-cd/](https://argoproj.github.io/argo-cd/)
 - [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
-- [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers
+- [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers.
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
 - [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
 - [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - Ballerina is a new programming language for integration built on a sequence diagram metaphor.
-- [beetle](https://github.com/Clivern/Beetle) - 🔥 Kubernetes multi-cluster deployment automation service.
+- [beetle](https://github.com/Clivern/Beetle) - Kubernetes multi-cluster deployment automation service.
 - [binderhub](https://github.com/jupyterhub/binderhub) - Deterministically build docker images from a git repository + commit [https://binderhub.readthedocs.io](https://binderhub.readthedocs.io/)
 - [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming [https://cdk8s.io](https://cdk8s.io/)
-- [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform <https://ovh.github.io/cds/>
+- [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform [https://ovh.github.io/cds/](https://ovh.github.io/cds/)
 - [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
 - [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification [https://cnab.io](https://cnab.io/)
@@ -95,7 +95,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager.
 - [helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web and cli application framework with dependency injection support [https://hiboot.hidevops.io](https://hiboot.hidevops.io/)
-- [hygieia](https://github.com/capitalone/Hygieia) - CapitalOne DevOps Dashboard <http://hygieia.github.io/Hygieia>
+- [hygieia](https://github.com/capitalone/Hygieia) - CapitalOne DevOps Dashboard [http://hygieia.github.io/Hygieia](http://hygieia.github.io/Hygieia)
 - [hyscale](https://github.com/hyscale/hyscale) - All things HyScale https://www.hyscale.io/
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server https://jenkins.io/
 - [jib](https://github.com/GoogleContainerTools/jib) -  ⛵️ Build container images for your Java applications.
@@ -120,7 +120,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource. [https://tekton.dev](https://tekton.dev/)
 - [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team.
-- [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
+- [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification.
 - [skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Easy and Repeatable Kubernetes Development.
 - [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder.
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images.
@@ -550,13 +550,13 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a k8 service
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
-- [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it! [https://www.stakater.com/projects-overview.html](https://www.stakater.com/projects-overview.html)
-- [searchlight](https://github.com/appscode/searchlight) - 🔦 Alerts for Kubernetes.
+- [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig [https://www.stakater.com/projects-overview.html](https://www.stakater.com/projects-overview.html)
+- [searchlight](https://github.com/appscode/searchlight) - Alerts for Kubernetes.
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
 - [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[http://www.heptio.com](http://www.heptio.com/)
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
-- [stash](https://github.com/appscode/stash) - 🛅 Backup your Kubernetes Volumes by <htts://appscode.com>
+- [stash](https://github.com/appscode/stash) - Backup your Kubernetes Volumes by <htts://appscode.com>
 - [statusbasy](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
