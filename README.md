@@ -1,45 +1,41 @@
 # Awesome Cloud Native[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Go](https://github.com/rootsongjc/awesome-cloud-native/workflows/Go/badge.svg?branch=master)
 
-A curated list of awesome cloud native tools, software, and tutorials.
+> A curated list of cloud native tools, software, and tutorials.
 
-Follow [#AwesomeCloudNative](https://twitter.com/hashtag/AwesomeCloudNative) hashtag on twitter to get the latest update.
+Cloud Native is a behavior and design philosophy. At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
-### Contributing
-
-This website is hosted on GitHub Pages with [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) repository.
-
-Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**, you rock🤟!
+- [Join the Cloud Native Community](https://cloudnative.to)
 
 ### Contents
 
-- Awesome Cloud Native
-  - [AI](#ai)
-  - [API Gateway](#api-gateway)
-  - [Application Delivery](#application-delivery)
-  - [Big Data](#big-data)
-  - [Container Runtime](#container-runtime)
-  - [Database](#database)
-  - [Edge Computing](#edge-computing)
-  - [Fault Tolerant](#fault-tolerant)
-  - [Kubernetes Operators](#kubernetes-operators)
-  - [Logging](#logging)
-  - [Message Broker](#message-broker)
-  - [Miscellaneous](#miscellaneous)
-  - [Monitoring](#monitoring)
-  - [Network](#network)
-  - [Observability](#observability)
-  - [Orchestration and Scheduler](#orchestration-and-scheduler)
-  - [PaaS Manager](#paas-manager)
-  - [Proxy](#proxy)
-  - [RPC](#rpc)
-  - [Security and Audit](#security-and-audit)
-  - [Service Mesh](#service-mesh)
-  - [Service Registry and Discovery](#service-registry-and-discovery)
-  - [Serverless](#serverless)
-  - [Storage](#storage)
-  - [Tracing](#tracing)
-  - [Tools](#tools)
-  - [Tutorials](#tutorials)
+- [AI](#ai)
+- [API Gateway](#api-gateway)
+- [Application Delivery](#application-delivery)
+- [Big Data](#big-data)
+- [Container Runtime](#container-runtime)
+- [Database](#database)
+- [Edge Computing](#edge-computing)
+- [Fault Tolerant](#fault-tolerant)
+- [Kubernetes Operators](#kubernetes-operators)
+- [Logging](#logging)
+- [Message Broker](#message-broker)
+- [Miscellaneous](#miscellaneous)
+- [Monitoring](#monitoring)
+- [Network](#network)
+- [Observability](#observability)
+- [Orchestration and Scheduler](#orchestration-and-scheduler)
+- [PaaS Manager](#paas-manager)
+- [Proxy](#proxy)
+- [RPC](#rpc)
+- [Security and Audit](#security-and-audit)
+- [Service Mesh](#service-mesh)
+- [Service Registry and Discovery](#service-registry-and-discovery)
+- [Serverless](#serverless)
+- [Storage](#storage)
+- [Tracing](#tracing)
+- [Tools](#tools)
+- [Tutorials](#tutorials)
+- [Community](#community)
 
 ### AI
 
@@ -612,7 +608,19 @@ Please take a quick gander at the **[contribution guidelines](https://github.com
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh - https://www.katacoda.com/mosn
 - [rpi-handbook](https://github.com/rootsongjc/rpi-handbook) - Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook
 
-### License
+## Community
+
+- [Cloud Native Community](https://cloudnative.to)
+- [Cloud Native Computing Foundation](https://cncf.io)
+- [ServiceMesher](https://www.servicemesher.com)
+
+## Contribute
+
+This website is hosted on GitHub Pages with [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) repository.
+
+Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**, you rock🤟!
+
+## License
 
 [![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](https://creativecommons.org/publicdomain/zero/1.0/)
 
