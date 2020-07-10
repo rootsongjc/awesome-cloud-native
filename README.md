@@ -533,6 +533,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development. [https://imti.co/kubernetes-port-forwarding](https://imti.co/kubernetes-port-forwarding/)
 - [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers.
 - [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes. <https://kubeiql.io/>
+- [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
 - [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3 [http://fabric8.io](http://fabric8.io/)
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
 - [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
@@ -540,6 +541,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubetap](https://github.com/soluble-ai/kubetap) - Kubectl plugin to interactively proxy Kubernetes Services with ease.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
 - [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens [https://blog.sbstp.ca/introducing-kubie/](https://blog.sbstp.ca/introducing-kubie/)
+- [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
 - [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap [https://microk8s.io](https://microk8s.io/)
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
@@ -557,7 +559,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[http://www.heptio.com](http://www.heptio.com/)
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stash](https://github.com/appscode/stash) - Backup your Kubernetes Volumes by <htts://appscode.com>
-- [statusbasy](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
+- [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [http://swagger.io](http://swagger.io/)
 - [talos](https://github.com/talos-systems/talos) - A modern OS for Kubernetes. [https://www.talos.dev](https://www.talos.dev/)
