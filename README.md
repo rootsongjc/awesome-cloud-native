@@ -57,7 +57,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [ambassador](https://github.com/datawire/ambassador) - Ambassador: a self-service API gateway for microservices built on Lyft Envoy [http://www.getambassador.io](http://www.getambassador.io/)
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS [https://www.express-gateway.io](https://www.express-gateway.io/)
-- [kong](https://github.com/Mashape/kong) - 🐒 The Microservice API Gateway <https://getkong.org/install>
+- [kong](https://github.com/Mashape/kong) - The Microservice API Gateway <https://getkong.org/install>
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares. <http://krakend.io/>
 - [orange](https://github.com/sumory/orange) - OpenResty/Nginx Gateway for API Monitoring and Management. [http://orange.sumory.com](http://orange.sumory.com/)
 - [ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway. [http://threemammals.com/ocelot](http://threemammals.com/ocelot)
@@ -75,12 +75,12 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming [https://cdk8s.io](https://cdk8s.io/)
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
-- [charitify](https://github.com/appscode/chartify) - 📈 Generate Helm Charts from Kubernetes objects by <https://appscode.com>
+- [charitify](https://github.com/appscode/chartify) - Generate Helm Charts from Kubernetes objects by <https://appscode.com>
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
 - [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification [https://cnab.io](https://cnab.io/)
 - [commandeer](https://github.com/commandeer/open) - Cloud management desktop app for macOS, Windows, and Linux [https://getcommandeer.com](https://getcommandeer.com)
-- [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform [https://cncf.build](https://cncf.build/)
-- [crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit [https://www.shurenyun.com/product-crane.html](https://www.shurenyun.com/product-crane.html)
+- [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform.
+- [crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit.
 - [cross-cloud](https://github.com/cncf/cross-cloud/) - Cross Cloud Continuous Integration [https://cncf.io](https://cncf.io/)
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration.
 - [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
@@ -226,7 +226,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.
 - [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 - [gnatsd](https://github.com/nats-io/gnatsd) - High-Performance server for NATS, the cloud native messaging system. [https://nats.io](https://nats.io/)
-- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)<https://twitter.com/travisjeffery>
+- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) <https://twitter.com/travisjeffery>
 - [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform [http://nsq.io/](http://nsq.io/)
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
@@ -275,7 +275,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [envoy-ui](https://github.com/Nitro/envoy-ui) - Dead simple server-side UI for Envoy proxy (like HAproxy stats).
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
-- [kiali](https://github.com/kiali/kiali) - `kiali` project to help istio service mesh observability.
+- [kiali](https://github.com/kiali/kiali) - Kiali project to help istio service mesh observability.
 - [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters [https://kubernetes-operational-view.readthedocs.io](https://kubernetes-operational-view.readthedocs.io/)
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
@@ -298,7 +298,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp. [https://www.serf.io/](https://www.serf.io/)
 - [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. [https://docs.microsoft.com/en-us/azure/service-fabric](https://docs.microsoft.com/en-us/azure/service-fabric/)
-- [swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg [https://www.shurenyun.com/product-swan.html](https://www.shurenyun.com/product-swan.html)
+- [swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg.
 - [swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system.
 
 ## PaaS Manager
@@ -309,7 +309,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically. [https://conjure-up.io](https://conjure-up.io/)
 - [crossplane](https://github.com/crossplaneio/crossplane) - An Open Source Multicloud Control Plane [https://crossplane.io](https://crossplane.io/)
 - [dc/os](https://github.com/dcos) - Datacenter Operating System.
-- [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. [https://deis.com/docs/](https://deis.com/docs/)
+- [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS) [https://flynn.io](https://flynn.io/)
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
@@ -332,7 +332,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [envoy-docker-shim](https://github.com/Nitro/envoy-docker-shim) - Run Envoy in place of docker-proxy.
 - [envoy](https://github.com/lyft/envoy) - C++ front/service proxy [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
 - [gimbal](https://github.com/heptio/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio. [https://www.heptio.com](https://www.heptio.com/)
-- [gobetween](https://github.com/yyyar/gobetween) - ☁️ Modern & minimalistic load balancer for the Сloud era [http://gobetween.io](http://gobetween.io/)
+- [gobetween](https://github.com/yyyar/gobetween) - Modern & minimalistic load balancer for the Сloud era [http://gobetween.io](http://gobetween.io/)
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
 - [kEdge](https://github.com/improbable-eng/kedge) - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices.
 - [katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer.
@@ -345,7 +345,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress.
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy [https://traefik.io](https://traefik.io/)
-- [voyager](https://github.com/appscode/voyager) - ✈️️ Secure Ingress Controller for Kubernetes by <https://appscode.com>
+- [voyager](https://github.com/appscode/voyager) - Secure Ingress Controller for Kubernetes by <https://appscode.com>
 
 ## RPC
 
@@ -372,7 +372,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [dockscan](https://github.com/kost/dockscan) - Dockscan is security vulnerability and audit scanner for Docker installations.
 - [drydock](https://github.com/zuBux/drydock) - Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 - [falco](https://github.com/draios/falco) - Behavioral Activity Monitoring With Container Support.
-- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API [https://vault-ui.io](https://vault-ui.io/)
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes.
@@ -381,7 +381,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
 - [kube-lego](https://github.com/jetstack/kube-lego) - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt.
 - [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes.
-- [kubed](https://github.com/appscode/kubed) - 🛡️ A Kubernetes Cluster Operator Daemon by <https://appscode.com>
+- [kubed](https://github.com/appscode/kubed) - A Kubernetes Cluster Operator Daemon by <https://appscode.com>
 - [notary](https://github.com/docker/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data [https://docker.com](https://docker.com/)
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service. [http://openpolicyagent.org](http://openpolicyagent.org/)
 - [openscap](https://www.open-scap.org/) - Discover a wide array of tools for managing system security and standards compliance.
@@ -396,10 +396,9 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [conduit](https://conduit.io) - The Ultralight Service Mesh for Kubernetes [https://conduit.io](https://conduit.io/)
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. [https://www.consul.io](https://www.consul.io)
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. [https://istio.io](https://istio.io/)
-- [kuma](https://github.com/Kong/kuma) - 🐻 Universal Control Plane for your Service Mesh https://kuma.io/install
+- [kuma](https://github.com/Kong/kuma) - Universal Control Plane for your Service Mesh https://kuma.io/install
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps [https://linkerd.io](https://linkerd.io/)
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh [https://mae.sh](https://mae.sh/)
-- [mesher](https://github.com/go-chassis/mesher) -  A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis).
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud.
@@ -417,7 +416,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [service-broker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification <https://openservicebrokerapi.org/>
 - [service-catalog](https://github.com/kubernetes-incubator/service-catalog) - Consume services in Kubernetes using the Open Service Broker API.
 - [skydns](https://github.com/skynetservices/skydns1) - DNS for skynet or any other service discovery.
-- [steward](https://github.com/deis/steward) - The Kubernetes-native Service Broker. [https://deis.com/](https://deis.com/)
+- [steward](https://github.com/deis/steward) - The Kubernetes-native Service Broker.
 - [synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA.
 - [vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd [http://vulcand.readthedocs.io/](http://vulcand.readthedocs.io/)
 - [zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
@@ -428,7 +427,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [dispatch](https://github.com/vmware/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
 - [eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery.
 - [faas-netes](https://github.com/alexellis/faas-netes) - Enable Kubernetes as a backend for Functions as a Service (OpenFaaS).
-- [firecamp](https://github.com/cloudstax/firecamp) - Serverless Platform for the stateful services [https://www.cloudstax.io](https://www.cloudstax.io/)
+- [firecamp](https://github.com/cloudstax/firecamp) - Serverless Platform for the stateful services.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. [http://firecracker-microvm.io](http://firecracker-microvm.io/)
 - [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes http://fission.io
 - [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform. [http://fnproject.io](http://fnproject.io/)
@@ -457,7 +456,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed storage system for cloud native applications http://chubao.io/
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
-- [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application https://clusterhq.com
+- [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application.
 - [glusterd2](https://github.com/gluster/glusterd2) -  GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. https://goharbor.io/
@@ -508,7 +507,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes [http://ksonnet.heptio.com](http://ksonnet.heptio.com/)
-- [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.<https://ksonnet.io/>
+- [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 - [ksync](https://github.com/vapor-ware/ksync) -  Sync files between your local system and a kubernetes cluster.
 - [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
@@ -532,7 +531,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubedirector](https://github.com/bluek8s/kubedirector) - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development. [https://imti.co/kubernetes-port-forwarding](https://imti.co/kubernetes-port-forwarding/)
 - [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers.
-- [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes. <https://kubeiql.io/>
+- [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes.
 - [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
 - [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3 [http://fabric8.io](http://fabric8.io/)
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
@@ -552,7 +551,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a Kubernetes service.
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker [http://portainer.io](http://portainer.io/)
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
-- [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig [https://www.stakater.com/projects-overview.html](https://www.stakater.com/projects-overview.html)
+- [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
 - [searchlight](https://github.com/appscode/searchlight) - Alerts for Kubernetes.
 - [skopeo](https://github.com/projectatomic/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
