@@ -587,7 +587,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system [https://zipkin.io/](https://zipkin.io/)
 
 ## Tutorials
-
+- [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices/) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial.
