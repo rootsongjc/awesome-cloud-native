@@ -1,4 +1,4 @@
-# Awesome Cloud Native [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Cloud Native [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme )
 
 > A curated list of cloud native tools, software, and tutorials.
 
@@ -43,7 +43,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. [https://caffe2.ai](https://caffe2.ai/)
 - [elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework.
 - [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles.) [https://www.h2o.ai/](https://www.h2o.ai/)
-- [keras](https://github.com/keras-team/keras) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. [https://keras.io/](https://keras.io/)
+- [keras](https://github.com/keras-team/keras) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes. [https://www.kubeflow.org](https://www.kubeflow.org/)
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) <http://ww1.autumnai.com>
 - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） https://www.paddlepaddle.org.cn:443/http:/www.paddlepaddle.org/)
@@ -128,7 +128,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. [https://spinnaker.io/](https://spinnaker.io/)
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently. [https://www.terraform.io/](https://www.terraform.io/)
 - [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes [https://tilt.dev/](https://tilt.dev/)
-- [wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection. [https://www.oracle.com/corporate/acquisitions/wercker/index.html](https://www.oracle.com/corporate/acquisitions/wercker/index.html)
+- [wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection.
 - [woodpecker](https://github.com/laszlocph/woodpecker) - Fork of drone.io v0.8 since drone is not fully opensource anymore. [https://woodpecker.laszlo.cloud](https://woodpecker.laszlo.cloud)
 
 ## Big Data
@@ -330,7 +330,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
 - [envoy-docker-shim](https://github.com/Nitro/envoy-docker-shim) - Run Envoy in place of docker-proxy.
 - [envoy](https://github.com/envoyproxy/envoy) - C++ front/service proxy [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
-- [gimbal](https://github.com/projectcontour/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio. [https://cloud.vmware.com/tanzu/](https://cloud.vmware.com/tanzu/)
+- [gimbal](https://github.com/projectcontour/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio.
 - [gobetween](https://github.com/yyyar/gobetween) - Modern & minimalistic load balancer for the Сloud era [http://gobetween.io](http://gobetween.io/)
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
 - [kEdge](https://github.com/improbable-eng/kedge) - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices.
@@ -474,7 +474,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Tools
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/latest/index.html
-- [ark](https://github.com/vmware-tanzu/velero) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio. [https://cloud.vmware.com/tanzu//](https://cloud.vmware.com/tanzu//)
+- [ark](https://github.com/vmware-tanzu/velero) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering [https://chaostoolkit.org/](https://chaostoolkit.org/)
 - [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
@@ -554,12 +554,12 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [searchlight](https://github.com/searchlight/searchlight) - Alerts for Kubernetes.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
-- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.[https://cloud.vmware.com/tanzu//](https://cloud.vmware.com/tanzu//)
+- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stash](https://github.com/stashed/stash) - Backup your Kubernetes Volumes by <htts://appscode.com>
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
-- [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. [https://swagger.io/](https://swagger.io/)
+- [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [talos](https://github.com/talos-systems/talos) - A modern OS for Kubernetes. [https://www.talos.dev](https://www.talos.dev/)
 - [tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more.
 - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster [https://www.telepresence.io/](https://www.telepresence.io/)
@@ -601,7 +601,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring.
 - [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 - https://jimmysong.io/kubernetes-handbook/
 - [kubernetes-java-simple](https://github.com/arun-gupta/kubernetes-java-sample) - Kubernetes Hands-on Workshop for Java Developers.
-- [kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) -Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
+- [kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
