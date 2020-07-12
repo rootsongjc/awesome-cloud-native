@@ -1,4 +1,4 @@
-# Awesome Cloud Native [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Cloud Native [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of cloud native tools, software, and tutorials.
 
@@ -401,7 +401,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [nginmesh](https://github.com/nginxinc/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud.
-- [supergloo](https://github.com/solo-io/service-mesh-hub) - The Service Mesh Orchestration Platform [https://docs.solo.io/service-mesh-hub/latest/](https://docs.solo.io/service-mesh-hub/latest/)
+- [supergloo](https://github.com/solo-io/service-mesh-hub) - The Service Mesh Orchestration Platform.
 
 ## Service Registry and Discovery
 
