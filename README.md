@@ -179,6 +179,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project.
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s. [https://k3s.io](https://k3s.io/)
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF) [https://kubeedge.io](https://kubeedge.io/)
+- [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
 - [openyurt](https://github.com/alibaba/openyurt) - Extending your native Kubernetes to the edge.
 
 ## Fault Tolerant
