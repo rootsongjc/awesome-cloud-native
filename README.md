@@ -99,7 +99,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne DevOps Dashboard.
 - [hyscale](https://github.com/hyscale/hyscale) - All things HyScale.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server.
-- [jib](https://github.com/GoogleContainerTools/jib) -  Build container images for your Java applications.
+- [jib](https://github.com/GoogleContainerTools/jib) - Build container images for your Java applications.
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language.
 - [jx](https://github.com/jenkins-x/jx) - A command line tool for installing and working with Jenkins X.
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes.
@@ -120,7 +120,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource.
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [pulumi](https://github.com/pulumi/pulumi) -  A multi-language, multi-cloud development platform -- your code, your cloud, your team.
+- [pulumi](https://github.com/pulumi/pulumi) - A multi-language, multi-cloud development platform -- your code, your cloud, your team.
 - [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development.
 - [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder.
@@ -153,7 +153,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
 - [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
 - [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime.
-- [rkt](https://github.com/rkt/rkt) - `rkt` is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 
 ## Database
 
@@ -304,7 +304,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## PaaS Manager
 
-- [breeze](https://github.com/wise2c-devops/breeze) -  Wise2C ansible playbook for Kubernetes cluster installation.
+- [breeze](https://github.com/wise2c-devops/breeze) - Wise2C ansible playbook for Kubernetes cluster installation.
 - [choerodon](https://github.com/choerodon/choerodon) - The open source PaaS for Kubernetes.
 - [cloudfoundry](https://github.com/cloudfoundry) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
 - [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically.
@@ -355,7 +355,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [grpc](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework.
 - [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [rsocket](https://github.com/rsocket) - Streaming message protocol with Reactive Extension/Stream semantics.
-- [sofa-bolt](https://github.com/sofastack/sofa-bolt) -  SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.
+- [sofa-bolt](https://github.com/sofastack/sofa-bolt) - SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.
 - [sofa-rpc](https://github.com/sofastack/sofa-rpc) - SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.
 - [tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [thrift](https://github.com/apache/thrift) - Apache thrift.
@@ -431,7 +431,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
 - [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
-- [funktion](https://github.com/funktionio/funktion/) - a CLI tool for working with funktion.
+- [funktion](https://github.com/funktionio/funktion/) - A CLI tool for working with funktion.
 - [fx](https://github.com/metrue/fx) - Poor man's serverless framework based on Docker, Function as a Service with painless.
 - [gloo](https://github.com/solo-io/gloo) - The Function Gateway built on top of Envoy.
 - [ironfunctions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform.
@@ -443,7 +443,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes.
 - [openwhisk](http://openwhisk.apache.org/) - Apache OpenWhisk (Incubating) is a serverless, open source cloud platform that executes functions in response to events at any scale.
 - [osiris](https://github.com/deislabs/osiris) - A general purpose, scale-to-zero component for Kubernetes.
-- [riff](https://github.com/projectriff/riff) - riff is for functions.
+- [riff](https://github.com/projectriff/riff) - Riff is for functions.
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification.
@@ -457,7 +457,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
 - [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application.
-- [glusterd2](https://github.com/gluster/glusterd2) -  GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
+- [glusterd2](https://github.com/gluster/glusterd2) - GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS.
@@ -508,7 +508,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - (technical preview) Simplify working with Kubernetes.
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
-- [ksync](https://github.com/ksync/ksync) -  Sync files between your local system and a kubernetes cluster.
+- [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
 - [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
@@ -525,7 +525,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale.
 - [kubecdn](https://github.com/ilhaan/kubeCDN) - Self-hosted CDN based on Kubernetes.
 - [kubecfg](https://github.com/bitnami/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
-- [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - `kubectl` cluster triage plugin for Kubernetes (brew doctor equivalent).
+- [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - Kubectl cluster triage plugin for Kubernetes (brew doctor equivalent).
 - [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl.
 - [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI to manage kubernetes ready production-grade Databases.
 - [kubedirector](https://github.com/bluek8s/kubedirector) - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
@@ -555,7 +555,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [searchlight](https://github.com/searchlight/searchlight) - Alerts for Kubernetes.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
-- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.
+- [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stash](https://github.com/stashed/stash) - Backup your Kubernetes Volumes.
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
@@ -583,7 +583,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pinpoint](https://github.com/naver/pinpoint) - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform.
 - [skywalking](https://github.com/apache/skywalking) - An APM system for tracing, monitoring, diagnosing distributed systems, especially based on microservices, cloud native and container.
-- [sofa-tracker](https://github.com/sofastack/sofa-tracer) -  SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link . These logs can be used for quick discovery of faults, service governance, etc.
+- [sofa-tracker](https://github.com/sofastack/sofa-tracer) - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link . These logs can be used for quick discovery of faults, service governance, etc.
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system.
 
 ## Tutorials
@@ -592,7 +592,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial.
 - [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical Istio服务网格进阶实战.
-- [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) -  Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh.
+- [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) - Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh.
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes.
 - [istio-service-mesh-workshop](https://github.com/layer5io/istio-service-mesh-workshop) - Using Istio Workshop.
 - [istio-tutorial](https://github.com/redhat-developer-demos/istio-tutorial) - Istio Tutorial for Java Microservices.
