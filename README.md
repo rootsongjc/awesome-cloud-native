@@ -488,6 +488,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [devspace](https://github.com/devspace-cloud/devspace) - Cloud Native Software Development with Kubernetes and Docker - simply run "devspace up" in any of your projects and start coding directly on top of Kubernetes (works with minikube, self-hosted and cloud-based clusters).
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor.
+- [docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers.
 - [dotmesh](https://github.com/dotmesh-io/dotmesh) - Dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes.
 - [dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
