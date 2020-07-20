@@ -36,7 +36,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Tracing](#tracing)
 - [Tutorials](#tutorials)
 - [Community](#community)
-- [Contribute](#contribute)
 
 ## AI
 
@@ -57,7 +56,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## API Gateway
 
 - [ambassador](https://github.com/datawire/ambassador) - Ambassador: a self-service API gateway for microservices built on Lyft Envoy.
-- [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS 
+- [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
@@ -95,7 +94,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager.
 - [helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code.
-- [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web and cli application framework with dependency injection support.
+- [hiboot](https://github.com/hidevopsio/hiboot) - Hiboot is a high performance web and cli application framework with dependency injection support.
 - [hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne DevOps Dashboard.
 - [hyscale](https://github.com/hyscale/hyscale) - All things HyScale.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server.
@@ -107,7 +106,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kdo](https://github.com/stepro/kdo) - Deployless Development on Kubernetes.
 - [kedge](https://github.com/kedgeproject/kedge) - Kedge - Concise Application Definition for Kubernetes.
 - [kenyata](https://github.com/spinnaker/kayenta) - Automated Canary Service.
-- [keptn](https://github.com/keptn/keptn) - keptn is a control-plane for continuous delivery and operations enable cloud-native applications to run autonomously.
+- [keptn](https://github.com/keptn/keptn) - Keptn is a control-plane for continuous delivery and operations enable cloud-native applications to run autonomously.
 - [kismatic](https://github.com/apprenda/kismatic) - Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations.
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes.
 - [kpt](https://github.com/GoogleContainerTools/kpt) - Kpt is a toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration data files.
@@ -187,7 +186,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）.
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [chaos-mesh](https://github.com/pingcap/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [concurrency-limits](https://github.com/Netflix/concurrency-limits) - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
 - [hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
@@ -342,7 +341,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh.
 - [nginx-kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes.
-- [nginx](https://github.com/nginx/nginx) - nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+- [nginx](https://github.com/nginx/nginx) - Nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
 - [ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress.
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy.
@@ -395,7 +394,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [kuma](https://github.com/Kong/kuma) - Universal Control Plane for your Service Mesh.
+- [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps.
 - [likerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh.
@@ -490,10 +489,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers.
-- [dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes.
+- [dotmesh](https://github.com/dotmesh-io/dotmesh) - Dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes.
 - [dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification.
-- [eksctl](https://github.com/weaveworks/eksctl) - a CLI for Amazon EKS.
+- [eksctl](https://github.com/weaveworks/eksctl) - A CLI for Amazon EKS.
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes.
 - [fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters.
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds.
@@ -575,7 +574,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers.
 - [wksctl](https://github.com/weaveworks/wksctl) - Open Source Weaveworks Kubernetes System.
-- [xlskubectl](https://github.com/learnk8s/xlskubectl) - a spreadsheet to control your Kubernetes cluster.
+- [xlskubectl](https://github.com/learnk8s/xlskubectl) - A spreadsheet to control your Kubernetes cluster.
 
 ## Tracing
 
