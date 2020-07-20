@@ -501,8 +501,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
 - [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.
 - [istio-pod-network-controller](https://github.com/sabre1041/istio-pod-network-controller) - Controller to manage Istio Pod Network.
+- [k](https://github.com/yggheim/k) - Exec into kubernetes pod easy (via kubectl).
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
+- [kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
@@ -540,6 +542,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubetap](https://github.com/soluble-ai/kubetap) - Kubectl plugin to interactively proxy Kubernetes Services with ease.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
 - [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens.
+- [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
 - [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap.
