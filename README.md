@@ -401,6 +401,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh.
 - [nginmesh](https://github.com/nginxinc/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
+- [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud.
 - [supergloo](https://github.com/solo-io/service-mesh-hub) - The Service Mesh Orchestration Platform.
 
