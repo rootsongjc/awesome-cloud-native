@@ -80,6 +80,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification.
 - [commandeer](https://github.com/commandeer/open) - Cloud management desktop app for macOS, Windows, and Linux.
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform.
+- [couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows
 - [crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit.
 - [cross-cloud](https://github.com/crosscloudci/cross-cloud) - Cross Cloud Continuous Integration.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration.
