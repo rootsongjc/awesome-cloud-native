@@ -571,6 +571,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster.
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [tensile-kube](https://github.com/virtual-kubelet/tensile-kube) - A Kubernetes Provider.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes.
 - [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges.
