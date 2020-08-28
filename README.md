@@ -463,6 +463,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS.
+- [kubefs](https://github.com/configurator/kubefs) - Mount kubernetes metadata storage as a filesystem.
 - [infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [leofs](https://leo-project.net/leofs/) - The LeoFS Storage System.
 - [longhorn](https://github.com/longhorn/longhorn) - We put storage on cows and move them around from rancher.
@@ -518,6 +519,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [ktmpl](https://github.com/InQuicker/ktmpl) - Parameterized templates for Kubernetes manifests.
 - [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
+- [kube-exec]()
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours.
 - [kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes add-on for creating and managing a cache of container images in a kubernetes cluster.
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh.
