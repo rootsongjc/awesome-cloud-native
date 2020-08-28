@@ -501,6 +501,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes.
 - [fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters.
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds.
+- [fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl.
 - [garden](https://github.com/garden-io/garden) - Development orchestrator for Kubernetes, containers and serverless functions.
 - [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
 - [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.
@@ -558,6 +559,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps.
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes.
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a Kubernetes service.
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker.
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
