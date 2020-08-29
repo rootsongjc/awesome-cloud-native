@@ -463,6 +463,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS.
+- [kubefs](https://github.com/configurator/kubefs) - Mount kubernetes metadata storage as a filesystem.
 - [infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [leofs](https://leo-project.net/leofs/) - The LeoFS Storage System.
 - [longhorn](https://github.com/longhorn/longhorn) - We put storage on cows and move them around from rancher.
@@ -500,12 +501,15 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes.
 - [fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters.
 - [freshpod](https://github.com/googlecloudplatform/freshpod) - Restart Pods on Minikube automatically on image rebuilds.
+- [fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl.
 - [garden](https://github.com/garden-io/garden) - Development orchestrator for Kubernetes, containers and serverless functions.
 - [gardener](https://github.com/gardener/gardener) - Kubernetes API server extension and controller manager providing conformant Kubernetes clusters (a.k.a. (off)shoot clusters) as a service (with day-2 ops) on Alibaba, AWS, Azure, GCP, and OpenStack.
 - [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.
 - [istio-pod-network-controller](https://github.com/sabre1041/istio-pod-network-controller) - Controller to manage Istio Pod Network.
 - [k](https://github.com/yggheim/k) - Exec into kubernetes pod easy (via kubectl).
+- [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
+- [kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
@@ -537,6 +541,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers.
 - [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes.
+- [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet.
 - [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
 - [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3.
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
@@ -554,6 +559,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps.
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes.
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a Kubernetes service.
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker.
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
