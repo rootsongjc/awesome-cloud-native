@@ -543,6 +543,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers.
 - [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes.
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet.
+- [kubeonoff](https://github.com/GambitResearch/kubeonoff) - A simple web UI for managing Kubernetes deployments.
 - [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
 - [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3.
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
