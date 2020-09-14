@@ -568,6 +568,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
 - [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
 - [searchlight](https://github.com/searchlight/searchlight) - Alerts for Kubernetes.
+- [seaworthy](https://github.com/cakehappens/seaworthy) - A CLI to verify Kubernetes resource health.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
