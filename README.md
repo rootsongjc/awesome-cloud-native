@@ -484,9 +484,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [cloud-native-sandbox](https://github.com/rootsongjc/cloud-native-sandbox) - Cloud Native Sandbox can help you setup a standalone Kubernetes and Istio environment with Docker on you own laptop.
 - [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters.
-- [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
+- [compass](https://github.com/winfordlin/Compass) - A Debugging Tool for your Kubernetes Deployments.
 - [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - Validate the structure of your container images.
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations.
+- [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container.
 - [cri-tools](https://github.com/kubernetes-sigs/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
 - [devspace](https://github.com/devspace-cloud/devspace) - Cloud Native Software Development with Kubernetes and Docker - simply run "devspace up" in any of your projects and start coding directly on top of Kubernetes (works with minikube, self-hosted and cloud-based clusters).
@@ -509,6 +510,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [k](https://github.com/yggheim/k) - Exec into kubernetes pod easy (via kubectl).
 - [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
+- [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
 - [kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances.
@@ -542,6 +544,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers.
 - [kubeiql](https://github.com/yipeeio/kubeiql) - A GraphQL interface for Kubernetes.
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet.
+- [kubeload](https://github.com/Efrat19/kubeload) - Jobs managing K8S operator for IAC-oriented load tests.
+- [kubeonoff](https://github.com/GambitResearch/kubeonoff) - A simple web UI for managing Kubernetes deployments.
 - [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
 - [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3.
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
@@ -552,6 +556,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens.
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
+- [kvdi](https://github.com/tinyzimmer/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure.
 - [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
@@ -565,6 +570,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
 - [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
 - [searchlight](https://github.com/searchlight/searchlight) - Alerts for Kubernetes.
+- [seaworthy](https://github.com/cakehappens/seaworthy) - A CLI to verify Kubernetes resource health.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
