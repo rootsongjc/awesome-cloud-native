@@ -538,6 +538,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubecfg](https://github.com/bitnami/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
 - [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - Kubectl cluster triage plugin for Kubernetes (brew doctor equivalent).
 - [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl.
+- [kubectl-tree](kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
 - [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI to manage kubernetes ready production-grade Databases.
 - [kubedirector](https://github.com/bluek8s/kubedirector) - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -550,9 +551,11 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift 3.
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
+- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [kubesql](https://github.com/xuxinkun/kubesql) - A tool using sql to query the resources of kubernetes, such as pod, node and so on.
 - [kubetap](https://github.com/soluble-ai/kubetap) - Kubectl plugin to interactively proxy Kubernetes Services with ease.
 - [kubeup](https://github.com/kubeup/archon) - Cluster operation the Kubernetes way.
+- [kubeutr](https://github.com/mr-karan/kubekutr) - Cookie cutter templating tool for scaffolding K8s manifests.
 - [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens.
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
@@ -567,6 +570,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes.
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a Kubernetes service.
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker.
+- [powerfulseal](https://github.com/powerfulseal/powerfulseal)- A powerful testing tool for Kubernetes clusters.
+- [rafter](https://github.com/kyma-project/rafter) - Kubernetes-native S3-like files/assets store based on CRDs and powered by MinIO.
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
 - [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
 - [searchlight](https://github.com/searchlight/searchlight) - Alerts for Kubernetes.
