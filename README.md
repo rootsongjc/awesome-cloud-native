@@ -215,6 +215,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [beats](https://github.com/elastic/beats) - Beats - Lightweight shippers for Elasticsearch & Logstash.
 - [collectbeat](https://github.com/eBay/collectbeat) - Beats with discovery capabilities for environments like Kubernetes.
+- [dagger](https://github.com/CloudmindsRobot/dagger) - Dagger 是一个基于 Loki 的日志查询和管理系统.
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
 - [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log/Data Forwarder for Linux, BSD and macOS.
 - [fluentd-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs in docker containers.
