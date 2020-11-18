@@ -1,10 +1,13 @@
 # Awesome Cloud Native [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of cloud native tools, software, and tutorials.
+> A curated list of open-source cloud native tools, software, and tutorials.
+>
+> 云原生开源工具、软件、教程大全。
 
 Cloud Native is a behavior and design philosophy. At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
-- [Join the Cloud Native Community](https://cloudnative.to)
+- [Join the Cloud Native Community (China)](https://cloudnative.to)
+- [加入云原生社区](https://mp.weixin.qq.com/s/vWlSdzz2MNdXRr0sd2-LFg)
 
 ## Contents
 
@@ -641,12 +644,12 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Community
 
-- [Cloud Native Community](https://cloudnative.to)
+- [Cloud Native Community (China)](https://cloudnative.to)
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
 - [ServiceMesher](https://www.servicemesher.com)
 
 ## Contribute
 
-This website is hosted on GitHub Pages with [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) repository.
+This website is hosted on GitHub Pages within [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) repository.
 
 Please take a quick gander at the **[contribution guidelines](https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md)** first. Thanks to all **[contributors](https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors)**, you rock 🤟!
