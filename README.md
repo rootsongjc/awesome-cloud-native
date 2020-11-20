@@ -183,6 +183,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
 - [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device.
 - [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project.
+- [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes.
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF).
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
