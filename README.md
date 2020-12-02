@@ -319,6 +319,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [crossplane](https://github.com/crossplane/crossplane) - An Open Source Multicloud Control Plane.
 - [dc/os](https://github.com/dcos) - Datacenter Operating System.
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
+- [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS).
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
