@@ -392,7 +392,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-lego](https://github.com/jetstack/kube-lego) - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt.
 - [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes.
 - [kubed](https://github.com/appscode/kubed) - A Kubernetes Cluster Operator Daemon.
-- [kyverno](https://github.com/kyverno/kyverno/) - Kubernetes Native Policy Management
+- [kyverno](https://github.com/kyverno/kyverno/) - Kubernetes Native Policy Management.
 - [notary](https://github.com/theupdateframework/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data.
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service.
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
