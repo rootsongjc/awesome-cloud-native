@@ -80,6 +80,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
 - [charitify](https://github.com/kubepack/chartify) - Generate Helm Charts from Kubernetes objects.
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
+- [cloudbase-framework](https://github.com/Tencent/cloudbase-framework) - 🚀 A front-end and back-end integrated deployment tool 🔥 One-click deploy to serverless architecture. 云原生一体化部署工具 CloudBase Framework.
 - [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification.
 - [commandeer](https://github.com/commandeer/open) - Cloud management desktop app for macOS, Windows, and Linux.
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform.
