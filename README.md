@@ -155,6 +155,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
 - [podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
