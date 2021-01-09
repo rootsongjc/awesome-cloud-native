@@ -192,7 +192,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF).
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
 - [openyurt](https://github.com/alibaba/openyurt) - Extending your native Kubernetes to the edge.
-- [sueredge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
+- [superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
 
 ## Fault Tolerant
 
