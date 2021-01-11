@@ -480,6 +480,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS.
+- [k8ssandra](https://github.com/k8ssandra/k8ssandra) - K8ssandra is a collection of Helm charts for running Apache Cassandra on Kubernetes in production.
 - [kubefs](https://github.com/configurator/kubefs) - Mount kubernetes metadata storage as a filesystem.
 - [infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [leofs](https://leo-project.net/leofs/) - The LeoFS Storage System.
