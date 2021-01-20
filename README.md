@@ -18,7 +18,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Container Runtime](#container-runtime)
 - [Database](#database)
 - [Edge Computing](#edge-computing)
-- [Fault Tolerant](#fault-tolerant)
 - [Kubernetes Operators](#kubernetes-operators)
 - [Logging](#logging)
 - [Message Broker](#message-broker)
@@ -34,6 +33,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Service Mesh](#service-mesh)
 - [Service Registry and Discovery](#service-registry-and-discovery)
 - [Serverless](#serverless)
+- [Stability](#stability)
 - [Storage](#storage)
 - [Tools](#tools)
 - [Tracing](#tracing)
@@ -193,17 +193,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
 - [openyurt](https://github.com/alibaba/openyurt) - Extending your native Kubernetes to the edge.
 - [superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
-
-## Fault Tolerant
-
-- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）.
-- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [concurrency-limits](https://github.com/Netflix/concurrency-limits) - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
-- [hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
-- [ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
-- [sentinel](https://github.com/alibaba/sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 
 ## Kubernetes Operators
 
@@ -468,6 +457,18 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification.
 - [sqoop](https://github.com/solo-io/sqoop) - The GraphQL Engine powered by Gloo.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+
+## Stability
+
+- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）.
+- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [concurrency-limits](https://github.com/Netflix/concurrency-limits) - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
+- [hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
+- [ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
+- [sentinel](https://github.com/alibaba/sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [toxiproxy](https://github.com/shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 
 ## Storage
 
