@@ -401,6 +401,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
+- [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps.
 - [likerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh.
