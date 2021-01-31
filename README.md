@@ -231,7 +231,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 - [gnatsd](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).  
-- [pulsar](https://github.com/apache/pulsar) - distributed messaging and streaming platform.
+- [pulsar](https://github.com/apache/pulsar) - A distributed messaging and streaming platform.
 - [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform.
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
