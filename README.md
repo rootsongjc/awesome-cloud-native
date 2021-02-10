@@ -351,7 +351,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress.
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy.
 - [voyager](https://github.com/voyagermesh/voyager) - Secure Ingress Controller for Kubernetes.
-- [YARP](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 
 ## RPC
 
