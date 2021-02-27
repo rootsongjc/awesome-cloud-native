@@ -26,7 +26,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Network](#network)
 - [Observability](#observability)
 - [Orchestration and Scheduler](#orchestration-and-scheduler)
-- [PaaS Manager](#paas-manager)
 - [Proxy](#proxy)
 - [RPC](#rpc)
 - [Security and Audit](#security-and-audit)
@@ -38,6 +37,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Tools](#tools)
 - [Tracing](#tracing)
 - [Tutorials](#tutorials)
+- [UI](#ui)
 - [Community](#community)
 
 ## AI
@@ -86,6 +86,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform.
 - [couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows
 - [crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit.
+- [crossplane](https://github.com/crossplane/crossplane) - An Open Source Multicloud Control Plane.
 - [cross-cloud](https://github.com/crosscloudci/cross-cloud) - Cross Cloud Continuous Integration.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration.
 - [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
@@ -215,6 +216,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [beats](https://github.com/elastic/beats) - Beats - Lightweight shippers for Elasticsearch & Logstash.
 - [collectbeat](https://github.com/eBay/collectbeat) - Beats with discovery capabilities for environments like Kubernetes.
 - [dagger](https://github.com/CloudmindsRobot/dagger) - Dagger 是一个基于 Loki 的日志查询和管理系统.
+- [egg](https://github.com/ducc/egg) - The simple error aggregator.
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
 - [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log/Data Forwarder for Linux, BSD and macOS.
 - [fluentd-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs in docker containers.
@@ -293,7 +295,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS.
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
+- [dc/os](https://github.com/dcos) - Datacenter Operating System.
+- [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes.
+- [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [fleet](https://github.com/coreos/fleet) - Fleet ties together systemd and etcd into a distributed init system.
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management.
@@ -301,31 +306,9 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp.
 - [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+- [supergiant](https://github.com/supergiant/control) - Automatically scale hardware and easily run stateful applications using Kubernetes.
 - [swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg.
 - [swarm](https://github.com/docker/classicswarm) - Swarm: a Docker-native clustering system.
-
-## PaaS Manager
-
-- [breeze](https://github.com/wise2c-devops/breeze) - Wise2C ansible playbook for Kubernetes cluster installation.
-- [choerodon](https://github.com/choerodon/choerodon) - The open source PaaS for Kubernetes.
-- [cloudfoundry](https://github.com/cloudfoundry) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
-- [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically.
-- [crossplane](https://github.com/crossplane/crossplane) - An Open Source Multicloud Control Plane.
-- [dc/os](https://github.com/dcos) - Datacenter Operating System.
-- [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
-- [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
-- [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS).
-- [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
-- [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
-- [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
-- [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform.
-- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service.
-- [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.
-- [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers.
-- [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
-- [rancher](https://github.com/rancher/rancher) - Complete container management platform.
-- [supergiant](https://github.com/supergiant/control) - Automatically scale hardware and easily run stateful applications using Kubernetes.
-- [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF).
 
@@ -408,6 +391,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [nginmesh](https://github.com/nginxinc/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+- [secretscanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud.
 - [supergloo](https://github.com/solo-io/service-mesh-hub) - The Service Mesh Orchestration Platform.
 
@@ -640,6 +624,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial.
+- [falco-analyze-audit-log-from-k3s-cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster) - Detect intrusions that happened in your Kubernetes cluster through audit logs using Falco.
 - [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical Istio服务网格进阶实战.
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) - Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh.
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes.
@@ -657,6 +642,25 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
 - [rpi-handbook](https://github.com/rootsongjc/rpi-handbook) - Raspberry Pi Handbook/树莓派实践手册.
+
+## UI
+
+- [breeze](https://github.com/wise2c-devops/breeze) - Wise2C ansible playbook for Kubernetes cluster installation.
+- [choerodon](https://github.com/choerodon/choerodon) - The open source PaaS for Kubernetes.
+- [cloudfoundry](https://github.com/cloudfoundry) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
+- [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically.
+- [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
+- [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
+- [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
+- [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
+- [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform.
+- [kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider.
+- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service.
+- [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.
+- [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers.
+- [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
+- [rancher](https://github.com/rancher/rancher) - Complete container management platform.
+- [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
 
 ## Community
 
