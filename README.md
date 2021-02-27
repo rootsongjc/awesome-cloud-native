@@ -232,7 +232,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.
 - [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 - [gnatsd](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
-- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).
+- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).  
+- [pulsar](https://github.com/apache/pulsar) - A distributed messaging and streaming platform.
 - [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform.
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
@@ -329,6 +330,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh.
 - [nginx-kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes.
 - [nginx](https://github.com/nginx/nginx) - Nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress.
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy.
