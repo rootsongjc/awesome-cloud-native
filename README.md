@@ -252,6 +252,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
 - [kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
 - [kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE).
+- [kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring.
 - [nexclipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi.
 - [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData.
