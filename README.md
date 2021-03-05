@@ -517,6 +517,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.
 - [istio-pod-network-controller](https://github.com/sabre1041/istio-pod-network-controller) - Controller to manage Istio Pod Network.
 - [k](https://github.com/yggheim/k) - Exec into kubernetes pod easy (via kubectl).
+- [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing.
 - [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
