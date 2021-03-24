@@ -358,6 +358,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
+- [curiefense](https://github.com/curiefense/curiefense) - Adds a broad set of automated web security tools to Envoy.
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dockscan](https://github.com/kost/dockscan) - Dockscan is security vulnerability and audit scanner for Docker installations.
