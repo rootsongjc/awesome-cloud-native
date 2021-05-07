@@ -58,6 +58,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## API Gateway
 
+- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway.
 - [ambassador](https://github.com/datawire/ambassador) - Ambassador: a self-service API gateway for microservices built on Lyft Envoy.
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
@@ -325,6 +326,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
 - [envoy-docker-shim](https://github.com/Nitro/envoy-docker-shim) - Run Envoy in place of docker-proxy.
 - [envoy](https://github.com/envoyproxy/envoy) - C++ front/service proxy.
+- [getenvoy](https://github.com/tetratelabs/getenvoy) - A collection of tooling focused on building, distributing, deploying and maintaining a fleet of Envoys.
 - [gimbal](https://github.com/projectcontour/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio.
 - [gobetween](https://github.com/yyyar/gobetween) - Modern & minimalistic load balancer for the Сloud era.
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
@@ -391,6 +393,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [aeraki](https://github.com/aeraki-framework/aeraki) - Manage any layer 7 traffic in an Istio service mesh.
 - [amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- [getistio](https://github.com/tetratelabs/getistio) - An integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
 - [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
