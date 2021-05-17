@@ -148,6 +148,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end.
 - [spark-on-kubernetes-helm](https://github.com/jahstreet/spark-on-kubernetes-helm) - Spark on Kubernetes infrastructure Helm charts repo.
 - [wallaroo](https://github.com/WallarooLabs/wallaroo) - Ultrafast and elastic data processing.
+- [v6d](https://github.com/alibaba/v6d) - vineyard (v6d), an in-memory immutable data manager.
 
 ## Container Runtime
 
