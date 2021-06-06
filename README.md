@@ -392,6 +392,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
+- [vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 
 ## Service Mesh
 
