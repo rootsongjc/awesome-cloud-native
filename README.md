@@ -353,6 +353,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## RPC
 
 - [brpc](https://github.com/apache/incubator-brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
+- [drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC.
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system.
 - [grpc](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework.
 - [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
