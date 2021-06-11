@@ -160,6 +160,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially).
 - [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
 - [podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
@@ -179,6 +180,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 - [mehdb](https://github.com/mhausenblas/mehdb) - Educational Kubernetes-native NoSQL datastore using StatefulSet and persistent volumes.
 - [mongodb](https://github.com/mongodb/mongo) - MongoDB is an open source database that uses a document-oriented data model.
+- [montydb](https://github.com/davidlatwe/montydb) - Monty, Mongo tinified. MongoDB implemented in Python.
 - [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability.
 - [nocodb](https://github.com/nocodb/nocodb) - The Open Source Airtable alternative.
 - [oceanbase](https://github.com/oceanbase/oceanbase) - A distributed, banking suitable, open-source related database featuring high scalability and high compatibility.
@@ -190,6 +192,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
+- [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness.
 
 ## Edge Computing
 
