@@ -176,6 +176,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [couchdb](https://github.com/apache/couchdb) - Apache CouchDB is one of a new breed of database management systems.
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+- [kvrocks](https://github.com/KvrocksLabs/kvrocks) - Kvrocks is a distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 - [mehdb](https://github.com/mhausenblas/mehdb) - Educational Kubernetes-native NoSQL datastore using StatefulSet and persistent volumes.
