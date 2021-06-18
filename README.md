@@ -248,6 +248,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).  
 - [pulsar](https://github.com/apache/pulsar) - A distributed messaging and streaming platform.
 - [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
+- [kubemq](https://github.com/kubemq-io/kubemq) - KubeMQ is Enterprise-grade message broker native for Docker and Kubernetes.
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform.
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
 - [rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
