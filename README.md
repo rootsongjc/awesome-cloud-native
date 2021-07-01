@@ -65,6 +65,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 - [ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway.
+- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols.
 
 ## Application Delivery
 
