@@ -646,6 +646,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
 - [jaeger](https://github.com/jaegertracing/jaeger) - Jaeger, a Distributed Tracing System.
+- [opentelemetry](https://github.com/open-telemetry/opentelemetry-specification) - An observability framework for cloud-native software.
 - [opencensus](https://github.com/census-instrumentation) - A single distribution of libraries that automatically collect traces and metrics from your app, display them locally, and send them to any backend.
 - [opentracing](https://github.com/opentracing) - Consistent, expressive, vendor-neutral APIs for distributed tracing and context propagation.
 - [pinpoint](https://github.com/naver/pinpoint) - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
