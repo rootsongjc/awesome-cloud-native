@@ -416,7 +416,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
 - [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps.
-- [likerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh.
 - [nginmesh](https://github.com/nginxinc/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
