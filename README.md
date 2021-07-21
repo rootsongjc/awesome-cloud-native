@@ -410,7 +410,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [aeraki](https://github.com/aeraki-framework/aeraki) - Manage any layer 7 traffic in an Istio service mesh.
 - [amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices.
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [getistio](https://github.com/tetratelabs/getistio) - An integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
+- [easemesh](https://github.com/megaease/easemesh) - A service mesh implementation for connecting, control, and observe services in spring-cloud.
+- [getmesh](https://github.com/tetratelabs/getmesh) - An integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
 - [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
