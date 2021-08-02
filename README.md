@@ -213,6 +213,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes.
+- [fabedge](https://github.com/FabEdge/fabedge) - Secure Edge Networking Based On Kubernetes And KubeEdge.
 - [flagger](https://github.com/weaveworks/flagger) - Istio progressive delivery Kubernetes operator.
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
 - [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
