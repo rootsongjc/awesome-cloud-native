@@ -312,6 +312,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [alameda](https://github.com/containers-ai/alameda) - Intelligent Resources Orchestrator for Kubernetes by using machine learning.
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS.
+- [clusterset](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet.
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [dc/os](https://github.com/dcos) - Datacenter Operating System.
