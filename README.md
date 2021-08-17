@@ -61,6 +61,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway.
 - [ambassador](https://github.com/datawire/ambassador) - Ambassador: a self-service API gateway for microservices built on Lyft Envoy.
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS.
+- [hango-gateway](https://github.com/hango-io/hango-gateway) - Hango API Gateway, build on Envoy & Istio.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
 - [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
