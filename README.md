@@ -400,6 +400,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-lego](https://github.com/jetstack/kube-lego) - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt.
 - [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes.
 - [kubed](https://github.com/appscode/kubed) - A Kubernetes Cluster Operator Daemon.
+- [kubescape](https://github.com/armosec/kubescape) - Kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA.
 - [kyverno](https://github.com/kyverno/kyverno/) - Kubernetes Native Policy Management.
 - [notary](https://github.com/theupdateframework/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data.
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service.
