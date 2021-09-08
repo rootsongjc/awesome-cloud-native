@@ -367,6 +367,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC.
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system.
 - [grpc](https://github.com/grpc) - A high performance, open source, general-purpose RPC framework.
+- [kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [rsocket](https://github.com/rsocket) - Streaming message protocol with Reactive Extension/Stream semantics.
 - [sofa-bolt](https://github.com/sofastack/sofa-bolt) - SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.
