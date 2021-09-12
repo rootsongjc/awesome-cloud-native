@@ -439,6 +439,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains middleware.
 - [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [open-service-broker-sdk](https://github.com/openshift/open-service-broker-sdk) - A starting point for creating service brokers implementing the Open Service Broker API.
+- [polaris](https://github.com/polarismesh/polaris) - Service discovery and governance center for distributed and microservice architecture.
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters.
 - [rotor](https://github.com/turbinelabs/rotor) - Rotor is a fast, lightweight bridge between your service discovery and the configuration APIs of Envoy. Rotor supports Kubernetes, Consul, AWS (EC2 and ECS), DC/OS, flat files, and even other EDS/CDS implementations.
 - [service-broker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification.
