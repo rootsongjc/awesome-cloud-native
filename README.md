@@ -200,6 +200,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Edge Computing
 
+- [akri](https://github.com/deislabs/akri) - A Kubernetes Resource Interface for the Edge.
 - [baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
 - [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device.
 - [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project.
