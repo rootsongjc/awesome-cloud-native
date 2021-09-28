@@ -456,6 +456,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [booster](https://github.com/boostercloud/booster) - Booster is a framework for building and deploying reliable and scalable event-driven serverless applications.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [dispatch](https://github.com/vmware/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
+- [easyfaas](https://github.com/baidu/EasyFaaS) - EasyFaaS 是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎.
 - [eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery.
 - [faas-netes](https://github.com/openfaas/faas-netes) - Enable Kubernetes as a backend for Functions as a Service (OpenFaaS).
 - [firecamp](https://github.com/cloudstax/firecamp) - Serverless Platform for the stateful services.
