@@ -307,6 +307,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kiali](https://github.com/kiali/kiali) - Kiali project to help istio service mesh observability.
 - [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters.
+- [lake](https://github.com/merico-dev/lake) - Data lake for dev.
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
