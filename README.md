@@ -265,6 +265,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
 - [cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform.
+- [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) - Kubernetes LTS(long term support).
 
 ## Monitoring
 
