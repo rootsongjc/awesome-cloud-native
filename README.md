@@ -203,15 +203,15 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Edge Computing
 
-- [akri](https://github.com/deislabs/akri) - A Kubernetes Resource Interface for the Edge.
+- [akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge.
 - [baetyl](https://github.com/baetyl/baetyl) - Extend cloud computing, data and service seamlessly to edge devices.
 - [eliot](https://github.com/ernoaapa/eliot) - Open source system for managing containerized applications in IoT device.
 - [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project.
-- [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes.
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
+- [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes.
+- [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes.
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF).
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
-- [openyurt](https://github.com/alibaba/openyurt) - Extending your native Kubernetes to the edge.
+- [openyurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge(project under CNCF).
 - [superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
 
 ## Kubernetes Operators
@@ -587,6 +587,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours.
 - [kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes add-on for creating and managing a cache of container images in a kubernetes cluster.
+- [kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh.
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes CLI.
