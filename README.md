@@ -570,6 +570,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing.
 - [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
+- [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
 - [kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool.
 - [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service. 
@@ -700,7 +701,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
-- [rpi-handbook](https://github.com/rootsongjc/rpi-handbook) - Raspberry Pi Handbook/树莓派实践手册.
 
 ## UI
 
