@@ -313,6 +313,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [lake](https://github.com/merico-dev/lake) - Data lake for dev.
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
 
@@ -334,7 +335,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [ocm](https://github.com/open-cluster-management-io/OCM) - The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
-- [pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp.
 - [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [supergiant](https://github.com/supergiant/control) - Automatically scale hardware and easily run stateful applications using Kubernetes.
@@ -727,7 +727,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [Cloud Native Community (China)](https://cloudnative.to)
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
-- [ServiceMesher](https://www.servicemesher.com)
 
 ## Contribute
 
