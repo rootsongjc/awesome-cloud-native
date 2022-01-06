@@ -132,9 +132,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource.
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
-- [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
+- [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [pulumi](https://github.com/pulumi/pulumi) - A multi-language, multi-cloud development platform -- your code, your cloud, your team.
-- [rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification.
 - [sealer](https://github.com/alibaba/sealer) - Seal your applications all dependencies and kubernetes into CloudImage! Build Deliver and Run user-defined clusters in one command.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development.
 - [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder.
@@ -287,6 +286,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Network
 
+- [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
 - [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers.
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP.
 - [cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers.
@@ -313,7 +313,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [lake](https://github.com/merico-dev/lake) - Data lake for dev.
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+- [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
 
@@ -329,7 +329,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes.
 - [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [fleet](https://github.com/coreos/fleet) - Fleet ties together systemd and etcd into a distributed init system.
-- [karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+- [karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management.
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
@@ -387,7 +387,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
-- [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption
+- [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
