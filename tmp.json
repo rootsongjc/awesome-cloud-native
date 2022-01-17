@@ -1,0 +1,80 @@
+{
+    "apiVersion": "v1",
+    "kind": "Namespace",
+    "metadata": {
+        "annotations": {
+            "addons.oam.dev/description": "Flux is a set of continuous and progressive delivery solutions for Kubernetes",
+            "app.oam.dev/last-applied-configuration": "{\"apiVersion\":\"v1\",\"kind\":\"Namespace\",\"metadata\":{\"annotations\":{\"addons.oam.dev/description\":\"Flux is a set of continuous and progressive delivery solutions for Kubernetes\",\"oam.dev/kubevela-version\":\"v1.1.13\"},\"labels\":{\"app.oam.dev/app-revision-hash\":\"ab7513655d6ddd67\",\"app.oam.dev/appRevision\":\"fluxcd-v1\",\"app.oam.dev/component\":\"ns-flux-system\",\"app.oam.dev/name\":\"fluxcd\",\"app.oam.dev/resourceType\":\"WORKLOAD\",\"app.oam.dev/revision\":\"ns-flux-system-v1\",\"oam.dev/render-hash\":\"58151d066e507367\",\"workload.oam.dev/type\":\"raw\"},\"name\":\"flux-system\",\"ownerReferences\":[{\"apiVersion\":\"core.oam.dev/v1beta1\",\"blockOwnerDeletion\":true,\"controller\":true,\"kind\":\"ResourceTracker\",\"name\":\"fluxcd-v1-vela-system\",\"uid\":\"7cf485bc-5495-461e-a29e-ec78434f6cdd\"}]}}",
+            "oam.dev/kubevela-version": "v1.1.13"
+        },
+        "creationTimestamp": "2021-12-10T09:46:00Z",
+        "deletionTimestamp": "2022-01-13T03:43:32Z",
+        "labels": {
+            "app.oam.dev/app-revision-hash": "ab7513655d6ddd67",
+            "app.oam.dev/appRevision": "fluxcd-v1",
+            "app.oam.dev/component": "ns-flux-system",
+            "app.oam.dev/name": "fluxcd",
+            "app.oam.dev/resourceType": "WORKLOAD",
+            "app.oam.dev/revision": "ns-flux-system-v1",
+            "kubernetes.io/metadata.name": "flux-system",
+            "oam.dev/render-hash": "58151d066e507367",
+            "workload.oam.dev/type": "raw"
+        },
+        "name": "flux-system",
+        "ownerReferences": [
+            {
+                "apiVersion": "core.oam.dev/v1beta1",
+                "blockOwnerDeletion": true,
+                "controller": true,
+                "kind": "ResourceTracker",
+                "name": "fluxcd-v1-vela-system",
+                "uid": "7cf485bc-5495-461e-a29e-ec78434f6cdd"
+            }
+        ],
+        "resourceVersion": "154820506",
+        "uid": "0def9435-1c5b-4d6e-a55b-dd420894d708"
+    },
+    "spec": {
+        "finalizers": []
+    },
+    "status": {
+        "conditions": [
+            {
+                "lastTransitionTime": "2022-01-13T03:43:37Z",
+                "message": "Discovery failed for some groups, 1 failing: unable to retrieve the complete list of server APIs: cluster.core.oam.dev/v1alpha1: the server is currently unable to handle the request",
+                "reason": "DiscoveryFailed",
+                "status": "True",
+                "type": "NamespaceDeletionDiscoveryFailure"
+            },
+            {
+                "lastTransitionTime": "2022-01-13T03:43:38Z",
+                "message": "All legacy kube types successfully parsed",
+                "reason": "ParsedGroupVersions",
+                "status": "False",
+                "type": "NamespaceDeletionGroupVersionParsingFailure"
+            },
+            {
+                "lastTransitionTime": "2022-01-13T03:43:48Z",
+                "message": "All content successfully deleted, may be waiting on finalization",
+                "reason": "ContentDeleted",
+                "status": "False",
+                "type": "NamespaceDeletionContentFailure"
+            },
+            {
+                "lastTransitionTime": "2022-01-13T03:43:48Z",
+                "message": "All content successfully removed",
+                "reason": "ContentRemoved",
+                "status": "False",
+                "type": "NamespaceContentRemaining"
+            },
+            {
+                "lastTransitionTime": "2022-01-13T03:43:38Z",
+                "message": "All content-preserving finalizers finished",
+                "reason": "ContentHasNoFinalizers",
+                "status": "False",
+                "type": "NamespaceFinalizersRemaining"
+            }
+        ],
+        "phase": "Terminating"
+    }
+}
