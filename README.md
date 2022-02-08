@@ -436,6 +436,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps.
 - [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [maesh](https://github.com/containous/maesh) - Simpler Service Mesh.
+- [merbridge](https://github.com/merbridge/merbridge) - Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
 - [nginmesh](https://github.com/nginxinc/nginmesh) - Service Mesh using Nginx.
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of dynamic and distributed applications.
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
