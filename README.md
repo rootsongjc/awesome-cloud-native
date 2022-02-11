@@ -421,6 +421,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service.
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
+- [trousseau](https://github.com/oleiade/trousseau) - File based encrypted key-value store.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
 - [vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
