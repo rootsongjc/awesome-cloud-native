@@ -182,6 +182,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [cockroachdb](https://github.com/cockroachdb/cockroach/) - CockroachDB - the open source, cloud-native SQL database.
 - [couchdb](https://github.com/apache/couchdb) - Apache CouchDB is one of a new breed of database management systems.
+- [databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy.
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [kvrocks](https://github.com/KvrocksLabs/kvrocks) - Kvrocks is a distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
