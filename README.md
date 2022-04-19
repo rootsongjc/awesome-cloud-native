@@ -444,6 +444,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [easemesh](https://github.com/megaease/easemesh) - A service mesh implementation for connecting, control, and observe services in spring-cloud.
 - [getmesh](https://github.com/tetratelabs/getmesh) - An integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [istio-security-analyzer](https://github.com/tetratelabs/istio-security-analyzer) - A tool to analyze Istio security.
 - [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
 - [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps.
