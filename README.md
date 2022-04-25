@@ -253,6 +253,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [flume](http://flume.apache.org/) - Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 - [heapster](https://github.com/kubernetes-retired/heapster) - Compute Resource Usage Analysis and Monitoring of Container Clusters.
 - [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs in docker containers.
+- [loggie](https://github.com/loggie-io/loggie/) - A lightweight, cloud-native data transfer agent and aggregator.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
