@@ -62,6 +62,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway.
 - [emissary-gateway](https://github.com/emissary-ingress/emissary) - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS.
+- [gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy.
 - [hango-gateway](https://github.com/hango-io/hango-gateway) - Hango API Gateway, build on Envoy & Istio.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
 - [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
@@ -493,7 +494,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [funktion](https://github.com/funktionio/funktion/) - A CLI tool for working with funktion.
 - [fx](https://github.com/metrue/fx) - Poor man's serverless framework based on Docker, Function as a Service with painless.
-- [gloo](https://github.com/solo-io/gloo) - The Function Gateway built on top of Envoy.
 - [ironfunctions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform.
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes.
 - [knative-lambda-runtime](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters.
@@ -502,6 +502,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [layotto](https://github.com/mosn/layotto) - A fast and efficient cloud native application runtime.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform.
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes.
+- [openfunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform.
 - [openwhisk](http://openwhisk.apache.org/) - Apache OpenWhisk (Incubating) is a serverless, open source cloud platform that executes functions in response to events at any scale.
 - [osiris](https://github.com/deislabs/osiris) - A general purpose, scale-to-zero component for Kubernetes.
 - [riff](https://github.com/projectriff/riff) - Riff is for functions.
