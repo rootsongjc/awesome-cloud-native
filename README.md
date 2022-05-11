@@ -175,7 +175,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime.
 - [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [wasmcloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
-- [wazero](https://github.com/tetratelabs/wazero) - wazero lets you run WebAssembly modules with zero platform dependencies.
+- [wazero](https://github.com/tetratelabs/wazero) - the zero dependency WebAssembly runtime for Go developers.
 
 ## Database
 
