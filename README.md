@@ -256,6 +256,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs in docker containers.
 - [loggie](https://github.com/loggie-io/loggie/) - A lightweight, cloud-native data transfer agent and aggregator.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics.
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 ## Message Broker
