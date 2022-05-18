@@ -334,6 +334,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability.
+- [tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
 
