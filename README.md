@@ -200,6 +200,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [oceanbase](https://github.com/oceanbase/oceanbase) - A distributed, banking suitable, open-source related database featuring high scalability and high compatibility.
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [polardb-for-postgresql](https://github.com/alibaba/PolarDB-for-PostgreSQL) - PolarDB for PostgreSQL (PolarDB for short) is an open source database system based on PostgreSQL.
+- [promscale](https://github.com/timescale/promscale) - Unified observability backend for metrics and traces powered by SQL and built on PostgreSQL and TimescaleDB.
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [sharding-sphere](https://github.com/apache/shardingsphere) - Distributed database middleware.
@@ -207,6 +208,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
+- [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
 - [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness.
 
 ## Edge Computing
