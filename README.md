@@ -286,25 +286,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opensergo-specification](https://github.com/opensergo/opensergo-specification) - OpenSergo is an open, language-agnostic cloud-native service governance specification.
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform.
 
-## Monitoring
-
-- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- [cortex](https://github.com/cortexproject/cortex) - A multitenant, horizontally scalable Prometheus as a Service.
-- [elasticsearch-hq](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
-- [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
-- [kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
-- [kindling](https://github.com/Kindling-project/kindling) - eBPF-based CloudNative Monitor tool.
-- [kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE).
-- [kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring.
-- [nexclipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
-- [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi.
-- [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData.
-- [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
-- [sofa-lookout](https://github.com/sofastack/sofa-lookout) - Lookout can help you to measure and monitor the status of the target system with its multi-dimensional metrics.
-- [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
-
 ## Network
 
 - [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
@@ -325,18 +306,35 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Observability
 
+- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- [cortex](https://github.com/cortexproject/cortex) - A multitenant, horizontally scalable Prometheus as a Service.
+- [elasticsearch-hq](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [envoy-ui](https://github.com/Nitro/envoy-ui) - Dead simple server-side UI for Envoy proxy (like HAproxy stats).
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
+- [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kiali](https://github.com/kiali/kiali) - Kiali project to help istio service mesh observability.
+- [kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
+- [kindling](https://github.com/Kindling-project/kindling) - eBPF-based CloudNative Monitor tool.
 - [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters.
+- [kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring.
+- [kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE).
 - [lake](https://github.com/merico-dev/lake) - Data lake for dev.
 - [metaflow](https://github.com/metaflowys/metaflow) - MetaFlow is an automated observability platform for cloud-native developers.
 - [monosi](https://github.com/monosidev/monosi) - Open source data observability platform.
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
+- [nexclipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi.
+- [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData.
+- [parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability.
+- [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
+- [sofa-lookout](https://github.com/sofastack/sofa-lookout) - Lookout can help you to measure and monitor the status of the target system with its multi-dimensional metrics.
+- [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
 - [tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement.
 - [tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
