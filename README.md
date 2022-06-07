@@ -131,6 +131,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubegen](https://github.com/errordeveloper/kubegen) - Kubegen – simple way to describe Kubernetes resources.
 - [kubernetes-deploy](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [kubevela](https://github.com/oam-dev/kubevela) - Make shipping applications more enjoyable.
+- [kusion](https://github.com/KusionStack/kusion) - A compile-to-cloud technology stack with tool chains and engine.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
 - [lastbackend](https://github.com/lastbackend/lastbackend) - Container orchestration with CI&CD, cli and amazing UI.
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
