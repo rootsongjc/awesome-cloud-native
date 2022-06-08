@@ -544,6 +544,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
 - [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed storage system for cloud native applications.
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
+- [curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS based on Raft.
 - [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
 - [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application.
 - [glusterd2](https://github.com/gluster/glusterd2) - GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
