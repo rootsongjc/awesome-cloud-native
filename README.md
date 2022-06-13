@@ -574,6 +574,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [cloud-native-sandbox](https://github.com/rootsongjc/cloud-native-sandbox) - Cloud Native Sandbox can help you setup a standalone Kubernetes and Istio environment with Docker on you own laptop.
+- [cloudtty](https://github.com/cloudtty/cloudtty) - A Friendly Kubernetes CloudShell (Web Terminal) !
 - [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters.
 - [clusternet](https://github.com/clusternet/clusternet) - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet.
 - [compass](https://github.com/winfordlin/Compass) - A Debugging Tool for your Kubernetes Deployments.
