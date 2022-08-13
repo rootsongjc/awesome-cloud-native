@@ -39,6 +39,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Tutorials](#tutorials)
 - [UI](#ui)
 - [Community](#community)
+- [Similar Projects](#similar-projects)
 
 ## AI
 
@@ -766,6 +767,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [Cloud Native Community (China)](https://cloudnative.to)
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
+
+## Similar Projects
+
+- [Cloud Native Landscape](https://github.com/cncf/landscape)
 
 ## Contribute
 
