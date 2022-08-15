@@ -48,6 +48,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles.)
 - [jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data.
 - [keras](https://github.com/keras-team/keras) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+- [kubedl](https://github.com/kubedl-io/kubedl) - Run your deep learning workloads on Kubernetes more easily and efficiently.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU).
 - [paddlepaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）.
