@@ -687,6 +687,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
+- [spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stash](https://github.com/stashed/stash) - Backup your Kubernetes Volumes.
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
