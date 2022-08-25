@@ -197,6 +197,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 - [mehdb](https://github.com/mhausenblas/mehdb) - Educational Kubernetes-native NoSQL datastore using StatefulSet and persistent volumes.
+- [milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [mongodb](https://github.com/mongodb/mongo) - MongoDB is an open source database that uses a document-oriented data model.
 - [montydb](https://github.com/davidlatwe/montydb) - Monty, Mongo tinified. MongoDB implemented in Python.
 - [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability.
@@ -549,15 +550,16 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS based on Raft.
 - [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
-- [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application.
+- [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application. 
 - [glusterd2](https://github.com/gluster/glusterd2) - GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [heketi](https://github.com/heketi/heketi) - RESTful based volume management framework for GlusterFS.
+- [hwameistor](https://github.com/hwameistor/hwameistor) - Hwameistor is an HA local storage system for cloud-native stateful workloads.
+- [infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [juicefs](https://github.com/juicedata/juicefs) - A distributed POSIX file system built on top of Redis and S3.
 - [k8ssandra](https://github.com/k8ssandra/k8ssandra) - K8ssandra is a collection of Helm charts for running Apache Cassandra on Kubernetes in production.
 - [kubefs](https://github.com/configurator/kubefs) - Mount kubernetes metadata storage as a filesystem.
-- [infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [leofs](https://leo-project.net/leofs/) - The LeoFS Storage System.
 - [longhorn](https://github.com/longhorn/longhorn) - We put storage on cows and move them around from rancher.
 - [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs.
