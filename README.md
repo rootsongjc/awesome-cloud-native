@@ -295,7 +295,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Network
 
-- [Antrea](https://github.com/antrea-io/antrea) - Antrea is a Kubernetes networking based on Open vSwitch.
+- [antrea](https://github.com/antrea-io/antrea) - Antrea is a Kubernetes networking based on Open vSwitch.
 - [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
 - [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers.
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP.
