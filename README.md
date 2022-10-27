@@ -66,6 +66,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
 - [gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy.
 - [hango-gateway](https://github.com/hango-io/hango-gateway) - Hango API Gateway, build on Envoy & Istio.
+- [haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) - HaProxy Ingress.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
 - [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
