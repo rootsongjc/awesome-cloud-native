@@ -276,7 +276,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [eventmesh](https://github.com/WeBankFinTech/EventMesh) - EventMesh is a dynamic cloud-native eventing infrastructure used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
 - [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 - [gnatsd](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
-- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).  
+- [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native).
 - [pulsar](https://github.com/apache/pulsar) - A distributed messaging and streaming platform.
 - [kafka](https://github.com/apache/kafka) - A distributed streaming platform.
 - [kubemq](https://github.com/kubemq-io/kubemq) - KubeMQ is Enterprise-grade message broker native for Docker and Kubernetes.
@@ -296,6 +296,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Network
 
+- [antrea](https://github.com/antrea-io/antrea) - Antrea is a Kubernetes networking based on Open vSwitch.
 - [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
 - [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers.
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP.
@@ -556,7 +557,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS based on Raft.
 - [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
-- [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application. 
+- [flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application.
 - [glusterd2](https://github.com/gluster/glusterd2) - GlusterD-2.0 is the distributed management framework to be used for GlusterFS-4.0.
 - [glusterfs](https://github.com/gluster/glusterfs) - Gluster is a software defined distributed storage that can scale to several petabytes. It provides interfaces for object, block and file storage.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -621,7 +622,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
 - [kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool.
-- [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service. 
+- [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
