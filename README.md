@@ -112,6 +112,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [heighliner](https://github.com/h8r-dev/heighliner) - An app development platform using cloud native stacks.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager.
+- [helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases.
 - [helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts.
 - [helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code.
 - [hiboot](https://github.com/hidevopsio/hiboot) - Hiboot is a high performance web and cli application framework with dependency injection support.
