@@ -456,6 +456,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [rond](https://github.com/rond-authz/rond) - A lightweight container for distributed security policy evaluation.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
+- [supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
 - [trousseau](https://github.com/oleiade/trousseau) - File based encrypted key-value store.
 - [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
 - [trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities.
