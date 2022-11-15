@@ -580,6 +580,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [torus](https://github.com/coreos/torus) - Torus Distributed Storage.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [zenko](https://github.com/scality/Zenko) - Because everyone should be in control of their data.
+- [zot](https://github.com/project-zot/zot) - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
 
 ## Tools
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML.
