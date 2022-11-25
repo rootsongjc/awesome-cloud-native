@@ -336,6 +336,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters.
 - [kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring.
 - [kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE).
+- [kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes.
 - [lake](https://github.com/merico-dev/lake) - Data lake for dev.
 - [metaflow](https://github.com/metaflowys/metaflow) - MetaFlow is an automated observability platform for cloud-native developers.
 - [monosi](https://github.com/monosidev/monosi) - Open source data observability platform.
