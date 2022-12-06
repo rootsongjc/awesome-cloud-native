@@ -159,6 +159,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection.
 - [werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism.
 - [woodpecker](https://github.com/laszlocph/woodpecker) - Fork of drone.io v0.8 since drone is not fully opensource anymore.
+- [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 
 ## Big Data
 
