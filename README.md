@@ -153,6 +153,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [smith](https://github.com/oracle/Smith) - Smith: A microcontainer builder.
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification.
+- [spec](https://github.com/score-spec/spec) - The score specification file.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes.
