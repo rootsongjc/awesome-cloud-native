@@ -356,6 +356,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
 - [tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement.
 - [tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
+- [victoriametrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
 
