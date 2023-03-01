@@ -299,6 +299,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS.
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) - Kubernetes LTS(long term support).
 - [opensergo-specification](https://github.com/opensergo/opensergo-specification) - OpenSergo is an open, language-agnostic cloud-native service governance specification.
+- [resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform.
 
 ## Network
