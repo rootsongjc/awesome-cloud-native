@@ -87,7 +87,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [build](https://github.com/knative/build) - A Kubernetes-native Build resource.
 - [capact](https://github.com/capactio/capact) - A framework to manage applications and infrastructure in a unified way.
-- [carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label.
+- [carvel](https://github.com/carvel-dev/carvel) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
 - [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming.
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
 - [charitify](https://github.com/kubepack/chartify) - Generate Helm Charts from Kubernetes objects.
@@ -125,6 +125,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language.
 - [jx](https://github.com/jenkins-x/jx) - A command line tool for installing and working with Jenkins X.
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes.
+- [kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label.
 - [kd](https://github.com/UKHomeOffice/kd) - Minimalistic kubernetes resources deployment tool with templating.
 - [kdo](https://github.com/stepro/kdo) - Deployless Development on Kubernetes.
 - [kedge](https://github.com/kedgeproject/kedge) - Kedge - Concise Application Definition for Kubernetes.
