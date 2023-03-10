@@ -333,6 +333,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
+- [highlight](https://github.com/highlight/highlight) - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kiali](https://github.com/kiali/kiali) - Kiali project to help istio service mesh observability.
 - [kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
