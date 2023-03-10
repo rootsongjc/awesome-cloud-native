@@ -102,6 +102,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cross-cloud](https://github.com/crosscloudci/cross-cloud) - Cross Cloud Continuous Integration.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration.
 - [cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
+- [dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers.
 - [devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
 - [devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
 - [draft](https://github.com/azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
