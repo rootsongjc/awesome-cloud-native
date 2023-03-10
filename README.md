@@ -449,6 +449,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
 - [in-toto](https://github.com/in-toto/in-toto) - in-toto is a framework to protect supply chain integrity.
+- [infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [k8guard](https://github.com/k8guard) - An auditing system for Kubernetes.
 - [kamus](https://github.com/Soluto/kamus) - An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications.
 - [keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
