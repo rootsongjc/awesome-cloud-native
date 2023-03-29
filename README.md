@@ -173,27 +173,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [wallaroo](https://github.com/WallarooLabs/wallaroo) - Ultrafast and elastic data processing.
 - [v6d](https://github.com/alibaba/v6d) - vineyard (v6d), an in-memory immutable data manager.
 
-## Container Runtime
-
-- [clear-containers](https://github.com/clearcontainers) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines.
-- [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime.
-- [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers.
-- [cri-containerd](https://github.com/containerd/cri) - Containerd-based implementation of Kubernetes Container Runtime Interface.
-- [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
-- [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
-- [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
-- [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
-- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially).
-- [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
-- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
-- [podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
-- [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
-- [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime.
-- [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
-- [wasmcloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
-- [wazero](https://github.com/tetratelabs/wazero) - the zero dependency WebAssembly runtime for Go developers.
-
 ## Database
 
 - [arangodb](https://github.com/arangodb/arangodb) - ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
@@ -430,6 +409,29 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sofa-rpc](https://github.com/sofastack/sofa-rpc) - SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.
 - [tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [thrift](https://github.com/apache/thrift) - Apache thrift.
+
+## Runtime
+
+- [clear-containers](https://github.com/clearcontainers) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines.
+- [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime.
+- [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers.
+- [cri-containerd](https://github.com/containerd/cri) - Containerd-based implementation of Kubernetes Container Runtime Interface.
+- [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
+- [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
+- [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
+- [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially).
+- [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
+- [podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
+- [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
+- [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime.
+- [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [runwasi](https://github.com/containerd/runwasi) - Facilitates running Wasm/WASI workloads managed by containerd.
+- [spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+- [wasmcloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
+- [wazero](https://github.com/tetratelabs/wazero) - The zero dependency WebAssembly runtime for Go developers.
 
 ## Security and Audit
 
@@ -718,7 +720,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
-- [spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stash](https://github.com/stashed/stash) - Backup your Kubernetes Volumes.
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
