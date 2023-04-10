@@ -283,6 +283,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opensergo-specification](https://github.com/opensergo/opensergo-specification) - OpenSergo is an open, language-agnostic cloud-native service governance specification.
 - [resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform.
+- [wa](https://github.com/wa-lang/wa/) - The Wa Programming Language: Simple, maintainable, compiled language for developing WebAssembly software.
 
 ## Network
 
@@ -430,6 +431,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [runwasi](https://github.com/containerd/runwasi) - Facilitates running Wasm/WASI workloads managed by containerd.
 - [spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR).
 - [wasmcloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
 - [wazero](https://github.com/tetratelabs/wazero) - The zero dependency WebAssembly runtime for Go developers.
 
