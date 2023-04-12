@@ -418,6 +418,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers.
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
+- [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
@@ -431,6 +432,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [rkt](https://github.com/rkt/rkt) - Rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [runwasi](https://github.com/containerd/runwasi) - Facilitates running Wasm/WASI workloads managed by containerd.
 - [spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+- [virtlet](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads.
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR).
 - [wasmcloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
 - [wazero](https://github.com/tetratelabs/wazero) - The zero dependency WebAssembly runtime for Go developers.
