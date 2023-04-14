@@ -7,7 +7,7 @@
 Cloud Native is a behavior and design philosophy. At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
 - [Join the Cloud Native Community (China)](https://cloudnative.to)
-- [加入云原生社区](https://mp.weixin.qq.com/s/vWlSdzz2MNdXRr0sd2-LFg)
+- [加入云原生社区](https://cloudnative.to/community/join/)
 
 ## Contents
 
