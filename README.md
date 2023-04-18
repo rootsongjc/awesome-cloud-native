@@ -275,6 +275,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Miscellaneous
 
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
+- [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals.
 - [claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes.
 - [cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform.
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
@@ -338,6 +339,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
 - [sofa-lookout](https://github.com/sofastack/sofa-lookout) - Lookout can help you to measure and monitor the status of the target system with its multi-dimensional metrics.
+- [starship](https://github.com/tricorder-observability/Starship) - Next-generation Observability platform built with eBPF+WASM.
 - [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
 - [tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement.
 - [tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
@@ -628,7 +630,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker.
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers.
 - [dotmesh](https://github.com/dotmesh-io/dotmesh) - Dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes.
-- [dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based file distribution system.
+- [dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an intelligent P2P based file distribution system.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification.
 - [eksctl](https://github.com/weaveworks/eksctl) - A CLI for Amazon EKS.
 - [erda](https://github.com/erda-project/erda) - An enterprise-grade application building, deploying, monitoring platform (An iPaaS).
