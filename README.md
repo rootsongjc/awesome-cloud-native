@@ -444,6 +444,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 - [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
+- [cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
