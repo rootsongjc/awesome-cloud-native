@@ -548,6 +548,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [knative-lambda-runtime](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters.
 - [knix](https://github.com/knix-microfunctions/knix) - KNIX MicroFunctions is a serverless computing platform that combines container-based resource isolation with a lightweight execution model using processes to significantly improve resource efficiency and decrease the function startup latency. KNIX MicroFunctions works in Knative as well as bare metal or virtual machine-based environments.
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework.
+- [laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [layotto](https://github.com/mosn/layotto) - A fast and efficient cloud native application runtime.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform.
 - [openfaas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes.
