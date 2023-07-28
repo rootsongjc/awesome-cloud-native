@@ -661,6 +661,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [ksctl](https://github.com/kubesimplify/ksctl) - A Generic Kubernetes Management CLI tool for multi-cloud Kubernetes clusters.
+- [ksapify](https://github.com/bishal7679/ksapify) - A Multi-Featured Lightweight Kubernetes command-line tool which can interact with k8s API-SERVER.
 - [kstone](https://github.com/tkestack/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
 - [ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on Kubernetes pods using tcpdump and Wireshark.
