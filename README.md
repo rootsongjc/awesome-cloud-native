@@ -319,6 +319,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [highlight](https://github.com/highlight/highlight) - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kelemetry](https://github.com/kubewharf/kelemetry) - Global control plane tracing for Kubernetes.
+- [kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics.
 - [kiali](https://github.com/kiali/kiali) - Kiali project to help istio service mesh observability.
 - [kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
 - [kindling](https://github.com/Kindling-project/kindling) - eBPF-based CloudNative Monitor tool.
