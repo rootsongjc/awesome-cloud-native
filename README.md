@@ -659,6 +659,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances.
+- [klotho](https://github.com/klothoplatform/klotho) - Write AWS applications at lightning speed.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
 - [ksctl](https://github.com/kubesimplify/ksctl) - A Generic Kubernetes Management CLI tool for multi-cloud Kubernetes clusters.
