@@ -459,6 +459,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [dockscan](https://github.com/kost/dockscan) - Dockscan is security vulnerability and audit scanner for Docker installations.
 - [drydock](https://github.com/zuBux/drydock) - Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 - [falco](https://github.com/falcosecurity/falco) - Behavioral Activity Monitoring With Container Support.
+- [galadriel](https://github.com/HewlettPackard/galadriel) - SPIFFE Federation the easy way.
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
