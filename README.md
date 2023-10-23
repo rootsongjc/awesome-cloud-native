@@ -483,9 +483,10 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
 - [supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
 - [topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs.
-- [trousseau](https://github.com/oleiade/trousseau) - File based encrypted key-value store.
-- [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
 - [trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities.
+- [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
+- [trousseau](https://github.com/oleiade/trousseau) - File based encrypted key-value store.
+- [trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
 - [vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 
