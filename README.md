@@ -206,6 +206,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
 - [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness.
+- [xline](https://github.com/xline-kv/Xline) - A geo-distributed KV store for metadata management.
 
 ## Edge Computing
 
@@ -240,6 +241,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes.
 - [tidb-operator](https://github.com/pingcap/tidb-operator) - TiDB operator creates and manages TiDB clusters running in Kubernetes.
 - [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+- [xline-operator](https://github.com/xline-kv/xline-operator) - A powerful tool designed to automate the process of bootstrapping, monitoring, snapshotting, and recovering an xline cluster on Kubernetes.
 
 ## Logging
 
