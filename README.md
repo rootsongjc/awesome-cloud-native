@@ -340,6 +340,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi.
 - [owl](https://github.com/TalkingData/owl) - Distributed monitoring system from TalkingData.
 - [parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [perses](https://github.com/perses/perses) - The CNCF candidate for observability visualisation.
 - [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability.
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
