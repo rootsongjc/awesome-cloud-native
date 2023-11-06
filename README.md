@@ -146,7 +146,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [lastbackend](https://github.com/lastbackend/lastbackend) - Container orchestration with CI&CD, cli and amazing UI.
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [move2kube](https://github.com/konveyor/move2kube) - A tool to help users migrate their apps from legacy platforms like Cloud Foundry to Kubernetes and Openshift. Analyses the application source code and generates Kubernetes YAMLs, Helm Charts, Tekton Pipelines, etc. The analysis and generation can be heavily customized to produce the exact output that you want.
-- [opencompose](https://github.com/redhat-developer/opencompose) - OpenCompose - A higher level abstraction for Kubernetes Resource.
+- [opencompose](https://github.com/redhat-developer/opencompose) - A higher level abstraction for Kubernetes Resource.
+- [opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} - Complete and unified CD to deploy any application to any platform
