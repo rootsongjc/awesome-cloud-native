@@ -71,6 +71,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
 - [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
+- [nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 - [ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway.
 - [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols.
