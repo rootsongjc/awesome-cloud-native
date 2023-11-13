@@ -324,6 +324,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
 - [highlight](https://github.com/highlight/highlight) - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+- [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kelemetry](https://github.com/kubewharf/kelemetry) - Global control plane tracing for Kubernetes.
 - [kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics.
