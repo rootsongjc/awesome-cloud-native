@@ -220,6 +220,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [iotedge](https://github.com/Azure/iotedge) - The IoT Edge OSS project.
 - [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes.
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes.
+- [kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF).
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
 - [openyurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge(project under CNCF).
