@@ -473,6 +473,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [galadriel](https://github.com/HewlettPackard/galadriel) - SPIFFE Federation the easy way.
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
+- [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
 - [in-toto](https://github.com/in-toto/in-toto) - in-toto is a framework to protect supply chain integrity.
 - [infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
@@ -494,6 +495,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [rond](https://github.com/rond-authz/rond) - A lightweight container for distributed security policy evaluation.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
 - [supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
+- [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
 - [topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs.
 - [trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities.
 - [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
