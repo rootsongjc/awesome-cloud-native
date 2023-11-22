@@ -377,6 +377,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management.
 - [kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-cluster Kubernetes Orchestration.
+- [kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing.
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [ocm](https://github.com/open-cluster-management-io/OCM) - The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
