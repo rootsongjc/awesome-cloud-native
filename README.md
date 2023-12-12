@@ -670,6 +670,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [k](https://github.com/yggheim/k) - Exec into kubernetes pod easy (via kubectl).
 - [k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing.
 - [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
+- [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
