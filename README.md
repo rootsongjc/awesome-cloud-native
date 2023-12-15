@@ -63,6 +63,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway.
 - [batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
+- [easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system.
 - [emissary-gateway](https://github.com/emissary-ingress/emissary) - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS.
 - [gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
