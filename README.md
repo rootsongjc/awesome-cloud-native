@@ -170,6 +170,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism.
 - [woodpecker](https://github.com/laszlocph/woodpecker) - Fork of drone.io v0.8 since drone is not fully opensource anymore.
 - [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+- [winglang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ## Big Data
 
@@ -227,6 +228,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
 - [openyurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge(project under CNCF).
 - [superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
+- [winglang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ## Kubernetes Operators
 
@@ -390,6 +392,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [swarm](https://github.com/docker/classicswarm) - Swarm: a Docker-native clustering system.
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF).
+- [winglang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ## Proxy
 
@@ -582,6 +585,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification.
 - [sqoop](https://github.com/solo-io/sqoop) - The GraphQL Engine powered by Gloo.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+- [winglang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ## Stability
 
@@ -776,6 +780,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers.
 - [wksctl](https://github.com/weaveworks/wksctl) - Open Source Weaveworks Kubernetes System.
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - A spreadsheet to control your Kubernetes cluster.
+- [winglang](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 
 ## Tracing
 
