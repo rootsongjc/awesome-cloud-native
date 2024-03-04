@@ -22,7 +22,7 @@ jobs:
 
     - name: Get dependencies
       run: |
-        export GO111MODULE=off
+        export GO111MODULE=on
         go get -v -t -d ./...
         if [ -f Gopkg.toml ]; then
             curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
