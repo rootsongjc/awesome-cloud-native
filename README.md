@@ -2,12 +2,8 @@
 
 > A curated list of open-source cloud native tools, software, and tutorials.
 >
-> 云原生开源工具、软件、教程大全。
 
 Cloud Native is a behavior and design philosophy. At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
-
-- [Join the Cloud Native Community (China)](https://cloudnative.to)
-- [加入云原生社区](https://cloudnative.to/community/join/)
 
 ## Contents
 
@@ -837,11 +833,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform.
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
-
-## Community
-
-- [Cloud Native Community (China)](https://cloudnative.to)
-- [Cloud Native Computing Foundation](https://www.cncf.io/)
 
 ## Contribute
 
