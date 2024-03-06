@@ -466,6 +466,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
+- [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
 - [curiefense](https://github.com/curiefense/curiefense) - Adds a broad set of automated web security tools to Envoy.
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.
