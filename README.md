@@ -314,6 +314,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more.
 - [ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network.
+- [loxilb](https://github.com/loxilb-io/loxilb) - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.
 
 ## Observability
 
