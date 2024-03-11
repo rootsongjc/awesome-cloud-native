@@ -21,7 +21,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [Network](#network)
 - [Observability](#observability)
 - [Orchestration and Scheduler](#orchestration-and-scheduler)
-- [Proxy](#proxy)
+- [Proxy and Load Balancer](#proxy-and-load-balancer)
 - [RPC](#rpc)
 - [Runtime](#runtime)
 - [Security and Audit](#security-and-audit)
@@ -314,7 +314,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more.
 - [ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network.
-- [loxilb](https://github.com/loxilb-io/loxilb) - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.
 
 ## Observability
 
@@ -392,7 +391,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF).
 
-## Proxy
+## Proxy and Load Balancer
 
 - [apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) - Ingress controller for K8s.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS.
@@ -408,6 +407,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer.
 - [kong-ingress](https://github.com/koli/kong-ingress) - A Kubernetes Ingress for Kong.
 - [kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - Deploy Kong in a native Kubernetes Ingress Controller.
+- [loxilb](https://github.com/loxilb-io/loxilb) - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh.
 - [nginx-kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes.
