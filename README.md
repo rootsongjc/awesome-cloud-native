@@ -583,6 +583,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification.
 - [sqoop](https://github.com/solo-io/sqoop) - The GraphQL Engine powered by Gloo.
+- [tau](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
 ## Stability
