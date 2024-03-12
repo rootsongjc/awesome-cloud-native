@@ -399,6 +399,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) - Ingress controller for K8s.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS.
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
+- [dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is a command line tool that simulates real world behaviors of HTTP APIs, including Microsoft Graph, locally.
 - [envoy-docker-shim](https://github.com/Nitro/envoy-docker-shim) - Run Envoy in place of docker-proxy.
 - [envoy](https://github.com/envoyproxy/envoy) - C++ front/service proxy.
 - [func-e](https://github.com/tetratelabs/func-e) - func-e (pronounced funky) makes running Envoy easy.
