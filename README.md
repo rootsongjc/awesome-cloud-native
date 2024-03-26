@@ -235,6 +235,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [fabedge](https://github.com/FabEdge/fabedge) - Secure Edge Networking Based On Kubernetes And KubeEdge.
 - [flagger](https://github.com/weaveworks/flagger) - Istio progressive delivery Kubernetes operator.
 - [k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron is a powerful open-source tool for the efficient management of k0s Kubernetes clusters.
+- [kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator.
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
 - [kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
 - [kube-green](https://github.com/kube-green/kube-green) - A Kubernetes operator to reduce CO2 footprint of your clusters.
