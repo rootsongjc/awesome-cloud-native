@@ -271,6 +271,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Message Broker
 
+- [automq](https://github.com/AutoMQ/automq) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
 - [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.
 - [eventmesh](https://github.com/WeBankFinTech/EventMesh) - EventMesh is a dynamic cloud-native eventing infrastructure used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
 - [flume](https://github.com/apache/flume) - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
