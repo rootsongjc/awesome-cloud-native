@@ -546,6 +546,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains middleware.
 - [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+- [kosmos](https://github.com/kosmos-io/kosmos) - The limitless expansion of Kubernetes. Make Kubernetes without boundaries.
 - [open-service-broker-sdk](https://github.com/openshift/open-service-broker-sdk) - A starting point for creating service brokers implementing the Open Service Broker API.
 - [polaris](https://github.com/polarismesh/polaris) - Service discovery and governance center for distributed and microservice architecture.
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters.
