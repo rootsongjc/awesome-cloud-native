@@ -690,6 +690,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
 - [kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool.
+- [kftray](https://github.com/hcavarsan/kftray) - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.
 - [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances.
