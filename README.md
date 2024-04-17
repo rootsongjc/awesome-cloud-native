@@ -315,6 +315,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution.
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
 - [kube-ovn](https://github.com/alauda/kube-ovn) - Kube-OVN, a Kubernetes network fabric for enterprises that is rich in functions and easy in operations.
+- [kubeslice](https://github.com/kubeslice/kubeslice) - KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices.
 - [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 - [multus](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
