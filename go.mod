@@ -23,5 +23,5 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d // indirect
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
-	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 )
