@@ -21,16 +21,9 @@
 
 <blockquote>
 <p>A curated list of open-source cloud native tools, software, and tutorials.</p>
-
-<p>云原生开源工具、软件、教程大全。</p>
 </blockquote>
 
 <p>Cloud Native is a behavior and design philosophy. At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.</p>
-
-<ul>
-<li><a href="https://cloudnative.to" rel="nofollow">Join the Cloud Native Community (China)</a></li>
-<li><a href="https://cloudnative.to/community/join/" rel="nofollow">加入云原生社区</a></li>
-</ul>
 <h2><a name="contents" class="anchor" href="#contents" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 Contents</h2>
 
@@ -49,7 +42,7 @@ Contents</h2>
 <li><a href="#network" rel="nofollow">Network</a></li>
 <li><a href="#observability" rel="nofollow">Observability</a></li>
 <li><a href="#orchestration-and-scheduler" rel="nofollow">Orchestration and Scheduler</a></li>
-<li><a href="#proxy" rel="nofollow">Proxy</a></li>
+<li><a href="#proxy-and-load-balancer" rel="nofollow">Proxy and Load Balancer</a></li>
 <li><a href="#rpc" rel="nofollow">RPC</a></li>
 <li><a href="#runtime" rel="nofollow">Runtime</a></li>
 <li><a href="#security-and-audit" rel="nofollow">Security and Audit</a></li>
@@ -201,6 +194,7 @@ Application Delivery</h2>
 <li><a href="https://github.com/hashicorp/waypoint" rel="nofollow">waypoint</a> - A tool to build, deploy, and release any application on any platform.</li>
 <li><a href="https://github.com/wercker/wercker" rel="nofollow">wercker</a> - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection.</li>
 <li><a href="https://github.com/werf/werf" rel="nofollow">werf</a> - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism.</li>
+<li><a href="https://github.com/winglang/wing" rel="nofollow">wing</a> - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.</li>
 <li><a href="https://github.com/laszlocph/woodpecker" rel="nofollow">woodpecker</a> - Fork of drone.io v0.8 since drone is not fully opensource anymore.</li>
 <li><a href="https://github.com/koderover/zadig" rel="nofollow">zadig</a> - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.</li>
 </ul>
@@ -275,6 +269,9 @@ Kubernetes Operators</h2>
 <li><a href="https://github.com/KohlsTechnology/eunomia" rel="nofollow">eunomia</a> - A GitOps Operator for Kubernetes.</li>
 <li><a href="https://github.com/FabEdge/fabedge" rel="nofollow">fabedge</a> - Secure Edge Networking Based On Kubernetes And KubeEdge.</li>
 <li><a href="https://github.com/weaveworks/flagger" rel="nofollow">flagger</a> - Istio progressive delivery Kubernetes operator.</li>
+<li><a href="https://github.com/kong/gateway-operator" rel="nofollow">gateway-operator</a> - Kong Gateway Operator is a Kubernetes Operator that can manage your Kong Ingress Controller, Kong Gateway Data Planes, or both together when running on Kubernetes.</li>
+<li><a href="https://github.com/k0sproject/k0smotron" rel="nofollow">k0smotron</a> - k0smotron is a powerful open-source tool for the efficient management of k0s Kubernetes clusters.</li>
+<li><a href="https://github.com/Azure/kaito" rel="nofollow">kaito</a> - Kubernetes AI Toolchain Operator.</li>
 <li><a href="https://github.com/keel-hq/keel" rel="nofollow">keel</a> - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet &amp; Deployment updates.</li>
 <li><a href="https://github.com/zalando-incubator/kopf" rel="nofollow">kopf</a> - A Python framework to write Kubernetes operators in just few lines of code.</li>
 <li><a href="https://github.com/kube-green/kube-green" rel="nofollow">kube-green</a> - A Kubernetes operator to reduce CO2 footprint of your clusters.</li>
@@ -315,6 +312,7 @@ Logging</h2>
 Message Broker</h2>
 
 <ul>
+<li><a href="https://github.com/AutoMQ/automq" rel="nofollow">automq</a> - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.</li>
 <li><a href="https://github.com/emqx/emqx" rel="nofollow">emqx</a> - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era.</li>
 <li><a href="https://github.com/WeBankFinTech/EventMesh" rel="nofollow">eventmesh</a> - EventMesh is a dynamic cloud-native eventing infrastructure used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.</li>
 <li><a href="https://github.com/apache/flume" rel="nofollow">flume</a> - Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.</li>
@@ -360,7 +358,11 @@ Network</h2>
 <li><a href="https://github.com/ZTE/Knitter" rel="nofollow">knitter</a> - Kubernetes network solution.</li>
 <li><a href="https://github.com/cloudnativelabs/kube-router" rel="nofollow">kube-router</a> - Kube-router, a turnkey solution for Kubernetes networking.</li>
 <li><a href="https://github.com/alauda/kube-ovn" rel="nofollow">kube-ovn</a> - Kube-OVN, a Kubernetes network fabric for enterprises that is rich in functions and easy in operations.</li>
+<li><a href="https://github.com/kubeslice/kubeslice" rel="nofollow">kubeslice</a> - KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices.</li>
 <li><a href="https://github.com/poseidon/matchbox" rel="nofollow">matchbox</a> - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).</li>
+<li><a href="https://github.com/k8snetworkplumbingwg/multus-cni" rel="nofollow">multus</a> - A CNI meta-plugin for multi-homed pods in Kubernetes.</li>
+<li><a href="https://github.com/cloudflare/pingora" rel="nofollow">pingora</a> - A library for building fast, reliable and evolvable network services.</li>
+<li><a href="https://github.com/spidernet-io/spiderpool" rel="nofollow">spiderpool</a> - Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud.</li>
 <li><a href="https://github.com/submariner-io/submariner" rel="nofollow">submariner</a> - Connect all your Kubernetes clusters, no matter where they are in the world.</li>
 <li><a href="https://github.com/weaveworks/weave" rel="nofollow">weave</a> - Simple, resilient multi-host Docker networking and more.</li>
 <li><a href="https://github.com/openziti/ziti" rel="nofollow">ziti</a> - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network.</li>
@@ -445,13 +447,14 @@ Orchestration and Scheduler</h2>
 <li><a href="https://github.com/magneticio/vamp" rel="nofollow">vamp</a> - Vamp - canary releasing and autoscaling for microservice systems.</li>
 <li><a href="https://github.com/volcano-sh/volcano" rel="nofollow">volcano</a> - A Kubernetes Native Batch System (Project under CNCF).</li>
 </ul>
-<h2><a name="proxy" class="anchor" href="#proxy" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>
-Proxy</h2>
+<h2><a name="proxy-and-load-balancer" class="anchor" href="#proxy-and-load-balancer" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+Proxy and Load Balancer</h2>
 
 <ul>
 <li><a href="https://github.com/apache/apisix-ingress-controller" rel="nofollow">apisix-ingress-controller</a> - Ingress controller for K8s.</li>
 <li><a href="https://github.com/caddyserver/caddy" rel="nofollow">caddy</a> - Fast, cross-platform HTTP/2 web server with automatic HTTPS.</li>
 <li><a href="https://github.com/projectcontour/contour" rel="nofollow">contour</a> - Contour is a Kubernetes ingress controller for Lyft&#39;s Envoy proxy.</li>
+<li><a href="https://github.com/microsoft/dev-proxy" rel="nofollow">dev-proxy</a> - Dev Proxy is a command line tool that simulates real world behaviors of HTTP APIs, including Microsoft Graph, locally.</li>
 <li><a href="https://github.com/Nitro/envoy-docker-shim" rel="nofollow">envoy-docker-shim</a> - Run Envoy in place of docker-proxy.</li>
 <li><a href="https://github.com/envoyproxy/envoy" rel="nofollow">envoy</a> - C++ front/service proxy.</li>
 <li><a href="https://github.com/tetratelabs/func-e" rel="nofollow">func-e</a> - func-e (pronounced funky) makes running Envoy easy.</li>
@@ -463,6 +466,7 @@ Proxy</h2>
 <li><a href="https://github.com/facebookincubator/katran" rel="nofollow">katran</a> - A high performance layer 4 load balancer.</li>
 <li><a href="https://github.com/koli/kong-ingress" rel="nofollow">kong-ingress</a> - A Kubernetes Ingress for Kong.</li>
 <li><a href="https://github.com/Kong/kubernetes-ingress-controller" rel="nofollow">kong/kubernetes-ingress-controller</a> - Deploy Kong in a native Kubernetes Ingress Controller.</li>
+<li><a href="https://github.com/loxilb-io/loxilb" rel="nofollow">loxilb</a> - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.</li>
 <li><a href="https://github.com/metallb/metallb" rel="nofollow">metallb</a> - A network load-balancer implementation for Kubernetes using standard routing protocols.</li>
 <li><a href="https://github.com/mosn/mosn" rel="nofollow">mosn</a> - MOSN is a cloud native proxy for edge or service mesh.</li>
 <li><a href="https://github.com/nginxinc/kubernetes-ingress" rel="nofollow">nginx-kubernetes-ingress</a> - NGINX and NGINX Plus Ingress Controllers for Kubernetes.</li>
@@ -528,6 +532,7 @@ Security and Audit</h2>
 <li><a href="https://github.com/jetstack/cert-manager" rel="nofollow">cert-manager</a> - Automatically provision and manage TLS certificates in Kubernetes.</li>
 <li><a href="https://github.com/bridgecrewio/checkov/" rel="nofollow">checkov</a> - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.</li>
 <li><a href="https://github.com/quay/clair" rel="nofollow">clair</a> - Vulnerability Static Analysis for Containers.</li>
+<li><a href="https://github.com/corazawaf/coraza" rel="nofollow">coraza</a> - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.</li>
 <li><a href="https://github.com/kubecost/cost-model" rel="nofollow">cost-model</a> - Cross-cloud cost allocation models for workloads running on Kubernetes.</li>
 <li><a href="https://github.com/curiefense/curiefense" rel="nofollow">curiefense</a> - Adds a broad set of automated web security tools to Envoy.</li>
 <li><a href="https://github.com/dexidp/dex" rel="nofollow">dex</a> - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.</li>
@@ -581,6 +586,7 @@ Service Mesh</h2>
 <li><a href="https://github.com/tetratelabs/getmesh" rel="nofollow">getmesh</a> - An integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.</li>
 <li><a href="https://github.com/istio/istio" rel="nofollow">istio</a> - Connect, secure, control, and observe services.</li>
 <li><a href="https://github.com/tetratelabs/istio-security-analyzer" rel="nofollow">istio-security-analyzer</a> - A tool to analyze Istio security.</li>
+<li><a href="https://github.com/kmesh-net/kmesh" rel="nofollow">kmesh</a> - High Performance Service Mesh Data Plane Based on Programmable Kernel.</li>
 <li><a href="https://github.com/kumahq/kuma" rel="nofollow">kuma</a> - Universal Control Plane for your Service Mesh.</li>
 <li><a href="https://github.com/slime-io/slime" rel="nofollow">slime</a> - Slime is a CRD controller for istio.</li>
 <li><a href="https://github.com/linkerd/linkerd" rel="nofollow">linkerd</a> - Resilient service mesh for cloud native apps.</li>
@@ -603,6 +609,7 @@ Service Registry and Discovery</h2>
 <li><a href="https://github.com/kelseyhightower/confd" rel="nofollow">confd</a> - Manage local application configuration files using templates and data from etcd or consul.</li>
 <li><a href="https://github.com/coredns/coredns" rel="nofollow">coredns</a> - CoreDNS is a DNS server that chains middleware.</li>
 <li><a href="https://github.com/Netflix/eureka" rel="nofollow">eureka</a> - AWS Service registry for resilient mid-tier load balancing and failover.</li>
+<li><a href="https://github.com/kosmos-io/kosmos" rel="nofollow">kosmos</a> - The limitless expansion of Kubernetes. Make Kubernetes without boundaries.</li>
 <li><a href="https://github.com/openshift/open-service-broker-sdk" rel="nofollow">open-service-broker-sdk</a> - A starting point for creating service brokers implementing the Open Service Broker API.</li>
 <li><a href="https://github.com/polarismesh/polaris" rel="nofollow">polaris</a> - Service discovery and governance center for distributed and microservice architecture.</li>
 <li><a href="https://github.com/gliderlabs/registrator" rel="nofollow">registrator</a> - Service registry bridge for Docker with pluggable adapters.</li>
@@ -649,6 +656,7 @@ Serverless</h2>
 <li><a href="https://github.com/knative/serving" rel="nofollow">serving</a> - Kubernetes-based, scale-to-zero, request-driven compute.</li>
 <li><a href="https://github.com/cloudevents/spec" rel="nofollow">spec</a> - CloudEvents Specification.</li>
 <li><a href="https://github.com/solo-io/sqoop" rel="nofollow">sqoop</a> - The GraphQL Engine powered by Gloo.</li>
+<li><a href="https://github.com/taubyte/tau" rel="nofollow">tau</a> - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.</li>
 <li><a href="https://github.com/thanos-io/thanos" rel="nofollow">thanos</a> - Highly available Prometheus setup with long term storage capabilities.</li>
 </ul>
 <h2><a name="stability" class="anchor" href="#stability" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>
@@ -660,6 +668,7 @@ Stability</h2>
 <li><a href="https://github.com/chaos-mesh/chaos-mesh" rel="nofollow">chaos-mesh</a> - A Chaos Engineering Platform for Kubernetes.</li>
 <li><a href="https://github.com/Netflix/concurrency-limits" rel="nofollow">concurrency-limits</a> - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.</li>
 <li><a href="https://github.com/Netflix/Hystrix" rel="nofollow">hystrix</a> - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.</li>
+<li><a href="https://github.com/krkn-chaos/krkn" rel="nofollow">krkn</a> - Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.</li>
 <li><a href="https://github.com/kubediag/kubediag" rel="nofollow">kubediag</a> - Problem diagnosis and operation orchestration for Kubernetes.</li>
 <li><a href="https://github.com/storax/kubedoom" rel="nofollow">kubedoom</a> - Kill Kubernetes pods by playing Id&#39;s DOOM!</li>
 <li><a href="https://github.com/litmuschaos/litmus" rel="nofollow">litmus</a> - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way.</li>
@@ -751,6 +760,7 @@ Tools</h2>
 <li><a href="https://github.com/aws/karpenter" rel="nofollow">karpenter</a> - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.</li>
 <li><a href="https://github.com/bit-cloner/kcg" rel="nofollow">kcg</a> - Kubernetes config generator.</li>
 <li><a href="https://github.com/Stono/kconmon" rel="nofollow">kconmon</a> - A Kubernetes node connectivity monitoring tool.</li>
+<li><a href="https://github.com/hcavarsan/kftray" rel="nofollow">kftray</a> - Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories.</li>
 <li><a href="https://github.com/pivotal/kpack" rel="nofollow">kpack</a> - Kubernetes Native Container Build Service.</li>
 <li><a href="https://github.com/kubernetes-sigs/kind" rel="nofollow">kind</a> - Kubernetes IN Docker - local clusters for testing Kubernetes.</li>
 <li><a href="https://github.com/elotl/kip" rel="nofollow">kip</a> - Virtual-kubelet provider running pods in cloud instances.</li>
@@ -771,6 +781,7 @@ Tools</h2>
 <li><a href="https://github.com/senthilrch/kube-fledged" rel="nofollow">kube-fledged</a> - A kubernetes add-on for creating and managing a cache of container images in a kubernetes cluster.</li>
 <li><a href="https://github.com/tohjustin/kube-lineage" rel="nofollow">kube-lineage</a> - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.</li>
 <li><a href="https://github.com/stackrox/kube-linter" rel="nofollow">kube-linter</a> - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.</li>
+<li><a href="https://github.com/doitintl/kube-no-trouble" rel="nofollow">kube-no-trouble</a> - Easily check your clusters for use of deprecated APIs.</li>
 <li><a href="https://github.com/jonmosco/kube-ps1" rel="nofollow">kube-ps1</a> - Kubernetes prompt info for bash and zsh.</li>
 <li><a href="https://github.com/cloudnativelabs/kube-shell" rel="nofollow">kube-shell</a> - Kubernetes shell: An integrated shell for working with the Kubernetes CLI.</li>
 <li><a href="https://github.com/fleeto/kube-version-converter" rel="nofollow">kube-version-converter</a> - Convert API Object file into specified version.</li>
@@ -916,19 +927,12 @@ UI</h2>
 <li><a href="https://github.com/rancher/rancher" rel="nofollow">rancher</a> - Complete container management platform.</li>
 <li><a href="https://github.com/Qihoo360/wayne" rel="nofollow">wayne</a> - Web UI for Kubernetes multi-clusters.</li>
 </ul>
-<h2><a name="community" class="anchor" href="#community" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>
-Community</h2>
-
-<ul>
-<li><a href="https://cloudnative.to" rel="nofollow">Cloud Native Community (China)</a></li>
-<li><a href="https://www.cncf.io/" rel="nofollow">Cloud Native Computing Foundation</a></li>
-</ul>
 <h2><a name="contribute" class="anchor" href="#contribute" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 Contribute</h2>
 
 <p>This website is hosted on GitHub Pages within <a href="https://github.com/rootsongjc/awesome-cloud-native" rel="nofollow">rootsongjc/awesome-cloud-native</a> repository.</p>
 
-<p>Please take a quick gander at the <strong><a href="https://github.com/rootsongjc/awesome-cloud-native/blob/master/CONTRIBUTING.md" rel="nofollow">contribution guidelines</a></strong> first. Thanks to all <strong><a href="https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors" rel="nofollow">contributors</a></strong>, you rock 🤟!</p>
+<p>Please take a quick gander at the <strong><a href="https://github.com/rootsongjc/awesome-cloud-native/blob/main/CONTRIBUTING.md" rel="nofollow">contribution guidelines</a></strong> first. Thanks to all <strong><a href="https://github.com/rootsongjc/awesome-cloud-native/graphs/contributors" rel="nofollow">contributors</a></strong>, you rock 🤟!</p>
 
 	</div>
 
