@@ -161,6 +161,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification.
 - [spec](https://github.com/score-spec/spec) - The score specification file.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+- [tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 - [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes.
 - [timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
