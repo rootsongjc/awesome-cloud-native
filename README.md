@@ -60,6 +60,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [alb](https://github.com/alauda/alb) - ALB (Another Load Balancer) is a Kubernetes Gateway powered by OpenResty with years of production experience from Alauda.
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway.
 - [batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
+- [bricksllm](https://github.com/bricks-cloud/BricksLLM) - Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
 - [easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system.
 - [emissary-gateway](https://github.com/emissary-ingress/emissary) - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy.
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of ExpressJS.
