@@ -842,6 +842,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cloudfoundry](https://github.com/cloudfoundry) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
 - [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically.
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
+- [karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
