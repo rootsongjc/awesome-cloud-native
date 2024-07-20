@@ -756,6 +756,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
 - [kvdi](https://github.com/tinyzimmer/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure.
 - [kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
+- [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 - [microconfig](https://github.com/microconfig/microconfig) - Modern and simple way of microservice configuration management.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap.
 - [mindaro](https://github.com/microsoft/mindaro) - Bridge to Kubernetes - for Visual Studio and Visual Studio Code
