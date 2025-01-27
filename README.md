@@ -513,6 +513,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [neuvector](https://github.com/neuvector/neuvector) - Kubernetes-native container security platform.
 - [notary](https://github.com/theupdateframework/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data.
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service.
+- [opal](https://github.com/permitio/opal) - An administration layer for Policy Engines, detecting changes to both policy and policy data in real time and pushing live updates to your agents.
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [rond](https://github.com/rond-authz/rond) - A lightweight container for distributed security policy evaluation.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
