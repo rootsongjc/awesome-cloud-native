@@ -164,6 +164,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification.
 - [spec](https://github.com/score-spec/spec) - The score specification file.
+- [spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
