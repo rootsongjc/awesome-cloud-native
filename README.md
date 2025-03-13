@@ -118,6 +118,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager.
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases.
 - [helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts.
+- [helm-kanvas-snapshot](https://github.com/meshery/helm-kanvas-snapshot) - A Plugin that generates a visual snapshot of Helm charts.
 - [helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code.
 - [hiboot](https://github.com/hidevopsio/hiboot) - Hiboot is a high performance web and cli application framework with dependency injection support.
 - [hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
@@ -147,6 +148,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kusion](https://github.com/KusionStack/kusion) - A compile-to-cloud technology stack with tool chains and engine.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
 - [lastbackend](https://github.com/lastbackend/lastbackend) - Container orchestration with CI&CD, cli and amazing UI.
+- [meshery](https://github.com/meshery/meshery) - A open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 - [move2kube](https://github.com/konveyor/move2kube) - A tool to help users migrate their apps from legacy platforms like Cloud Foundry to Kubernetes and Openshift. Analyses the application source code and generates Kubernetes YAMLs, Helm Charts, Tekton Pipelines, etc. The analysis and generation can be heavily customized to produce the exact output that you want.
 - [opencompose](https://github.com/redhat-developer/opencompose) - A higher level abstraction for Kubernetes Resource.
