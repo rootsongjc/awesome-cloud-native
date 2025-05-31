@@ -742,7 +742,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
 - [kubedb](https://github.com/k8sdb/cli) - KubeDB CLI to manage kubernetes ready production-grade Databases.
 - [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - A CLI tool to generate Kubernetes architecture diagrams automatically from Kubernetes manifest files, kustomization files, Helm charts, helmfile descriptors, and actual cluster state.
-to manage kubernetes ready production-grade Databases.
 - [kubedirector](https://github.com/bluek8s/kubedirector) - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
 - [kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform.
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
