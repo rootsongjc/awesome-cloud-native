@@ -70,6 +70,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [haproxy-ingress](https://github.com/jcmoraisjr/haproxy-ingress) - HaProxy Ingress.
 - [higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway.
 - [kong](https://github.com/Kong/kong) - The Microservice API Gateway.
+- [litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq].
 - [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation.
 - [nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
