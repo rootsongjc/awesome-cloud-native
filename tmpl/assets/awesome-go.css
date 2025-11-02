@@ -1,9 +1,10 @@
 * {
-	max-width: 100%;
-	box-sizing: border-box;
-	font-family: "Fira Sans";
-	text-decoration: none;
-	font-weight: 300;
+    max-width: 100%;
+    box-sizing: border-box;
+    font-family: "Fira Sans";
+    text-decoration: none;
+    font-weight: 300;
+    color: inherit;
 }
 .awesome-logo {
 	max-width: 500px;
@@ -13,11 +14,14 @@
 }
 
 a {
-	color: #669;
+    color: var(--link-color);
 }
-a:visited, h1, h2, h3, h4 {
-	color: #494368;
-	font-weight: 400;
+a:visited {
+    color: var(--link-visited-color);
+}
+h1, h2, h3, h4 {
+    color: var(--heading-color);
+    font-weight: 400;
 }
 h1 > a:nth-child(1) {
 	margin-left: 10px;

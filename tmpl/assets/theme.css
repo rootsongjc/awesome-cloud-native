@@ -1,0 +1,75 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #1f2933;
+    --heading-color: #494368;
+    --link-color: #666699;
+    --link-hover-color: #4f46e5;
+    --link-visited-color: #494368;
+    --panel-bg: rgba(31, 41, 51, 0.04);
+    --button-bg: rgba(15, 23, 42, 0.08);
+    --button-hover-bg: rgba(15, 23, 42, 0.12);
+    --button-text: #1f2933;
+    --border-color: rgba(15, 23, 42, 0.08);
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+
+body.dark-mode {
+    --bg-color: #0f172a;
+    --text-color: #e2e8f0;
+    --heading-color: #f8fafc;
+    --link-color: #8da2fb;
+    --link-hover-color: #c4cfff;
+    --link-visited-color: #cbd5f5;
+    --panel-bg: rgba(148, 163, 184, 0.1);
+    --button-bg: rgba(148, 163, 184, 0.18);
+    --button-hover-bg: rgba(148, 163, 184, 0.28);
+    --button-text: #f8fafc;
+    --border-color: rgba(148, 163, 184, 0.26);
+}
+
+#theme-toggle {
+    position: fixed;
+    top: 24px;
+    right: 24px;
+    padding: 8px 14px;
+    border-radius: 9999px;
+    border: 1px solid var(--border-color);
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    font-size: 14px;
+    font-weight: 500;
+    backdrop-filter: blur(6px);
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    z-index: 10;
+}
+
+#theme-toggle:hover,
+#theme-toggle:focus {
+    background-color: var(--button-hover-bg);
+    outline: none;
+}
+
+#content {
+    background-color: transparent;
+}
+
+@media (max-width: 720px) {
+    #theme-toggle {
+        top: 16px;
+        right: 16px;
+    }
+}

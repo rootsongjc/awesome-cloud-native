@@ -12,11 +12,13 @@
 	<meta name="description" content="A curated list of open-source cloud native tools, software and tutorials.">
 	<meta name="keywords" content="cloud native, open source, tutorials, software">
 	<link rel="stylesheet" type="text/css" href="./assets/fonts/firasans.css">
+	<link rel="stylesheet" type="text/css" href="./assets/theme.css">
 	<link rel="stylesheet" type="text/css" href="./assets/normalize.css">
 	<link rel="stylesheet" type="text/css" href="./assets/awesome-go.css">
 	<script defer src="https://cloud.umami.is/script.js" data-website-id="4be5e400-07e6-44aa-8e23-ac95dc6925aa"></script>
 </head>
 <body>
+	<button id="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">🌙 Dark mode</button>
 	<div id="content">
 		<h1><a name="awesome-cloud-native" class="anchor" href="#awesome-cloud-native" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>Awesome Cloud Native <a href="https://github.com/sindresorhus/awesome" rel="nofollow"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></h1>
 
@@ -1010,5 +1012,61 @@ Contribute</h2>
 
 	<script src="./assets/jquery-custom.min.js"></script>
 	<script src="./assets/marked.js"></script>
+	<script>
+	(function () {
+		var storageKey = 'acn-theme';
+		var body = document.body;
+		var toggle = document.getElementById('theme-toggle');
+		if (!toggle) {
+			return;
+		}
+
+		function applyTheme(theme) {
+			var isDark = theme === 'dark';
+			body.classList.toggle('dark-mode', isDark);
+			toggle.textContent = isDark ? '☀️ Light mode' : '🌙 Dark mode';
+			toggle.setAttribute('aria-pressed', isDark ? 'true' : 'false');
+		}
+
+		var mediaQuery = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+		var stored = null;
+		try {
+			stored = localStorage.getItem(storageKey);
+		} catch (err) {
+			stored = null;
+		}
+		var prefersDark = mediaQuery ? mediaQuery.matches : false;
+		var initial = stored || (prefersDark ? 'dark' : 'light');
+		applyTheme(initial);
+
+		if (mediaQuery) {
+			var handleChange = function (event) {
+				try {
+					if (localStorage.getItem(storageKey)) {
+						return;
+					}
+				} catch (err) {
+					// ignore storage errors
+				}
+				applyTheme(event.matches ? 'dark' : 'light');
+			};
+			if (typeof mediaQuery.addEventListener === 'function') {
+				mediaQuery.addEventListener('change', handleChange);
+			} else if (typeof mediaQuery.addListener === 'function') {
+				mediaQuery.addListener(handleChange);
+			}
+		}
+
+		toggle.addEventListener('click', function () {
+			var nextTheme = body.classList.contains('dark-mode') ? 'light' : 'dark';
+			applyTheme(nextTheme);
+			try {
+				localStorage.setItem(storageKey, nextTheme);
+			} catch (err) {
+				// ignore storage errors
+			}
+		});
+	})();
+	</script>
 </body>
 </html>
