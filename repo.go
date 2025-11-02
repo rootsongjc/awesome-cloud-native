@@ -2,6 +2,7 @@ package main
 
 import (
 	"io/ioutil"
+	"log"
 	"os"
 	"os/exec"
 	"text/template"
@@ -9,42 +10,56 @@ import (
 	gfm "github.com/shurcooL/github_flavored_markdown"
 )
 
-// memory usage optimizations
 const (
-	emtyStr  = ""
-	git      = "git"
-	checkout = "checkout"
-	force    = "-f"
-	pull     = "pull"
-
-	// options
 	readmePath = "./README.md"
 	tplPath    = "tmpl/tmpl.html"
 	idxPath    = "tmpl/index.html"
-)
-
-var (
-	doneResp = []byte("Done!\n")
 )
 
 type content struct {
 	Body string
 }
 
-func generateHTML() {
-	// Update repo
-	exec.Command(git, checkout, force).Output()
-	exec.Command(git, pull).Output()
+func updateRepo() {
+	cmd := exec.Command("git", "pull")
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	if err := cmd.Run(); err != nil {
+		log.Fatalf("Error updating repository: %v", err)
+	}
+}
 
-	input, _ := ioutil.ReadFile(readmePath)
+func readMarkdownFile() []byte {
+	input, err := ioutil.ReadFile(readmePath)
+	if err != nil {
+		log.Fatalf("Error reading README.md: %v", err)
+	}
+	return input
+}
+
+func generateHTML(input []byte) {
 	body := string(gfm.Markdown(input))
 	c := &content{Body: body}
 
-	t := template.Must(template.ParseFiles(tplPath))
-	f, _ := os.Create(idxPath)
-	t.Execute(f, c)
+	t, err := template.ParseFiles(tplPath)
+	if err != nil {
+		log.Fatalf("Error parsing template: %v", err)
+	}
+
+	f, err := os.Create(idxPath)
+	if err != nil {
+		log.Fatalf("Error creating index.html: %v", err)
+	}
+	defer f.Close()
+
+	if err := t.Execute(f, c); err != nil {
+		log.Fatalf("Error executing template: %v", err)
+	}
 }
 
 func main() {
-	generateHTML()
+	updateRepo()
+	markdown := readMarkdownFile()
+	generateHTML(markdown)
+	log.Println("Successfully generated index.html")
 }
