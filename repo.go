@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
+	"strings"
 	"text/template"
 
 	gfm "github.com/shurcooL/github_flavored_markdown"
@@ -21,11 +22,24 @@ type content struct {
 }
 
 func updateRepo() {
-	cmd := exec.Command("git", "pull")
-	cmd.Stdout = os.Stdout
-	cmd.Stderr = os.Stderr
-	if err := cmd.Run(); err != nil {
-		log.Fatalf("Error updating repository: %v", err)
+	branchCmd := exec.Command("git", "rev-parse", "--abbrev-ref", "HEAD")
+	out, err := branchCmd.Output()
+	if err != nil {
+		log.Printf("Skipping git pull (unable to detect branch): %v", err)
+		return
+	}
+
+	currentBranch := strings.TrimSpace(string(out))
+	if currentBranch == "HEAD" || currentBranch == "" {
+		log.Println("Skipping git pull: detached HEAD detected")
+		return
+	}
+
+	pullCmd := exec.Command("git", "pull", "--ff-only")
+	pullCmd.Stdout = os.Stdout
+	pullCmd.Stderr = os.Stderr
+	if err := pullCmd.Run(); err != nil {
+		log.Printf("Continuing without git pull (failed to update repository): %v", err)
 	}
 }
 
