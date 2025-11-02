@@ -19,6 +19,7 @@
 </head>
 <body>
 	<button id="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">🌙 Dark mode</button>
+	<button id="back-to-top" type="button" aria-label="Back to top">↑ Top</button>
 	<div id="content">
 		{{.Body}}
 	</div>
@@ -78,6 +79,37 @@
 			} catch (err) {
 				// ignore storage errors
 			}
+		});
+	})();
+	</script>
+	<script>
+	(function () {
+		var trigger = document.getElementById('back-to-top');
+		if (!trigger) {
+			return;
+		}
+
+		var lastKnownScroll = 0;
+		var ticking = false;
+
+		function toggleVisibility() {
+			var shouldShow = lastKnownScroll > 320;
+			trigger.classList.toggle('show', shouldShow);
+		}
+
+		window.addEventListener('scroll', function () {
+			lastKnownScroll = window.scrollY;
+			if (!ticking) {
+				window.requestAnimationFrame(function () {
+					toggleVisibility();
+					ticking = false;
+				});
+				ticking = true;
+			}
+		});
+
+		trigger.addEventListener('click', function () {
+			window.scrollTo({ top: 0, behavior: 'smooth' });
 		});
 	})();
 	</script>

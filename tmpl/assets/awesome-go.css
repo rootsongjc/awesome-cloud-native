@@ -31,17 +31,120 @@ h1 > a img {
 }
 
 #content {
-	width: 100%;
-	padding: 40px 80px;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 56px 64px 72px;
+}
+
+#content h1:first-of-type {
+    font-size: 2.75rem;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+}
+
+#content h1:first-of-type + blockquote {
+    margin-top: 0;
+}
+
+#content h1:first-of-type::after {
+    content: "";
+    display: block;
+    margin-top: 18px;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(90deg, var(--header-border), rgba(255,255,255,0));
+}
+
+#content > h2:first-of-type {
+    margin-top: 40px;
+}
+
+#content > h2:first-of-type + ul {
+    background-color: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 16px;
+    padding: 20px 24px;
+    display: grid;
+    gap: 12px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    list-style: none;
+    margin-bottom: 40px;
+    padding-left: 16px;
+}
+
+#content > h2:first-of-type + ul li {
+    margin: 0;
+}
+
+blockquote {
+    background-color: var(--blockquote-bg);
+    border-left: 4px solid var(--blockquote-border);
+    padding: 16px 20px;
+    margin: 24px 0 32px;
+    border-radius: 12px;
+    font-style: italic;
+}
+
+blockquote p {
+    margin: 0;
+}
+
+#content ul {
+    margin: 0 0 28px;
+    padding-left: 24px;
+}
+
+#content li {
+    margin-bottom: 6px;
+    line-height: 1.55;
+}
+
+#content li:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-width: 960px) {
+    #content {
+        padding: 48px 48px 64px;
+    }
 }
 
 @media (max-width: 720px) {
-	#content {
-		padding: 20px 40px;
-	}
+    #content {
+        padding: 32px 32px 56px;
+    }
+
+    #content h1:first-of-type {
+        font-size: 2.1rem;
+        line-height: 1.2;
+        margin-bottom: 6px;
+    }
+
+    #content > h2:first-of-type + ul {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        padding: 18px 20px;
+    }
 }
+
 @media (max-width: 420px) {
-	#content * {
-		word-wrap: break-word;
-	}
+    #content * {
+        word-wrap: break-word;
+    }
+
+    #content {
+        padding: 28px 20px 48px;
+    }
+
+    #content h1:first-of-type {
+        font-size: 1.8rem;
+    }
+
+    #content > h2:first-of-type + ul {
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 16px;
+        padding-bottom: 12px;
+    }
 }
