@@ -826,6 +826,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opal](https://github.com/permitio/opal) - An administration layer for Policy Engines, detecting changes to both policy and policy data in real time and pushing live updates to your agents.
 - [pomerium](https://github.com/pomerium/pomerium/) - Pomerium is a zero-trust context and identity aware access gateway inspired by BeyondCorp.
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer.
+- [segspec](https://github.com/dormstern/segspec) - Extracts network dependencies from application config files and generates Kubernetes NetworkPolicies with evidence tracing.
 - [rond](https://github.com/rond-authz/rond) - A lightweight container for distributed security policy evaluation.
 - [spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project.
 - [supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito.
