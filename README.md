@@ -323,6 +323,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubeutr](https://github.com/mr-karan/kubekutr) - Cookie cutter templating tool for scaffolding K8s manifests.
 - [memfree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 - [pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [ReleaseRun Kubernetes Deprecation Checker](https://releaserun.com/tools/k8s-deprecation-checker/) - Scan Kubernetes YAML manifests for deprecated and removed APIs with upgrade-safe replacements.
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
