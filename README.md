@@ -501,7 +501,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [antrea](https://github.com/antrea-io/antrea) - Antrea is a Kubernetes networking based on Open vSwitch.
 - [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
-- [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers.
+- [calico](https://github.com/projectcalico) - Highly scalable networking and security solution for containers, with blazing-fast eBPF data plane and powerful network policies.
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP.
 - [cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers.
 - [cni-genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave.
