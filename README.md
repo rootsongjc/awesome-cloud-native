@@ -711,7 +711,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
 - [highlight](https://github.com/highlight/highlight) - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to explain GPU latency in cloud-native environments. Helm chart and DaemonSet included.
+- [ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to explain GPU latency in cloud-native environments. Helm chart and DaemonSet included.
 - [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kelemetry](https://github.com/kubewharf/kelemetry) - Global control plane tracing for Kubernetes.
