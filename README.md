@@ -789,6 +789,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
+- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner with 47 curated checks. Each finding includes copy-paste remediation in AWS CLI and Terraform. Features attack chain detection and a diff command for CI/CD pipeline gating.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
 - [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [cosign](https://github.com/sigstore/cosign) - Container signing, verification, and provenance powered by Sigstore.
