@@ -786,6 +786,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 - [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
+- [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running coding agents inside hardware-isolated microVMs with workspace snapshot isolation and egress control.
 - [cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
@@ -803,6 +804,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [firezone](https://github.com/firezone/firezone) - VPN server and Linux firewall built on WireGuard®. Supports SSO, MFA, and user-scoped access rules.
 - [galadriel](https://github.com/HewlettPackard/galadriel) - SPIFFE Federation the easy way.
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
+- [go-microvm](https://github.com/stacklok/go-microvm) - Go framework for running OCI images as microVMs via libkrun with embedded runtime, rootfs management, and guest networking.
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
