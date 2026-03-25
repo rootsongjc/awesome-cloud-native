@@ -571,6 +571,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers.
+- [den](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with isolated Docker containers, cgroup v2 memory management, and dynamic pressure monitoring.
 - [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
