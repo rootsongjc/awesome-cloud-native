@@ -323,6 +323,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubeutr](https://github.com/mr-karan/kubekutr) - Cookie cutter templating tool for scaffolding K8s manifests.
 - [memfree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 - [pangolin](https://github.com/dpeckett/pangolin) - An enhanced Horizontal Pod Autoscaler for Kubernetes.
+- [releaserun-cli](https://github.com/Releaserun/releaserun-cli) - CLI tool to check Kubernetes manifests for deprecated/removed APIs, scan dependencies for vulnerabilities, and track version lifecycle status.
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
@@ -529,7 +530,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller for Lyft's Envoy proxy.
 - [dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is a command line tool that simulates real world behaviors of HTTP APIs, including Microsoft Graph, locally.
 - [envoy](https://github.com/envoyproxy/envoy) - C++ front/service proxy.
-- [envoy-docker-shim](https://github.com/Nitro/envoy-docker-shim) - Run Envoy in place of docker-proxy.
 - [func-e](https://github.com/tetratelabs/func-e) - func-e (pronounced funky) makes running Envoy easy.
 - [gimbal](https://github.com/projectcontour/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio.
 - [gobetween](https://github.com/yyyar/gobetween) - Modern & minimalistic load balancer for the Сloud era.
@@ -571,6 +571,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers.
+- [den](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with isolated Docker containers, cgroup v2 memory management, and dynamic pressure monitoring.
 - [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
@@ -582,6 +583,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) - Kubernetes LTS(long term support).
 - [lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially).
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
+- [mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 - [podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
 - [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
 - [railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime.
@@ -707,11 +709,11 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Compose.
 - [ebpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [elasticsearch-hq](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
-- [envoy-ui](https://github.com/Nitro/envoy-ui) - Dead simple server-side UI for Envoy proxy (like HAproxy stats).
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
 - [highlight](https://github.com/highlight/highlight) - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
+- [ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to explain GPU latency in cloud-native environments. Helm chart and DaemonSet included.
 - [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kelemetry](https://github.com/kubewharf/kelemetry) - Global control plane tracing for Kubernetes.
@@ -786,9 +788,11 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 - [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
+- [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running coding agents inside hardware-isolated microVMs with workspace snapshot isolation and egress control.
 - [cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
+- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner with 47 curated checks. Each finding includes copy-paste remediation in AWS CLI and Terraform. Features attack chain detection and a diff command for CI/CD pipeline gating.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
 - [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [cosign](https://github.com/sigstore/cosign) - Container signing, verification, and provenance powered by Sigstore.
@@ -802,6 +806,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [firezone](https://github.com/firezone/firezone) - VPN server and Linux firewall built on WireGuard®. Supports SSO, MFA, and user-scoped access rules.
 - [galadriel](https://github.com/HewlettPackard/galadriel) - SPIFFE Federation the easy way.
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
+- [go-microvm](https://github.com/stacklok/go-microvm) - Go framework for running OCI images as microVMs via libkrun with embedded runtime, rootfs management, and guest networking.
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
@@ -890,7 +895,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices/) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
-- [cloud-native-library](https://github.com/rootsongjc/cloud-native-library) - 云原生资料库 Cloud Native Library.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
 - [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial.
@@ -910,6 +914,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
+- [ReleaseRun](releaserun.com) — ReleaseRun — release monitoring and dependency EOL tracking for cloud native stacks — free K8s deprecation checker and dependency health tools
 
 ## Contribute
 
