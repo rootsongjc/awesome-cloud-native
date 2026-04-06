@@ -5,6 +5,7 @@
 
 Cloud Native is a behavior and design philosophy. At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for cloud-native infrastructure monitoring, automated orchestration, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [AI & Machine Learning Platforms](#ai-machine-learning-platforms)
