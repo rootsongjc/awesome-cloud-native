@@ -90,6 +90,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway.
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
+- [sbproxy](https://github.com/soapbucket/sbproxy) - Single-binary AI gateway and reverse proxy with 103+ LLM providers, cost-based routing, rate limiting, and declarative YAML configuration.
 - [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols.
 
 ## Continuous Delivery & GitOps
