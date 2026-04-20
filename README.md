@@ -668,6 +668,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes.
 - [fabedge](https://github.com/FabEdge/fabedge) - Secure Edge Networking Based On Kubernetes And KubeEdge.
 - [gateway-operator](https://github.com/kong/gateway-operator) - Kong Gateway Operator is a Kubernetes Operator that can manage your Kong Ingress Controller, Kong Gateway Data Planes, or both together when running on Kubernetes.
+- [jupyter-notebook-validator-operator](https://github.com/tosin2013/jupyter-notebook-validator-operator) - Validates Jupyter notebooks on Kubernetes/OpenShift (Papermill, golden outputs, Git, model validation); [OperatorHub](https://operatorhub.io/operator/jupyter-notebook-validator-operator).
 - [k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron is a powerful open-source tool for the efficient management of k0s Kubernetes clusters.
 - [kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator.
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
