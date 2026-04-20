@@ -916,6 +916,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
+- [ReleaseRun](releaserun.com) — ReleaseRun — release monitoring and dependency EOL tracking for cloud native stacks — free K8s deprecation checker and dependency health tools
 
 ## Contribute
 
