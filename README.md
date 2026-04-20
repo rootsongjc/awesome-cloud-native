@@ -180,6 +180,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [pulumi](https://github.com/pulumi/pulumi) - A multi-language, multi-cloud development platform -- your code, your cloud, your team.
+- [qovery](https://github.com/Qovery/qovery-skills) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway. Includes Terraform provider, CLI, API, and AI Agent Skill.
 - [qbec](https://github.com/splunk/qbec) - Configure kubernetes objects on multiple clusters using jsonnet.
 - [radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - [screwdriver](https://github.com/screwdriver-cd/screwdriver) - An open source build platform designed for continuous delivery.
