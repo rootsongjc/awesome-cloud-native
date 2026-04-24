@@ -619,6 +619,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [ocm](https://github.com/open-cluster-management-io/OCM) - The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
+- [kubestellar-console](https://github.com/kubestellar/console) - CNCF Sandbox multi-cluster Kubernetes management dashboard with AI-powered operations, real-time observability, and guided CNCF project deployments across edge and cloud clusters.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp.
 - [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [supergiant](https://github.com/supergiant/control) - Automatically scale hardware and easily run stateful applications using Kubernetes.
