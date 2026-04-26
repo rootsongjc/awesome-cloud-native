@@ -880,6 +880,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
 - [kubediagrams](https://github.com/philippemerle/KubeDiagrams) - A CLI tool to generate Kubernetes architecture diagrams automatically from Kubernetes manifest files, kustomization files, Helm charts, helmfile descriptors, and actual cluster state.
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
+- [kubestellar-console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform.
 - [kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider.
