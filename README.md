@@ -888,6 +888,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers.
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker.
+- [radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility tool with multi-cluster topology, image filesystem viewer, Helm and GitOps management, and built-in MCP server.
 - [rainbond](https://github.com/goodrain/rainbond) - Serverless PaaS , A new generation of easy-to-use cloud management platforms based on kubernetes.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform.
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
