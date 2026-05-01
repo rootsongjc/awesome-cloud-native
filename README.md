@@ -882,6 +882,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform.
+- [kubestellar](https://github.com/kubestellar/console) - KubeStellar Console is an AI-powered multi-cluster Kubernetes dashboard with natural language operations, MCP support, and GitOps deployment management.
 - [kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider.
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service.
