@@ -756,6 +756,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [victoriametrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
+- [Middleware](https://github.com/middleware-labs/mw-agent) - Full-stack observability platform with SRE agent.
+
 
 ## Logging
 
