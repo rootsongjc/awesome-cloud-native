@@ -667,6 +667,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Kubernetes Operators
 
+- [agenttier](https://github.com/agenttier/agenttier) - Kubernetes-native operator that manages isolated, persistent sandboxes for human developers and AI agents through Sandbox CRDs, with built-in governance, warm-pod pool, and a streaming agent-mode REST API.
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes.
 - [fabedge](https://github.com/FabEdge/fabedge) - Secure Edge Networking Based On Kubernetes And KubeEdge.
