@@ -333,6 +333,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Testing & Conformance
 
+- [jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework with Kubernetes-native device management and CI/CD integration.
 - [kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
 - [seaworthy](https://github.com/cakehappens/seaworthy) - A CLI to verify Kubernetes resource health.
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
