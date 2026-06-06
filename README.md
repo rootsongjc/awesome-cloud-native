@@ -215,7 +215,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers.
-- [watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers.
+- [watchtower](https://github.com/openserbia/watchtower) - Automatically update running Docker containers.
 
 ## Configuration & Policy Automation
 
