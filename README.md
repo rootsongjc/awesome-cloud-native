@@ -737,6 +737,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes.
 - [lake](https://github.com/merico-dev/lake) - Data lake for dev.
 - [metaflow](https://github.com/metaflowys/metaflow) - MetaFlow is an automated observability platform for cloud-native developers.
+- [middleware](https://github.com/middleware-labs/mw-agent) - Full-stack observability platform with SRE agent.
 - [monosi](https://github.com/monosidev/monosi) - Open source data observability platform.
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [nexclipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
@@ -759,6 +760,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [victoriametrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
+
 
 ## Logging
 
