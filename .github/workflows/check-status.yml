@@ -1,6 +1,10 @@
 name: Check Project Status
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
   schedule:
     - cron: '3 0 * * 1'  # Every Monday at 00:03 UTC
   workflow_dispatch:       # Allow manual trigger

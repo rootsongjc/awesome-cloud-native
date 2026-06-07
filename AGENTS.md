@@ -1,27 +1,45 @@
 # Repository Guidelines
 
-## Project Structure & Module Organization
+## Build & Dev Commands
 
-The curated catalog lives in `README.md`, arranged by single-level categories. Supporting Go code (`repo.go`, `repo_test.go`) transforms that Markdown into the static site under `tmpl/`. Generated assets are written to `tmpl/index.html` using `tmpl/tmpl.html` as the layout and `tmpl/assets/` for shared resources. `CONTRIBUTING.md` describes community expectations; treat it as a companion reference when updating the list.
+```bash
+make build     # Generate tmpl/index.html from README.md (go run repo.go)
+make preview   # Build + start local HTTP server on tmpl/ (default port 8080, override: PORT=3000)
+make test      # Run Go tests (alphabetical order + duplicate link checks)
+make status    # Run project status checker, outputs status.json and copies to tmpl/
+make clean     # Remove generated files
+```
 
-## Build, Test, and Development Commands
+Formatting: `gofmt -w repo.go repo_test.go`
 
-- `go run ./repo.go`: Regenerates `tmpl/index.html` from the current README content. Use this before publishing to confirm the site view renders correctly.
-- `go test ./...`: Runs the verification suite that enforces alphabetical grouping and guards against duplicate links in the README.
-- `gofmt -w repo.go repo_test.go`: Normalizes Go source formatting whenever edits are made.
+## Architecture
 
-## Coding Style & Naming Conventions
+This is a curated "Awesome" list of cloud native projects. The static site is generated from a single source of truth:
 
-Maintain alphabetical ordering within each Markdown category and keep link text in Title Case (mirroring upstream project names). Descriptions should stay on a single line, use sentence case, and avoid trailing periods unless the sentence is complete. Go code follows standard `gofmt` conventions, tabs for indentation, and short, descriptive function names (`updateRepo`, `readMarkdownFile`). Template IDs and filenames remain lowercase-with-dashes.
+```plaintext
+README.md → repo.go (Go + GFM) → tmpl/index.html → served as static site
+```
 
-## Testing Guidelines
+- **`README.md`**: The catalog. ~800 projects in ~34 single-level categories. Format: `- [name](https://github.com/owner/repo) - Description.`
+- **`repo.go`**: Reads README.md, converts with `github_flavored_markdown`, renders via `tmpl/tmpl.html`, writes `tmpl/index.html`. Also auto-pulls git changes.
+- **`repo_test.go`**: Parses rendered HTML to enforce alphabetical ordering within each category and reject duplicate links.
+- **`tmpl/`**: Static site output. CSS/JS assets in `tmpl/assets/`. Do not manually edit `index.html`.
 
-`go test ./...` must pass before submission; it parses the README to ensure every list item remains alphabetized and unique. When adding a project, re-run the tests after inserting the entry and adjust placement until the suite succeeds. If you modify the generator or templates, add focused unit tests in `repo_test.go` to cover the new behavior and keep fixtures minimal.
+### Project Status Tracking
 
-## Commit & Pull Request Guidelines
+Automated health check for all listed GitHub repos:
 
-Follow the existing Git history’s imperative tone (e.g., `Add litellm`, `Bump golang.org/x/net`). Each commit should group related changes—avoid mixing list edits with generator updates. Pull requests need a concise summary, the commands executed (`go test ./...`), and any context about category decisions. Include screenshots only when UI output in `tmpl/index.html` materially changes. Reference related issues or upstream announcements where applicable to justify additions or removals.
+- **`scripts/check_status.py`**: Parses README for GitHub URLs → queries GitHub API → writes `status.json`. Needs `GITHUB_TOKEN` (5000 req/hour vs 60 unauthenticated). Inactive threshold: 2 years since last push.
+- **`tmpl/assets/status-checker.js`**: Frontend JS fetches `status.json`, injects colored dots before project links (green=active, yellow=archived, red=deleted, gray=inactive) and a summary banner at top.
+- **`.github/workflows/check-status.yml`**: Runs weekly Monday 00:03 UTC + manual trigger. Creates PR with updated `status.json` (both repo root and `tmpl/`). Does NOT auto-push to main.
 
-## Curation Workflow Tips
+Status flow: `README.md → Python script → status.json (PR) → frontend JS renders dots`
 
-Before adding an item, verify the repository is active and open source, and confirm it fits exactly one category. Prefer placing new tools under the most specific heading introduced in the reorganized taxonomy (e.g., `Build & Packaging Automation` rather than the broader `Continuous Delivery & GitOps`). When in doubt, document the rationale in the PR to help maintainers keep the list consistent over time.
+## Conventions
+
+- **Alphabetical order** within each category. `go test ./...` enforces this.
+- **One entry per project**, single best category.
+- **Descriptions**: single line, sentence case, no trailing periods unless complete sentence.
+- **Link text**: official project name in Title Case, pointing to canonical GitHub repo.
+- **Commit messages**: imperative tone (`Add litellm`, `Bump golang.org/x/net`).
+- **PR workflow**: add entry → `go test ./...` → `make build` → include commands in PR description.
