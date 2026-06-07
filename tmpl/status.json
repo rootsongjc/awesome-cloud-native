@@ -1,0 +1,3842 @@
+{
+  "updated_at": "2026-06-07T00:41:56Z",
+  "total": 766,
+  "summary": {
+    "active": 531,
+    "archived": 95,
+    "deleted": 13,
+    "inactive": 127
+  },
+  "projects": {
+    "Aconex/drakov": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-04-24T18:56:11Z"
+    },
+    "AkihiroSuda/lima": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:54:19Z"
+    },
+    "AliyunContainerService/log-pilot": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-08-21T15:12:09Z"
+    },
+    "AndrewVos/k100s": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-18T12:09:20Z"
+    },
+    "AutoMQ/automq": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T12:50:51Z"
+    },
+    "Azure/iotedge": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T21:03:20Z"
+    },
+    "Azure/kaito": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T00:43:58Z"
+    },
+    "BerriAI/litellm": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:10:50Z"
+    },
+    "Caiyeon/goldfish": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-09-05T03:18:53Z"
+    },
+    "Clivern/Beetle": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T01:32:59Z"
+    },
+    "CloudmindsRobot/dagger": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-03-05T10:06:32Z"
+    },
+    "ClusterHQ/flocker": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-05-18T07:14:11Z"
+    },
+    "Dataman-Cloud/crane": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-31T09:46:38Z"
+    },
+    "Dataman-Cloud/swan": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-01-29T02:53:18Z"
+    },
+    "Efrat19/kubeload": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-03-03T13:38:59Z"
+    },
+    "ElasticHQ/elasticsearch-HQ": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-01-31T10:08:36Z"
+    },
+    "ExpressGateway/express-gateway": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-05-14T10:22:42Z"
+    },
+    "FabEdge/fabedge": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-25T01:37:16Z"
+    },
+    "FairwindsOps/pluto": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-27T19:14:03Z"
+    },
+    "GambitResearch/kubeonoff": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-08-07T14:23:59Z"
+    },
+    "GoogleCloudPlatform/spark-on-k8s-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T17:55:40Z"
+    },
+    "GoogleContainerTools/container-structure-test": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T18:59:57Z"
+    },
+    "GoogleContainerTools/jib": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-19T14:55:01Z"
+    },
+    "GoogleContainerTools/kaniko": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-06-03T14:36:10Z"
+    },
+    "GoogleContainerTools/kpt": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T12:48:32Z"
+    },
+    "GoogleContainerTools/skaffold": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T18:26:37Z"
+    },
+    "Grafeas/Grafeas": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-25T15:50:02Z"
+    },
+    "HewlettPackard/galadriel": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-04-21T16:52:27Z"
+    },
+    "Huawei/containerops": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-05-31T09:57:03Z"
+    },
+    "Hygieia/Hygieia": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-09-29T20:43:13Z"
+    },
+    "IBM/istio101": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-06-14T19:12:58Z"
+    },
+    "Kindling-project/kindling": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-10-25T11:38:17Z"
+    },
+    "KohlsTechnology/eunomia": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-03-10T17:50:03Z"
+    },
+    "Kong/kong": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:07:29Z"
+    },
+    "Kong/kubernetes-ingress-controller": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:44:04Z"
+    },
+    "KubeOperator/KubeOperator": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-07-02T10:27:56Z"
+    },
+    "KusionStack/karpor": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-25T08:57:39Z"
+    },
+    "KusionStack/kusion": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-04T06:01:34Z"
+    },
+    "KvrocksLabs/kvrocks": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T02:32:04Z"
+    },
+    "Microsoft/service-fabric": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-27T20:07:49Z"
+    },
+    "Mirantis/kqueen": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-12-08T02:09:14Z"
+    },
+    "Mirantis/virtlet": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-04-18T12:57:55Z"
+    },
+    "Netflix/Hystrix": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-17T03:21:02Z"
+    },
+    "Netflix/bpftop": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T06:38:36Z"
+    },
+    "Netflix/chaosmonkey": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-01-06T08:37:10Z"
+    },
+    "Netflix/concurrency-limits": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-16T00:05:22Z"
+    },
+    "Netflix/conductor": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-12-22T23:40:04Z"
+    },
+    "Netflix/ribbon": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-17T00:32:09Z"
+    },
+    "Netflix/vizceral": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-11-28T04:23:58Z"
+    },
+    "NexClipper/NexClipper": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-05-05T02:21:24Z"
+    },
+    "OpenFunction/OpenFunction": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-06-19T07:51:05Z"
+    },
+    "OpenTSDB/opentsdb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-12-12T20:03:34Z"
+    },
+    "PaddlePaddle/Paddle": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:03:37Z"
+    },
+    "Praqma/helmsman": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-24T22:10:47Z"
+    },
+    "Qihoo360/wayne": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-05-31T00:52:04Z"
+    },
+    "Qovery/qovery-skills": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-24T04:13:40Z"
+    },
+    "Releaserun/releaserun-cli": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-15T17:30:37Z"
+    },
+    "SeldonIO/seldon-core": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-23T11:39:54Z"
+    },
+    "Serverless-Devs/Serverless-Devs": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-01T12:58:33Z"
+    },
+    "Shopify/krane": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-18T13:42:55Z"
+    },
+    "Soluto/kamus": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2026-03-25T17:43:22Z"
+    },
+    "Stono/kconmon": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-03-26T18:13:32Z"
+    },
+    "TalkingData/owl": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-16T09:27:53Z"
+    },
+    "TarsCloud/Tars": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-02-22T02:27:07Z"
+    },
+    "Tencent/cloudbase-framework": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-08-08T10:10:32Z"
+    },
+    "ThreeMammals/Ocelot": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T19:03:45Z"
+    },
+    "TykTechnologies/tyk": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:50:25Z"
+    },
+    "UKHomeOffice/kd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-07T09:37:02Z"
+    },
+    "Unleash/unleash": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:07:38Z"
+    },
+    "VictoriaMetrics/VictoriaMetrics": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T18:45:55Z"
+    },
+    "WallarooLabs/wallaroo": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-04-06T15:27:03Z"
+    },
+    "WeBankFinTech/EventMesh": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T03:37:39Z"
+    },
+    "XiaoMi/naftis": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-19T12:40:59Z"
+    },
+    "XiaoMi/open-falcon": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-07-05T03:22:09Z"
+    },
+    "Yelp/dockersh": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-08-27T20:34:28Z"
+    },
+    "ZTE/Knitter": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-09-16T02:55:43Z"
+    },
+    "aca/go-kubectx": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-05-02T19:25:33Z"
+    },
+    "aeraki-framework/aeraki": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-05T02:31:40Z"
+    },
+    "agenttier/agenttier": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T15:10:56Z"
+    },
+    "agoda-com/macOS-vz-kubelet": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-19T09:04:22Z"
+    },
+    "ahmetb/kubectl-tree": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-18T01:49:07Z"
+    },
+    "airbnb/synapse": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-10-21T11:47:30Z"
+    },
+    "akuity/kargo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:54:00Z"
+    },
+    "alauda/alb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-09-01T06:42:43Z"
+    },
+    "alauda/kube-ovn": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:27:29Z"
+    },
+    "alexellis/arkade": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-22T12:54:04Z"
+    },
+    "alibaba/PolarDB-for-PostgreSQL": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T00:26:08Z"
+    },
+    "alibaba/kt-connect": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-06-18T04:02:08Z"
+    },
+    "alibaba/pouch": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-08-22T02:06:07Z"
+    },
+    "alibaba/sealer": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-06-03T08:29:24Z"
+    },
+    "alibaba/sentinel": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-27T08:58:51Z"
+    },
+    "alibaba/v6d": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-22T18:22:28Z"
+    },
+    "allenai/allennlp": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-11-22T23:28:35Z"
+    },
+    "amalgam8/amalgam8": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-08-18T14:17:37Z"
+    },
+    "anchore/grype": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:09:58Z"
+    },
+    "anchore/syft": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:24:30Z"
+    },
+    "ansible/ansible": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T23:44:45Z"
+    },
+    "antrea-io/antrea": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T02:07:16Z"
+    },
+    "apache/apisix": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:47:36Z"
+    },
+    "apache/apisix-ingress-controller": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T07:04:46Z"
+    },
+    "apache/couchdb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:49:03Z"
+    },
+    "apache/flume": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T13:19:54Z"
+    },
+    "apache/incubator-brpc": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:15:54Z"
+    },
+    "apache/mesos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-15T22:22:50Z"
+    },
+    "apache/predictionio": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-01-09T10:30:58Z"
+    },
+    "apache/pulsar": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T15:29:09Z"
+    },
+    "apache/rocketmq": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T01:17:40Z"
+    },
+    "apache/shardingsphere": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:05:56Z"
+    },
+    "apache/skywalking": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T08:35:15Z"
+    },
+    "apache/thrift": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:35:42Z"
+    },
+    "apache/zookeeper": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-19T14:40:51Z"
+    },
+    "apecloud/kubeblocks": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T02:58:49Z"
+    },
+    "apple/batch-processing-gateway": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-06T23:09:09Z"
+    },
+    "appscode/guard": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-21T15:29:07Z"
+    },
+    "appscode/kubed": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-16T02:04:01Z"
+    },
+    "aquasecurity/kube-bench": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T05:06:53Z"
+    },
+    "aquasecurity/trivy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:24:32Z"
+    },
+    "aquasecurity/trivy-action": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T01:54:16Z"
+    },
+    "arangodb/arangodb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:11:39Z"
+    },
+    "argoproj/argo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:40:22Z"
+    },
+    "argoproj/argo-cd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:39:52Z"
+    },
+    "argoproj/argo-rollouts": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T19:00:52Z"
+    },
+    "armosec/kubescape": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T11:00:57Z"
+    },
+    "artifacthub/hub": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T09:58:00Z"
+    },
+    "arun-gupta/kubernetes-java-sample": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-10-16T18:02:52Z"
+    },
+    "aserto-dev/topaz": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-29T12:29:52Z"
+    },
+    "astefanutti/kubebox": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-06-17T13:05:26Z"
+    },
+    "atlassian/escalator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-17T00:02:18Z"
+    },
+    "att-comdev/armada": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-07-06T04:16:08Z"
+    },
+    "authzed/spicedb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T03:16:06Z"
+    },
+    "autoapply/autoapply": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-14T14:56:48Z"
+    },
+    "autumnai/leaf": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-03-20T09:51:14Z"
+    },
+    "aws-samples/aws-workshop-for-kubernetes": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-04-25T00:55:16Z"
+    },
+    "aws/aws-eks-best-practices": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T16:37:03Z"
+    },
+    "aws/eks-distro": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T03:05:31Z"
+    },
+    "aws/karpenter": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T23:10:24Z"
+    },
+    "awslabs/cdk8s": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T15:32:15Z"
+    },
+    "azure/draft": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:10:28Z"
+    },
+    "backstage/backstage": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:39:26Z"
+    },
+    "baetyl/baetyl": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-05-11T06:12:43Z"
+    },
+    "baidu/EasyFaaS": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-10-20T01:54:55Z"
+    },
+    "ballerina-platform/ballerina-lang": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T10:46:07Z"
+    },
+    "banzaicloud/bank-vaults": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-09-11T11:27:08Z"
+    },
+    "banzaicloud/pipeline": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-11-24T10:06:23Z"
+    },
+    "berops/claudie": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T18:37:53Z"
+    },
+    "bit-cloner/kcg": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-04-29T17:01:09Z"
+    },
+    "bitnami/kubecfg": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-11-17T14:38:55Z"
+    },
+    "bloomberg/goldpinger": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-23T15:38:04Z"
+    },
+    "blox/blox": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-03-14T21:54:22Z"
+    },
+    "bluek8s/kubedirector": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-26T21:11:05Z"
+    },
+    "boostercloud/booster": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-23T19:26:43Z"
+    },
+    "boz/kail": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-07-03T06:41:42Z"
+    },
+    "bricks-cloud/BricksLLM": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-01-05T23:47:45Z"
+    },
+    "bridgecrewio/checkov": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T23:23:59Z"
+    },
+    "bytecodealliance/wasm-micro-runtime": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T01:15:35Z"
+    },
+    "caddyserver/caddy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:02:52Z"
+    },
+    "caicloud/cyclone": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-10-24T12:08:27Z"
+    },
+    "caicloud/kube-ladder": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-11-28T06:39:21Z"
+    },
+    "cakehappens/seaworthy": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-08-10T01:10:04Z"
+    },
+    "capactio/capact": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-03T23:20:02Z"
+    },
+    "carvel-dev/carvel": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T17:32:01Z"
+    },
+    "carvel-dev/kapp": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T17:25:32Z"
+    },
+    "cedar-policy/cedar": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:39:04Z"
+    },
+    "ceph/ceph": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:12:56Z"
+    },
+    "cert-manager/trust-manager": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T01:09:10Z"
+    },
+    "chaos-mesh/chaos-mesh": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T00:31:17Z"
+    },
+    "chaosblade-io/chaosblade": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:03:48Z"
+    },
+    "chaostoolkit/chaostoolkit": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-20T16:58:33Z"
+    },
+    "choerodon/choerodon": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-01-13T21:51:10Z"
+    },
+    "christian-korneck/docker-pushrm": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-06-10T21:42:09Z"
+    },
+    "chubaofs/chubaofs": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-25T03:24:18Z"
+    },
+    "cilium/cilium": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T04:30:14Z"
+    },
+    "cilium/hubble": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:58:26Z"
+    },
+    "cilium/tetragon": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T23:43:26Z"
+    },
+    "cloud66-oss/habitus": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-02-05T17:10:30Z"
+    },
+    "cloudevents/spec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T12:44:31Z"
+    },
+    "cloudflare/cloudflared": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T09:09:13Z"
+    },
+    "cloudflare/pingora": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T19:29:35Z"
+    },
+    "cloudnativelabs/kube-router": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T10:37:58Z"
+    },
+    "cloudnativelabs/kube-shell": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-11-02T12:34:48Z"
+    },
+    "cloudstax/firecamp": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-04-11T04:17:27Z"
+    },
+    "cloudtty/cloudtty": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-21T06:52:50Z"
+    },
+    "cloudwego/kitex": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T03:54:09Z"
+    },
+    "clusternet/clusternet": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-21T21:59:48Z"
+    },
+    "clusterpedia-io/clusterpedia": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-30T00:47:17Z"
+    },
+    "cnabio/cnab-spec": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-09-09T11:21:14Z"
+    },
+    "cni-genie/CNI-Genie": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-02-25T05:23:32Z"
+    },
+    "cnrancher/octopus": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-02-17T01:29:59Z"
+    },
+    "cockroachdb/cockroach": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:14:51Z"
+    },
+    "commandeer/open": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-03-06T00:14:26Z"
+    },
+    "configurator/kubefs": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-06-23T19:38:50Z"
+    },
+    "conjure-up/conjure-up": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-04-12T14:27:43Z"
+    },
+    "containerd/containerd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T19:31:08Z"
+    },
+    "containerd/runwasi": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T00:54:51Z"
+    },
+    "containernetworking/cni": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-15T08:34:29Z"
+    },
+    "containers-ai/alameda": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-01-08T13:27:26Z"
+    },
+    "containers/crun": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-30T10:56:09Z"
+    },
+    "containers/podman": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T17:23:44Z"
+    },
+    "containers/skopeo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:48:45Z"
+    },
+    "containership/konstellate": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "containous/maesh": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-23T15:56:06Z"
+    },
+    "containous/traefik": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:18:21Z"
+    },
+    "controlplaneio/kubesec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:49:19Z"
+    },
+    "corazawaf/coraza": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T17:39:42Z"
+    },
+    "coredns/coredns": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T04:49:03Z"
+    },
+    "coreos/flannel": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T15:52:18Z"
+    },
+    "coreos/fleet": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-02-05T05:49:16Z"
+    },
+    "coreos/prometheus-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:27:24Z"
+    },
+    "coreos/tectonic-installer": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-12-28T00:29:36Z"
+    },
+    "coreos/torus": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-01-04T20:29:28Z"
+    },
+    "cortexproject/cortex": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:26:00Z"
+    },
+    "couler-proj/couler": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-10-08T03:31:54Z"
+    },
+    "cri-o/cri-o": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T00:37:43Z"
+    },
+    "crosscloudci/cross-cloud": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-04-26T17:40:34Z"
+    },
+    "crossplane/crossplane": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:31:51Z"
+    },
+    "ctripcorp/apollo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T03:05:47Z"
+    },
+    "cuelang/cue": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-07-14T16:31:41Z"
+    },
+    "curiefense/curiefense": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "cyberark/KubiScan": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-05-25T11:33:02Z"
+    },
+    "cyberark/kubeletctl": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-08-06T07:17:00Z"
+    },
+    "dagger/dagger": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:35:35Z"
+    },
+    "danielgtaylor/aglio": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2019-05-13T14:40:13Z"
+    },
+    "dapr/dapr": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:19:23Z"
+    },
+    "darkbitio/k8s-mirror": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-01-30T21:57:20Z"
+    },
+    "darkbitio/mkit": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-09-16T13:46:12Z"
+    },
+    "datafuselabs/databend": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:53:56Z"
+    },
+    "datastack-net/dockerized": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-31T01:28:09Z"
+    },
+    "datawire/envoy-steps": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-11-14T13:59:55Z"
+    },
+    "datreeio/datree": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-04-23T02:14:19Z"
+    },
+    "davidlatwe/montydb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-13T23:20:52Z"
+    },
+    "deepfence/SecretScanner": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-07T16:56:58Z"
+    },
+    "deepflowys/deepflow": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T02:49:24Z"
+    },
+    "deis/steward": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-05-10T21:00:04Z"
+    },
+    "deislabs/containerd-wasm-shims": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-06-21T22:44:04Z"
+    },
+    "deislabs/krustlet": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-10-02T18:41:06Z"
+    },
+    "deislabs/osiris": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-03-19T15:28:23Z"
+    },
+    "developer-guy/falco-analyze-audit-log-from-k3s-cluster": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-06-02T18:33:43Z"
+    },
+    "deviantony/docker-elk": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-31T01:08:25Z"
+    },
+    "devopsspiral/KubeLibrary": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-16T18:11:31Z"
+    },
+    "devspace-cloud/devspace": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T07:32:16Z"
+    },
+    "devstream-io/devstream": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-03-12T23:32:14Z"
+    },
+    "devtron-labs/devtron": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:40:06Z"
+    },
+    "dexidp/dex": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:12:02Z"
+    },
+    "docker/buildx": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T13:46:46Z"
+    },
+    "docker/classicswarm": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-06-11T09:36:02Z"
+    },
+    "docker/compose": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:52:36Z"
+    },
+    "docker/docker-bench-security": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T18:11:52Z"
+    },
+    "doitintl/kube-no-trouble": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-10-16T10:01:34Z"
+    },
+    "dormstern/segspec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-06T07:36:28Z"
+    },
+    "dotmesh-io/dotmesh": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-09-01T08:53:45Z"
+    },
+    "dpeckett/pangolin": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-02-18T14:01:38Z"
+    },
+    "dragonflyoss/Dragonfly2": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T02:30:18Z"
+    },
+    "drone/drone": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T14:24:46Z"
+    },
+    "ducc/egg": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-02-25T23:10:24Z"
+    },
+    "eBay/collectbeat": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-01-12T05:58:35Z"
+    },
+    "easzlab/kubeasz": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-06T14:58:41Z"
+    },
+    "eclipse/che": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T13:25:46Z"
+    },
+    "edersonbrilhante/vilicus": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-01-07T10:12:45Z"
+    },
+    "eko/monday": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T07:18:01Z"
+    },
+    "elastic/beats": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T12:32:05Z"
+    },
+    "elastic/elasticsearch": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:13:09Z"
+    },
+    "elastic/kibana": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:49:46Z"
+    },
+    "eldadru/ksniff": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-08-02T03:16:37Z"
+    },
+    "elotl/kip": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-02-25T07:01:39Z"
+    },
+    "emirozer/kubectl-doctor": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-10-06T14:33:46Z"
+    },
+    "emissary-ingress/emissary": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-20T19:54:13Z"
+    },
+    "emqx/emqx": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T08:26:37Z"
+    },
+    "envoyproxy/envoy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T10:46:00Z"
+    },
+    "envoyproxy/gateway": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:53:45Z"
+    },
+    "erda-project/erda": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:18:09Z"
+    },
+    "ernoaapa/eliot": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-12-18T16:28:02Z"
+    },
+    "errordeveloper/kubegen": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-06-01T15:13:48Z"
+    },
+    "etcd-io/etcd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:43:20Z"
+    },
+    "external-secrets/external-secrets": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T17:58:28Z"
+    },
+    "fabric8io/fabric8": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-11-06T14:49:34Z"
+    },
+    "fabric8io/kubernetes-client": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:19:01Z"
+    },
+    "facebook/proxygen": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:03:20Z"
+    },
+    "facebookincubator/katran": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:04:32Z"
+    },
+    "falcosecurity/falco": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T08:15:45Z"
+    },
+    "fermyon/spin": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:14:10Z"
+    },
+    "firecracker-microvm/firecracker": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T12:31:59Z"
+    },
+    "firecracker-microvm/firecracker-containerd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-21T22:20:50Z"
+    },
+    "firezone/firezone": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:07:16Z"
+    },
+    "fission/fission": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:59:48Z"
+    },
+    "flavio/kuberlr": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T10:37:57Z"
+    },
+    "fleeto/kube-version-converter": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "fleeto/kubeadm-offline-installer": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "fluent/fluent-bit": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T04:23:42Z"
+    },
+    "fluent/fluentd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T02:42:52Z"
+    },
+    "fluxcd/flux": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-11-01T15:16:50Z"
+    },
+    "funktionio/funktion": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-11-29T08:31:05Z"
+    },
+    "garden-io/garden": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T15:02:52Z"
+    },
+    "gardener/gardener": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:29:57Z"
+    },
+    "gebalamariusz/cloud-audit": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-26T20:38:06Z"
+    },
+    "genuinetools/img": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-05-19T22:07:07Z"
+    },
+    "getsentry/sentry": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T19:30:32Z"
+    },
+    "gliderlabs/registrator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-05-22T04:16:52Z"
+    },
+    "gluster/glusterd2": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-04-04T02:31:32Z"
+    },
+    "gluster/glusterfs": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-16T05:50:17Z"
+    },
+    "godaddy/terminus": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-08-20T16:59:16Z"
+    },
+    "goharbor/harbor": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T11:17:11Z"
+    },
+    "gojektech/kubehandler": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-08-05T04:27:49Z"
+    },
+    "goodrain/rainbond": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:20:50Z"
+    },
+    "google/cadvisor": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T10:10:24Z"
+    },
+    "google/gvisor": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:42:50Z"
+    },
+    "google/jsonnet": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-30T14:23:57Z"
+    },
+    "google/leveldb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-11T04:06:29Z"
+    },
+    "googlecloudplatform/freshpod": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-05-28T17:47:16Z"
+    },
+    "googleforgames/agones": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:34:48Z"
+    },
+    "grafana/grafana": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:04:21Z"
+    },
+    "grafana/loki": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:16:21Z"
+    },
+    "grafeas/kritis": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-18T21:06:04Z"
+    },
+    "gravitational/teleport": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:09:03Z"
+    },
+    "h2oai/h2o-3": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:51:26Z"
+    },
+    "h8r-dev/heighliner": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-07-15T03:35:31Z"
+    },
+    "hango-io/hango-gateway": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-12-14T06:09:43Z"
+    },
+    "hango-io/rider": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-04T08:48:33Z"
+    },
+    "happyfish100/fastdfs": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T07:42:55Z"
+    },
+    "haproxy/haproxy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:18:33Z"
+    },
+    "hashicorp/consul": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:12:57Z"
+    },
+    "hashicorp/packer": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:00:55Z"
+    },
+    "hashicorp/serf": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T15:40:36Z"
+    },
+    "hashicorp/terraform": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:38:14Z"
+    },
+    "hashicorp/vagrant": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T08:42:13Z"
+    },
+    "hashicorp/vault": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:29:12Z"
+    },
+    "hashicorp/waypoint": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-01-08T18:48:14Z"
+    },
+    "hasura/gitkube": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-31T07:48:24Z"
+    },
+    "hawkular/hawkular-metrics": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2026-05-08T15:46:05Z"
+    },
+    "hcavarsan/kftray": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T06:14:37Z"
+    },
+    "heketi/heketi": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-07-06T18:37:01Z"
+    },
+    "helm/helm": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T11:22:40Z"
+    },
+    "hidevopsio/hiboot": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-30T05:43:20Z"
+    },
+    "highlight/highlight": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-16T01:06:56Z"
+    },
+    "hjacobs/kube-downscaler": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-10-02T19:20:36Z"
+    },
+    "hwameistor/hwameistor": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-09T02:16:23Z"
+    },
+    "hyperhq/hyperd": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-11-29T08:14:19Z"
+    },
+    "hyscale/hyscale": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-03-30T20:18:13Z"
+    },
+    "ilhaan/kubeCDN": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2019-03-27T00:15:32Z"
+    },
+    "improbable-eng/kedge": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-10-12T16:19:20Z"
+    },
+    "in-toto/in-toto": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T08:54:28Z"
+    },
+    "infinit/infinit": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2016-10-30T20:17:39Z"
+    },
+    "influxdata/influxdb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:18:37Z"
+    },
+    "influxdata/telegraf": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:20:19Z"
+    },
+    "infrahq/infra": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T04:20:45Z"
+    },
+    "ingero-io/ingero": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "inlets/inlets-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-08T15:06:14Z"
+    },
+    "inspektor-gadget/inspektor-gadget": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T06:46:07Z"
+    },
+    "iovisor/kubectl-trace": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-16T20:47:34Z"
+    },
+    "iron-io/functions": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-09-15T01:37:58Z"
+    },
+    "istio-ecosystem/admiral": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-10-15T17:58:17Z"
+    },
+    "istio/cni": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-12-09T23:40:14Z"
+    },
+    "istio/istio": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:29:00Z"
+    },
+    "jaegertracing/jaeger": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T22:32:33Z"
+    },
+    "jahstreet/spark-on-kubernetes-helm": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-10-20T07:40:59Z"
+    },
+    "jcmoraisjr/haproxy-ingress": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-30T21:34:32Z"
+    },
+    "jenkins-x/jx": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-28T17:35:52Z"
+    },
+    "jenkinsci/jenkins": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T02:32:16Z"
+    },
+    "jetstack/kube-lego": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-08-26T15:02:41Z"
+    },
+    "jina-ai/jina": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-03-24T13:59:54Z"
+    },
+    "jonmosco/kube-ps1": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-24T12:10:07Z"
+    },
+    "jtblin/kube2iam": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-08T11:59:36Z"
+    },
+    "juicedata/juicefs": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T07:41:54Z"
+    },
+    "jukylin/istio-ui": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-10-24T14:49:50Z"
+    },
+    "jumpstarter-dev/jumpstarter": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:32:39Z"
+    },
+    "jupyterhub/binderhub": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T05:46:35Z"
+    },
+    "k0sproject/k0s": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T09:14:41Z"
+    },
+    "k0sproject/k0smotron": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T18:38:23Z"
+    },
+    "k3s-io/k3s": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:03:15Z"
+    },
+    "k8sdb/cli": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2019-03-27T04:38:12Z"
+    },
+    "k8sgpt-ai/k8sgpt": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T18:00:33Z"
+    },
+    "k8snetworkplumbingwg/multus-cni": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-29T15:05:10Z"
+    },
+    "k8ssandra/k8ssandra": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T11:08:22Z"
+    },
+    "kairos-io/kairos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T22:55:20Z"
+    },
+    "kamranahmedse/developer-roadmap": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T14:34:30Z"
+    },
+    "karmada-io/karmada": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T01:42:49Z"
+    },
+    "kcl-lang/kcl": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T14:36:36Z"
+    },
+    "kcp-dev/kcp": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:17:06Z"
+    },
+    "kdash-rs/kdash": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:40:13Z"
+    },
+    "kedacore/keda": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T08:22:34Z"
+    },
+    "kedgeproject/kedge": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-04-17T17:47:57Z"
+    },
+    "keel-hq/keel": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-26T08:30:36Z"
+    },
+    "kelseyhightower/confd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-16T14:30:09Z"
+    },
+    "kelseyhightower/istio-ingress-tutorial": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-07-26T21:22:01Z"
+    },
+    "kelseyhightower/kubernetes-the-hard-way": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-04-10T06:11:47Z"
+    },
+    "keptn/keptn": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-12-21T11:52:10Z"
+    },
+    "keras-team/keras": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:31:10Z"
+    },
+    "keycloak/keycloak": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T02:47:20Z"
+    },
+    "kiali/kiali": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:43:39Z"
+    },
+    "klothoplatform/klotho": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-21T22:56:03Z"
+    },
+    "klts-io/kubernetes-lts": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-22T07:57:09Z"
+    },
+    "kmesh-net/kmesh": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:33:09Z"
+    },
+    "knative/build": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-09-04T19:31:04Z"
+    },
+    "knative/eventing": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T16:06:11Z"
+    },
+    "knative/serving": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T13:29:07Z"
+    },
+    "knix-microfunctions/knix": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-12-19T22:49:28Z"
+    },
+    "ko-build/ko": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T01:13:09Z"
+    },
+    "koderover/zadig": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:18:07Z"
+    },
+    "koli/kong-ingress": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-04-19T19:17:47Z"
+    },
+    "komodorio/helm-dashboard": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T21:49:35Z"
+    },
+    "kong/gateway-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:25:38Z"
+    },
+    "konveyor/move2kube": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-03-06T14:02:34Z"
+    },
+    "koordinator-sh/koordinator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:00:33Z"
+    },
+    "kosmos-io/kosmos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-07-04T02:02:43Z"
+    },
+    "kost/dockscan": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2016-08-27T13:49:38Z"
+    },
+    "kragniz/tor-controller": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-09-26T12:13:33Z"
+    },
+    "krallin/tini": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-05-08T14:42:27Z"
+    },
+    "kris-nova/kubicorn-fork": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "krkn-chaos/krkn": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:16:11Z"
+    },
+    "kserve/kserve": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T15:53:38Z"
+    },
+    "ksonnet/ksonnet": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-02-21T02:05:58Z"
+    },
+    "ksonnet/ksonnet-lib": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-02-12T20:45:50Z"
+    },
+    "ksync/ksync": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-05-17T02:03:00Z"
+    },
+    "kuasar-io/kuasar": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:59:36Z"
+    },
+    "kube-green/kube-green": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T07:03:00Z"
+    },
+    "kubean-io/kubean": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T05:57:33Z"
+    },
+    "kubeapps/kubeapps": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2026-01-13T17:40:50Z"
+    },
+    "kubecost/cost-model": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T00:42:17Z"
+    },
+    "kubediag/kubediag": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-02-28T08:36:25Z"
+    },
+    "kubedl-io/kubedl": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-03-04T10:50:10Z"
+    },
+    "kubeedge/kubeedge": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-29T02:11:05Z"
+    },
+    "kubefirst/kubefirst": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-25T19:51:46Z"
+    },
+    "kubeflow/kubeflow": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-24T11:31:41Z"
+    },
+    "kubeless/kubeless": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-12-15T09:33:43Z"
+    },
+    "kubemq-io/kubemq": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-02-18T04:16:19Z"
+    },
+    "kubepack/chartify": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-02-19T11:32:29Z"
+    },
+    "kubermatic/fubectl": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-18T08:38:54Z"
+    },
+    "kubermatic/kubecarrier": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-07-05T20:56:40Z"
+    },
+    "kubermatic/kubermatic": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:57:36Z"
+    },
+    "kubernetes-retired/heapster": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-11-30T22:53:55Z"
+    },
+    "kubernetes-sigs/aws-iam-authenticator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T20:20:05Z"
+    },
+    "kubernetes-sigs/cluster-api": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:33:54Z"
+    },
+    "kubernetes-sigs/cri-tools": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:31:58Z"
+    },
+    "kubernetes-sigs/descheduler": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-20T12:35:23Z"
+    },
+    "kubernetes-sigs/kind": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T17:22:46Z"
+    },
+    "kubernetes-sigs/kubebuilder": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T05:28:06Z"
+    },
+    "kubernetes-sigs/kubespray": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T03:32:34Z"
+    },
+    "kubernetes-sigs/kueue": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T01:52:30Z"
+    },
+    "kubernetes-sigs/kustomize": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-19T16:14:56Z"
+    },
+    "kubernetes-sigs/kwok": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T10:35:25Z"
+    },
+    "kubernetes-sigs/service-catalog": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-02-01T16:24:31Z"
+    },
+    "kubernetes/autoscaler": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T13:43:02Z"
+    },
+    "kubernetes/client-go": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T05:08:33Z"
+    },
+    "kubernetes/dashboard": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2026-01-21T05:10:21Z"
+    },
+    "kubernetes/frakti": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-12-15T16:30:13Z"
+    },
+    "kubernetes/kompose": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-16T14:23:39Z"
+    },
+    "kubernetes/kops": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T08:06:31Z"
+    },
+    "kubernetes/kube-state-metrics": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T08:11:58Z"
+    },
+    "kubernetes/kubeadm": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T13:52:54Z"
+    },
+    "kubernetes/kubernetes": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:44:28Z"
+    },
+    "kubernetes/minikube": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T23:01:59Z"
+    },
+    "kubernetes/test-infra": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T13:36:31Z"
+    },
+    "kubeshark/kubeshark": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T18:01:45Z"
+    },
+    "kubesimplify/ksctl": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-23T18:26:04Z"
+    },
+    "kubeslice/kubeslice": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-30T13:38:22Z"
+    },
+    "kubesphere/kubesphere": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T06:32:03Z"
+    },
+    "kubestellar/console": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T22:25:55Z"
+    },
+    "kubeup/archon": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-11-01T17:46:29Z"
+    },
+    "kubevious/kubevious": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-01-15T18:42:38Z"
+    },
+    "kubevirt/kubevirt": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:04:24Z"
+    },
+    "kubewarden/kubewarden-controller": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T22:47:17Z"
+    },
+    "kubewharf/kelemetry": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-20T02:48:16Z"
+    },
+    "kubewharf/kubeadmiral": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-11T11:22:59Z"
+    },
+    "kudobuilder/kudo": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-22T07:57:43Z"
+    },
+    "kumahq/kuma": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T22:02:51Z"
+    },
+    "kyma-project/rafter": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "kyverno/kyverno": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:42:13Z"
+    },
+    "labring/laf": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-01T08:01:13Z"
+    },
+    "labring/sealos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:38:54Z"
+    },
+    "lastbackend/lastbackend": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-07-19T04:05:45Z"
+    },
+    "laszlocph/woodpecker": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T15:27:09Z"
+    },
+    "layer5io/istio-service-mesh-workshop": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-07T22:45:03Z"
+    },
+    "learnk8s/xlskubectl": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-09-23T22:48:07Z"
+    },
+    "lensesio/fast-data-dev": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-20T21:51:52Z"
+    },
+    "linkerd/linkerd": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-03-04T18:59:40Z"
+    },
+    "linkerd/linkerd2": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:45:07Z"
+    },
+    "litmuschaos/litmus": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T09:51:34Z"
+    },
+    "loggie-io/loggie": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-25T03:17:22Z"
+    },
+    "longhorn/longhorn": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:39:08Z"
+    },
+    "loxilb-io/loxilb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-21T05:00:21Z"
+    },
+    "luraproject/lura": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T21:14:57Z"
+    },
+    "luxas/kubeadm-workshop": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-05-22T15:58:51Z"
+    },
+    "m3db/m3": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-20T05:20:03Z"
+    },
+    "magneticio/vamp": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-04-21T11:27:46Z"
+    },
+    "megaease/easegress": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T01:39:00Z"
+    },
+    "megaease/easemesh": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-04-01T02:03:42Z"
+    },
+    "memfreeme/memfree": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-08-08T15:39:51Z"
+    },
+    "merbridge/merbridge": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-05-19T17:46:13Z"
+    },
+    "merico-dev/lake": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-07-17T02:58:23Z"
+    },
+    "meshery/helm-kanvas-snapshot": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:37:07Z"
+    },
+    "meshery/meshery": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:33:38Z"
+    },
+    "mesosphere/marathon": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-09-08T05:13:23Z"
+    },
+    "metaflowys/metaflow": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T02:49:24Z"
+    },
+    "metallb/metallb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T13:46:41Z"
+    },
+    "metersphere/metersphere": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T01:06:15Z"
+    },
+    "metrue/fx": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-10-24T07:45:38Z"
+    },
+    "mhausenblas/mehdb": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-02-14T14:28:14Z"
+    },
+    "micahhausler/container-transform": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-05-11T15:13:48Z"
+    },
+    "microconfig/microconfig": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-11-27T21:23:17Z"
+    },
+    "microsoft/dev-proxy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T06:59:03Z"
+    },
+    "microsoft/mindaro": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2022-08-19T00:20:04Z"
+    },
+    "microsoft/reverse-proxy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T05:07:45Z"
+    },
+    "middleware-labs/mw-agent": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T10:38:13Z"
+    },
+    "milvus-io/milvus": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T12:06:18Z"
+    },
+    "minio/minio": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2026-04-24T17:54:39Z"
+    },
+    "miracle2k/k8s-snapshots": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-05T23:34:02Z"
+    },
+    "mixpeek/awesome-object-storage": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-21T15:46:25Z"
+    },
+    "moby/moby": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:18:56Z"
+    },
+    "mongodb/mongo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T05:37:15Z"
+    },
+    "monitoringartist/kubernetes-zabbix": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-12-14T09:14:26Z"
+    },
+    "monosidev/monosi": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-09-25T03:36:15Z"
+    },
+    "mosn/layotto": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-15T05:10:05Z"
+    },
+    "mosn/mosn-tutorial": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-07-23T11:53:50Z"
+    },
+    "mr-karan/kubekutr": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-07-19T13:42:33Z"
+    },
+    "msiemens/tinydb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-28T21:04:21Z"
+    },
+    "narendranathreddythota/podtnl": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-10-20T11:41:32Z"
+    },
+    "nats-io/nats-server": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:22:59Z"
+    },
+    "naver/pinpoint": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:02:52Z"
+    },
+    "neuvector/neuvector": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T01:32:42Z"
+    },
+    "nginx/nginx": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T16:50:50Z"
+    },
+    "nginx/unit": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-10-08T18:19:44Z"
+    },
+    "nginxinc/kubernetes-ingress": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T02:02:35Z"
+    },
+    "nginxinc/nginmesh": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-11-12T11:34:39Z"
+    },
+    "nginxinc/nginx-gateway-fabric": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T04:37:11Z"
+    },
+    "nicolaka/netshoot": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-16T16:42:57Z"
+    },
+    "nmnellis/vistio": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-10-20T00:26:00Z"
+    },
+    "nocalhost/nocalhost": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-20T02:17:08Z"
+    },
+    "nocodb/nocodb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:12:55Z"
+    },
+    "nolar/kopf": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T12:59:47Z"
+    },
+    "nsqio/nsq": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-07-13T16:14:09Z"
+    },
+    "nuclio/nuclio": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T10:28:10Z"
+    },
+    "oam-dev/kubevela": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T14:37:53Z"
+    },
+    "oam-dev/spec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-12-24T08:50:34Z"
+    },
+    "oceanbase/oceanbase": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T01:01:11Z"
+    },
+    "okteto/okteto": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T05:27:28Z"
+    },
+    "oleiade/trousseau": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-08T09:35:20Z"
+    },
+    "oneinfra/oneinfra": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-12-01T12:44:20Z"
+    },
+    "open-cluster-management-io/OCM": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T10:48:10Z"
+    },
+    "open-feature/spec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:25:30Z"
+    },
+    "open-policy-agent/gatekeeper": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T22:16:22Z"
+    },
+    "open-policy-agent/opa": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T06:47:16Z"
+    },
+    "open-telemetry/opentelemetry-collector": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T17:24:15Z"
+    },
+    "open-telemetry/opentelemetry-specification": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:46:14Z"
+    },
+    "open-ug/conveyor": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T12:09:56Z"
+    },
+    "opencost/opencost": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T00:42:17Z"
+    },
+    "opencurve/curve": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-08-13T01:46:12Z"
+    },
+    "openebs/openebs": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T10:52:06Z"
+    },
+    "openfaas/faas": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-01T14:03:53Z"
+    },
+    "openfaas/faas-netes": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T07:05:49Z"
+    },
+    "openkruise/kruise": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T11:44:29Z"
+    },
+    "openserbia/watchtower": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:56:06Z"
+    },
+    "opensergo/opensergo-specification": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-05-22T07:03:33Z"
+    },
+    "openservicebrokerapi/servicebroker": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-15T19:49:18Z"
+    },
+    "openservicemesh/osm": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-07-11T19:34:09Z"
+    },
+    "openshift/open-service-broker-sdk": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-08-11T04:04:54Z"
+    },
+    "openshift/origin": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T10:31:39Z"
+    },
+    "openshift/source-to-image": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T10:26:49Z"
+    },
+    "opentofu/opentofu": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:02:19Z"
+    },
+    "openyurtio/openyurt": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-18T09:48:13Z"
+    },
+    "openzipkin/zipkin": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-08T14:42:17Z"
+    },
+    "openziti/ziti": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:24:46Z"
+    },
+    "operator-framework/operator-lifecycle-manager": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:28:54Z"
+    },
+    "operator-framework/operator-sdk": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-26T14:16:17Z"
+    },
+    "oracle/Smith": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-12-13T20:42:48Z"
+    },
+    "oracle/crashcart": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-08-15T20:33:30Z"
+    },
+    "oracle/railcar": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-10-15T03:08:17Z"
+    },
+    "oras-project/oras": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T10:28:36Z"
+    },
+    "orlabs/orange": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-25T07:34:51Z"
+    },
+    "ory/kratos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T17:09:42Z"
+    },
+    "ovh/cds": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T09:36:29Z"
+    },
+    "pachyderm/pachyderm": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-02-03T22:27:18Z"
+    },
+    "parca-dev/parca": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-28T14:30:00Z"
+    },
+    "permitio/opal": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T18:15:36Z"
+    },
+    "perses/perses": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T17:09:10Z"
+    },
+    "philippemerle/KubeDiagrams": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T09:42:04Z"
+    },
+    "pingcap/tidb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T12:51:19Z"
+    },
+    "pingcap/tidb-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T15:17:06Z"
+    },
+    "pipe-cd/pipecd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:46:48Z"
+    },
+    "pivotal/kpack": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-24T21:02:16Z"
+    },
+    "pixie-io/pixie": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T01:55:36Z"
+    },
+    "polarismesh/polaris": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-10-14T07:20:00Z"
+    },
+    "pomerium/pomerium": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T22:34:39Z"
+    },
+    "portainer/portainer": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:55:34Z"
+    },
+    "poseidon/matchbox": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T13:42:09Z"
+    },
+    "postfinance/kubenurse": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-30T17:32:42Z"
+    },
+    "powerfulseal/powerfulseal": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-11-10T18:28:39Z"
+    },
+    "project-akri/akri": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T20:03:35Z"
+    },
+    "project-zot/zot": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T04:10:37Z"
+    },
+    "projectcontour/contour": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T05:45:20Z"
+    },
+    "projectcontour/gimbal": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-02-27T23:55:46Z"
+    },
+    "projectriff/riff": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-03-12T21:30:42Z"
+    },
+    "prometheus/prometheus": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:31:59Z"
+    },
+    "pulumi/kubespy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T12:32:51Z"
+    },
+    "pulumi/pulumi": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T17:24:17Z"
+    },
+    "pytorch/pytorch": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:19:52Z"
+    },
+    "quay/clair": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T00:55:51Z"
+    },
+    "quickwit-oss/quickwit": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T20:10:58Z"
+    },
+    "radius-project/radius": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T00:24:14Z"
+    },
+    "rancher/convoy": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-12-31T12:03:11Z"
+    },
+    "rancher/fleet": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T15:13:25Z"
+    },
+    "rancher/rancher": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T12:44:07Z"
+    },
+    "reactive-tech/kubegres": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-01-04T14:29:28Z"
+    },
+    "red-gate/ks": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-07-27T15:30:08Z"
+    },
+    "redbooth/gockerize": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-03-02T17:32:26Z"
+    },
+    "redhat-developer-demos/istio-tutorial": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-10-17T11:00:24Z"
+    },
+    "redhat-developer/opencompose": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-08-14T15:32:49Z"
+    },
+    "redis/redis": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:21:38Z"
+    },
+    "rethinkdb/rethinkdb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-28T06:10:59Z"
+    },
+    "ricoberger/vault-secrets-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-01T04:59:40Z"
+    },
+    "rkt/rkt": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-02-24T14:16:05Z"
+    },
+    "roboll/helmfile": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-04-27T03:45:59Z"
+    },
+    "robscott/kube-capacity": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-21T01:07:32Z"
+    },
+    "robusta-dev/robusta": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T18:27:36Z"
+    },
+    "rond-authz/rond": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-11T06:03:32Z"
+    },
+    "rook/rook": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:37:50Z"
+    },
+    "rootless-containers/usernetes": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-18T08:15:21Z"
+    },
+    "rootsongjc/awesome-cloud-native": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T22:59:14Z"
+    },
+    "rootsongjc/cloud-native-sandbox": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-04-13T02:15:59Z"
+    },
+    "rootsongjc/envoy-tutorial": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-07-16T20:56:26Z"
+    },
+    "rootsongjc/kubernetes-handbook": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-26T12:01:59Z"
+    },
+    "rootsongjc/kubernetes-vagrant-centos-cluster": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-08-17T00:53:23Z"
+    },
+    "sabre1041/istio-pod-network-controller": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2019-09-17T16:28:17Z"
+    },
+    "salesforce/sloop": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-17T16:38:56Z"
+    },
+    "sbstp/kubie": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-30T16:52:44Z"
+    },
+    "scality/Zenko": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:05:31Z"
+    },
+    "score-spec/spec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-25T14:45:12Z"
+    },
+    "scottyhardy/docker-wine": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-05-29T09:03:15Z"
+    },
+    "screwdriver-cd/screwdriver": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T18:35:27Z"
+    },
+    "searchlight/searchlight": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-05-02T05:08:01Z"
+    },
+    "senthilrch/kube-fledged": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-02-20T05:20:10Z"
+    },
+    "sermant-io/Sermant": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-02-06T07:55:39Z"
+    },
+    "serverless/serverless": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T20:21:59Z"
+    },
+    "shopify/toxiproxy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-25T13:36:51Z"
+    },
+    "sigstore/cosign": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T22:21:32Z"
+    },
+    "similarweb/statusbay": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-02T11:10:26Z"
+    },
+    "sindresorhus/awesome": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T12:50:13Z"
+    },
+    "skyhook-io/radar": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:52:14Z"
+    },
+    "skynetservices/skydns1": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-07-08T06:19:14Z"
+    },
+    "slime-io/slime": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-02-26T02:56:13Z"
+    },
+    "smpio/kubernator": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-05-14T21:49:53Z"
+    },
+    "soapbucket/sbproxy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:28:32Z"
+    },
+    "socketkit/awacs": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-15T23:48:30Z"
+    },
+    "sofastack/sofa-bolt": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-19T22:51:32Z"
+    },
+    "sofastack/sofa-lookout": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-12-01T03:46:45Z"
+    },
+    "sofastack/sofa-rpc": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-27T12:38:47Z"
+    },
+    "sofastack/sofa-tracer": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-04-28T06:52:28Z"
+    },
+    "solo-io/bumblebee": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-04-17T19:51:47Z"
+    },
+    "solo-io/gloo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T21:15:35Z"
+    },
+    "solo-io/service-mesh-hub": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "solo-io/sqoop": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-06-17T02:28:10Z"
+    },
+    "solo-io/squash": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-06-09T15:25:34Z"
+    },
+    "soluble-ai/kubetap": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-08-30T14:16:22Z"
+    },
+    "someengineering/resoto": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-28T19:14:05Z"
+    },
+    "sorintlab/stolon": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-08T16:32:33Z"
+    },
+    "sourcegraph/appdash": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2021-10-28T08:06:29Z"
+    },
+    "spegel-org/spegel": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T10:49:36Z"
+    },
+    "spidernet-io/spiderpool": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T20:40:50Z"
+    },
+    "spiffe/spiffe": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T17:17:16Z"
+    },
+    "spinnaker/kayenta": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2025-12-20T23:37:46Z"
+    },
+    "spinnaker/spinnaker": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-29T12:27:37Z"
+    },
+    "splunk/qbec": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-24T04:19:50Z"
+    },
+    "sql-machine-learning/elasticdl": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-01-26T07:21:05Z"
+    },
+    "sql-machine-learning/sqlflow": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-04-18T08:08:51Z"
+    },
+    "stacklok/brood-box": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T14:45:09Z"
+    },
+    "stacklok/go-microvm": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-31T20:17:15Z"
+    },
+    "stackrox/kube-linter": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T02:18:19Z"
+    },
+    "stakater/Reloader": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-25T09:29:23Z"
+    },
+    "stashed/stash": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-15T12:08:49Z"
+    },
+    "statsd/statsd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-05-20T07:22:42Z"
+    },
+    "stefanprodan/timoni": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-04T20:50:11Z"
+    },
+    "stepro/kdo": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-01-30T11:29:58Z"
+    },
+    "storax/kubedoom": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-08-20T22:12:53Z"
+    },
+    "storj/drpc": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-14T12:11:27Z"
+    },
+    "strimzi/strimzi-kafka-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T13:43:04Z"
+    },
+    "submariner-io/submariner": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T12:21:14Z"
+    },
+    "superedge/superedge": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-02-20T10:02:19Z"
+    },
+    "supergiant/control": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "supertokens/supertokens-core": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T10:34:48Z"
+    },
+    "sustainable-computing-io/kepler": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T03:01:45Z"
+    },
+    "swagger-api/swagger-ui": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T07:13:56Z"
+    },
+    "talos-systems/talos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T23:39:54Z"
+    },
+    "tanrikuluozlem/burn": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:29:48Z"
+    },
+    "taubyte/tau": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-07T14:02:50Z"
+    },
+    "team-soteria/rback": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-01-04T12:59:14Z"
+    },
+    "tektoncd/pipeline": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:36:29Z"
+    },
+    "telepresenceio/telepresence": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T22:06:26Z"
+    },
+    "tensorflow/tensorflow": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-07T00:13:19Z"
+    },
+    "tetratelabs/func-e": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:36:48Z"
+    },
+    "tetratelabs/getmesh": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-09-14T09:47:16Z"
+    },
+    "tetratelabs/istio-security-analyzer": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "tetratelabs/wazero": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-29T09:46:16Z"
+    },
+    "thanos-io/thanos": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T13:39:18Z"
+    },
+    "theupdateframework/notary": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-08-07T19:02:32Z"
+    },
+    "tikv/tikv": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:18:07Z"
+    },
+    "tilt-dev/tilt": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-03T18:05:07Z"
+    },
+    "timescale/promscale": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-03-28T23:03:17Z"
+    },
+    "timescale/timescaledb": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:21:57Z"
+    },
+    "timescale/tobs": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2026-03-19T21:06:22Z"
+    },
+    "tinyzimmer/kvdi": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-10-20T18:30:30Z"
+    },
+    "tkestack/kstone": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-09-02T07:58:30Z"
+    },
+    "todkap/istio-index-conf2018": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-08-01T00:24:11Z"
+    },
+    "tofuutils/tenv": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T15:34:13Z"
+    },
+    "tohjustin/kube-lineage": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-07T13:31:43Z"
+    },
+    "tosin2013/jupyter-notebook-validator-operator": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-22T18:04:33Z"
+    },
+    "travisjeffery/jocko": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-20T05:16:03Z"
+    },
+    "tricorder-observability/Starship": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-04-06T01:46:03Z"
+    },
+    "triggermesh/knative-lambda-runtime": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-09-18T23:37:47Z"
+    },
+    "turbinelabs/rotor": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2019-08-08T10:10:35Z"
+    },
+    "twitter/finagle": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-30T16:11:00Z"
+    },
+    "txn2/kubefwd": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:26:55Z"
+    },
+    "ubuntu/microk8s": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:22:37Z"
+    },
+    "us/den": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-15T14:07:59Z"
+    },
+    "us/mocker": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-06T00:07:20Z"
+    },
+    "vectordotdev/vector": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T23:18:39Z"
+    },
+    "vesoft-inc/nebula": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-18T09:51:50Z"
+    },
+    "virtual-kubelet/tensile-kube": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-05T02:33:28Z"
+    },
+    "viveksinghggits/kuui": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-02-06T23:50:25Z"
+    },
+    "vmware-tanzu/octant": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-01-19T20:55:03Z"
+    },
+    "vmware-tanzu/sonobuoy": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-11-25T23:13:32Z"
+    },
+    "vmware-tanzu/velero": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T06:55:45Z"
+    },
+    "volcano-sh/volcano": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T08:54:41Z"
+    },
+    "voyagermesh/voyager": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-16T02:06:21Z"
+    },
+    "vulcand/vulcand": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2024-07-27T08:36:18Z"
+    },
+    "wa-lang/wa": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-30T10:43:49Z"
+    },
+    "wasmCloud/wasmCloud": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T23:22:00Z"
+    },
+    "weaveworks/eksctl": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T06:33:18Z"
+    },
+    "weaveworks/flagger": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T09:09:29Z"
+    },
+    "weaveworks/scope": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2023-07-07T03:37:03Z"
+    },
+    "weaveworks/weave": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2024-08-09T08:45:55Z"
+    },
+    "weaveworks/wksctl": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-03-31T12:32:52Z"
+    },
+    "weibocom/opendcp": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-07-05T13:33:00Z"
+    },
+    "wercker/stern": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "wercker/wercker": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "werf/werf": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T07:52:05Z"
+    },
+    "winfordlin/Compass": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2021-05-11T17:23:09Z"
+    },
+    "winglang/wing": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-04T00:31:00Z"
+    },
+    "wise2c-devops/breeze": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-12-07T10:35:48Z"
+    },
+    "xline-kv/Xline": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-05-11T05:41:19Z"
+    },
+    "xline-kv/xline-operator": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2024-02-19T14:07:31Z"
+    },
+    "xuxinkun/kubesql": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2022-11-16T12:00:32Z"
+    },
+    "yggheim/k": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2020-05-27T19:40:34Z"
+    },
+    "yipeeio/kubeiql": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2018-11-29T00:55:11Z"
+    },
+    "yunionio/cloudpods": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T16:34:58Z"
+    },
+    "yyyar/gobetween": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-08-16T14:46:57Z"
+    },
+    "zalando-incubator/cluster-lifecycle-manager": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-02T23:06:46Z"
+    },
+    "zalando-incubator/kubernetes-on-aws": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T14:00:20Z"
+    },
+    "zalando/skipper": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T19:59:28Z"
+    },
+    "zuBux/drydock": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2016-05-13T18:35:52Z"
+    },
+    "InQuicker/ktmpl": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2017-10-20T00:47:59Z"
+    },
+    "Netflix/eureka": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-03-23T21:24:45Z"
+    },
+    "alibaba/higress": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T09:58:20Z"
+    },
+    "apache-spark-on-k8s/spark": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-01-08T19:04:35Z"
+    },
+    "apache/kafka": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T21:20:18Z"
+    },
+    "apprenda/kismatic": {
+      "status": "deleted",
+      "archived": false,
+      "pushed_at": null
+    },
+    "deis/deis": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2019-05-05T05:29:20Z"
+    },
+    "envoyproxy/ratelimit": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T17:49:18Z"
+    },
+    "facebookarchive/beringei": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2018-07-11T17:33:58Z"
+    },
+    "facebookarchive/caffe2": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2023-02-07T16:51:06Z"
+    },
+    "fnproject/fn": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-04-07T13:56:48Z"
+    },
+    "freach/kubernetes-security-best-practice": {
+      "status": "inactive",
+      "archived": false,
+      "pushed_at": "2019-09-11T23:13:51Z"
+    },
+    "hjacobs/kube-ops-view": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-10-02T19:26:22Z"
+    },
+    "jetstack/cert-manager": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T16:08:54Z"
+    },
+    "kubeshop/testkube": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-06T20:28:54Z"
+    },
+    "mosn/mosn": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2025-07-16T09:03:41Z"
+    },
+    "uselotus/lotus": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T20:37:22Z"
+    },
+    "vitessio/vitess": {
+      "status": "active",
+      "archived": false,
+      "pushed_at": "2026-06-05T13:10:20Z"
+    },
+    "vmware/dispatch": {
+      "status": "archived",
+      "archived": true,
+      "pushed_at": "2020-11-16T10:04:18Z"
+    }
+  }
+}

@@ -1,4 +1,4 @@
 .DS_Store
 .superpowers/
 .env
-status.json
+/status.json
