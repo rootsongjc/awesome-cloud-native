@@ -413,7 +413,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Storage & Data Management
 
 - [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - Curated comparison of 21 S3-compatible object storage providers with pricing, gotchas, and tools.
-
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
 - [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed storage system for cloud native applications.
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
@@ -507,7 +506,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [antrea](https://github.com/antrea-io/antrea) - Antrea is a Kubernetes networking based on Open vSwitch.
 - [bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash.
-- [calico](https://github.com/projectcalico) - A Pure Layer 3 Approach to Virtual Networking for Highly Scalable Data Centers.
+- [calico](https://github.com/projectcalico) - Cloud native networking and network security.
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP.
 - [cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers.
 - [cni-genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave.
@@ -760,7 +759,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [victoriametrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
-
 
 ## Logging
 
