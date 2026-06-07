@@ -1,0 +1,60 @@
+name: Check Project Status
+
+on:
+  schedule:
+    - cron: '3 0 * * 1'  # Every Monday at 00:03 UTC
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run status check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/check_status.py
+
+      - name: Copy status.json to tmpl/
+        run: cp status.json tmpl/status.json
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet tmpl/status.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create Pull Request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: bot/project-status-update
+          title: "🔄 Update project status ($(date +%Y-%m-%d))"
+          body: |
+            ## Project Status Update
+
+            Automated weekly check of GitHub repository status.
+
+            **Summary:**
+            ```json
+            $(python3 -c "import json; d=json.load(open('status.json')); print(json.dumps(d['summary'], indent=2))")
+            ```
+
+            Please review the changes before merging.
+          commit-message: "chore: update project status data"
+          delete-branch: true

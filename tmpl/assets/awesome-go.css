@@ -93,6 +93,7 @@ blockquote p {
 #content ul {
     margin: 0 0 28px;
     padding-left: 24px;
+    list-style: none;
 }
 
 #content li {
