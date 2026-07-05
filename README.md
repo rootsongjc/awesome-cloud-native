@@ -807,6 +807,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [cosign](https://github.com/sigstore/cosign) - Container signing, verification, and provenance powered by Sigstore.
 - [curiefense](https://github.com/curiefense/curiefense) - Adds a broad set of automated web security tools to Envoy.
+- [darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks, with a proof trail per finding.
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dockscan](https://github.com/kost/dockscan) - Dockscan is security vulnerability and audit scanner for Docker installations.
