@@ -54,7 +54,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubedl](https://github.com/kubedl-io/kubedl) - Run your deep learning workloads on Kubernetes more easily and efficiently.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU).
-- [OpenAgentic](https://github.com/agentic-work/openagentic) - Self-hosted platform to build, run, and orchestrate production AI agents, with built-in MCP tool servers and a human-approval and audit gate.
+- [openagentic](https://github.com/agentic-work/openagentic) - Self-hosted platform to build, run, and orchestrate production AI agents, with built-in MCP tool servers and a human-approval and audit gate.
 - [paddlepaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice（『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）.
 - [predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
