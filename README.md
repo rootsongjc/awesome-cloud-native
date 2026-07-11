@@ -906,6 +906,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
 
 ## Tutorials & Learning
+- [TheCodeForge](https://thecodeforge.io/) - 1,700+ cloud native tutorials covering Kubernetes, Docker, CI/CD, Terraform, monitoring, and more with real-world incident stories and production patterns.
 
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices/) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes.
