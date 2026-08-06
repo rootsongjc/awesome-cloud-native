@@ -180,8 +180,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pipeline](https://github.com/banzaicloud/pipeline) - REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps.
 - [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [pulumi](https://github.com/pulumi/pulumi) - A multi-language, multi-cloud development platform -- your code, your cloud, your team.
-- [qovery](https://github.com/Qovery/qovery-skills) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway. Includes Terraform provider, CLI, API, and AI Agent Skill.
 - [qbec](https://github.com/splunk/qbec) - Configure kubernetes objects on multiple clusters using jsonnet.
+- [qovery](https://github.com/Qovery/qovery-skills) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway. Includes Terraform provider, CLI, API, and AI Agent Skill.
 - [radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - [screwdriver](https://github.com/screwdriver-cd/screwdriver) - An open source build platform designed for continuous delivery.
 - [sealer](https://github.com/alibaba/sealer) - Seal your applications all dependencies and kubernetes into CloudImage! Build Deliver and Run user-defined clusters in one command.
@@ -687,6 +687,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [kubeoperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
+- [kubevirtbmc](https://github.com/kubevirtbmc/kubevirtbmc) - A Kubernetes operator of virtual BMCs that provide Redfish and IPMI services for KubeVirt virtual machines.
 - [kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO).
 - [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators.
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -803,8 +804,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
-- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner with 47 curated checks. Each finding includes copy-paste remediation in AWS CLI and Terraform. Features attack chain detection and a diff command for CI/CD pipeline gating.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
+- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner with 47 curated checks. Each finding includes copy-paste remediation in AWS CLI and Terraform. Features attack chain detection and a diff command for CI/CD pipeline gating.
 - [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [cosign](https://github.com/sigstore/cosign) - Container signing, verification, and provenance powered by Sigstore.
 - [curiefense](https://github.com/curiefense/curiefense) - Adds a broad set of automated web security tools to Envoy.
@@ -817,8 +818,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [falco](https://github.com/falcosecurity/falco) - Behavioral Activity Monitoring With Container Support.
 - [firezone](https://github.com/firezone/firezone) - VPN server and Linux firewall built on WireGuard®. Supports SSO, MFA, and user-scoped access rules.
 - [galadriel](https://github.com/HewlettPackard/galadriel) - SPIFFE Federation the easy way.
-- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
 - [go-microvm](https://github.com/stacklok/go-microvm) - Go framework for running OCI images as microVMs via libkrun with embedded runtime, rootfs management, and guest networking.
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API.
 - [grafeas](https://github.com/Grafeas/Grafeas) - Cloud artifact metadata CRUD API and resource specifications.
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems.
 - [guard](https://github.com/appscode/guard) - Kubernetes Authentication WebHook Server.
