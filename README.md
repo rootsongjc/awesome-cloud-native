@@ -265,6 +265,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
+- [spinifex](https://github.com/mulgadc/spinifex) - Open source AWS-compatible platform for bare-metal, on-prem, and edge deployments. Run EC2, S3, EBS, and VPC-compatible services on your own hardware — no managed cloud required.
 - [talos](https://github.com/talos-systems/talos) - A modern OS for Kubernetes.
 - [tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more.
 - [tensile-kube](https://github.com/virtual-kubelet/tensile-kube) - A Kubernetes Provider.
