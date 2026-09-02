@@ -97,6 +97,8 @@ block.tables = merge({}, block.gfm, {
 
 /**
  * Block Lexer
+ * @param {Object} options - Options for lexing.
+ * @returns {Lexer} Lexer instance.
  */
 
 function Lexer(options) {
