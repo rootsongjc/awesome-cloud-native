@@ -1,0 +1,50 @@
+name: Verify Generated Site
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'tmpl/**'
+      - 'repo.go'
+      - 'repo_test.go'
+      - 'go.mod'
+      - 'go.sum'
+      - 'Makefile'
+      - '.github/workflows/verify-site.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'tmpl/**'
+      - 'repo.go'
+      - 'repo_test.go'
+      - 'go.mod'
+      - 'go.sum'
+      - 'Makefile'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Regenerate tmpl/index.html from README.md
+        run: make build
+
+      - name: Fail if tmpl/index.html was hand-edited or is stale
+        run: |
+          if ! git diff --exit-code tmpl/index.html; then
+            echo "::error::tmpl/index.html does not match a fresh build from README.md"
+            echo "::error::It is a generated file — do not edit it by hand."
+            echo "::error::Run 'make build' (go run repo.go) and commit the result, or revert manual edits."
+            exit 1
+          fi

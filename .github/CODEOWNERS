@@ -1,0 +1,3 @@
+# Generated site output — changes require maintainer review.
+# Takes effect only when branch protection requires review from code owners.
+/tmpl/index.html @rootsongjc
