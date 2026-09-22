@@ -391,6 +391,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubesql](https://github.com/xuxinkun/kubesql) - A tool using sql to query the resources of kubernetes, such as pod, node and so on.
 - [kvrocks](https://github.com/KvrocksLabs/kvrocks) - Kvrocks is a distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [libredb-studio](https://github.com/libredb/libredb-studio) - A web-based SQL IDE that runs next to your data in Kubernetes, with an official Helm chart and an OLM operator, covering PostgreSQL, MySQL, MongoDB, Redis, ClickHouse and other engines.
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 - [mehdb](https://github.com/mhausenblas/mehdb) - Educational Kubernetes-native NoSQL datastore using StatefulSet and persistent volumes.
 - [milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
