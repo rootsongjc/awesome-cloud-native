@@ -220,6 +220,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Configuration & Policy Automation
 
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [ax-lint](https://github.com/royalpinto007/ax-lint) - Linter for Google AX manifests that checks Kubernetes-style YAML for contract errors plus policy warnings, offline and CI-ready.
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations.
 - [datree](https://github.com/datreeio/datree) - CLI tool that automatically scans Kubernetes manifests and Helm charts to ensure they follow best practices as well as your organization’s policies.
 - [gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Enforce Kubernetes admission policies using Open Policy Agent constraints.
