@@ -800,6 +800,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Security & Compliance
 
+- [agent-evidence-admission](https://github.com/probityai/agent-evidence-admission) - Kubernetes admission policies for OPA/Rego, Kyverno, and sigstore policy-controller that admit or refuse a workload on the in-toto agent execution evidence attached to its image.
+- [agent-evidence-vectors](https://github.com/probityai/agent-evidence-vectors) - Conformance vectors and a reference Go verifier for in-toto attestations of AI agent execution, plus SCITT/COSE carriage vectors that keep their own checker until the verifier reads them.
 - [apparmor](https://gitlab.com/apparmor/apparmor/-/wikis/home) - AppArmor is an effective and easy-to-use Linux application security system.
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 - [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
