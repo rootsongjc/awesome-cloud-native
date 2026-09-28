@@ -169,6 +169,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubevela](https://github.com/oam-dev/kubevela) - Make shipping applications more enjoyable.
 - [kusion](https://github.com/KusionStack/kusion) - A compile-to-cloud technology stack with tool chains and engine.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
+- [kzero](https://github.com/hrodrig/kzero) - Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks with dry-run and notify.
 - [lastbackend](https://github.com/lastbackend/lastbackend) - Container orchestration with CI&CD, cli and amazing UI.
 - [meshery](https://github.com/meshery/meshery) - A open source cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud).
 - [mkit](https://github.com/darkbitio/mkit) - MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
