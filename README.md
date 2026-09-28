@@ -309,6 +309,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [compass](https://github.com/winfordlin/Compass) - A Debugging Tool for your Kubernetes Deployments.
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container.
 - [cri-tools](https://github.com/kubernetes-sigs/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI).
+- [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
 - [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on Kubernetes pods using tcpdump and Wireshark.
