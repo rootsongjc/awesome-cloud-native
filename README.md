@@ -98,6 +98,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [argo](https://github.com/argoproj/argo) - Get stuff done with container-native workflows for Kubernetes.
 - [argo-cd](https://github.com/argoproj/argo-cd/) - Declarative continuous deployment for Kubernetes.
 - [argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive delivery controller for blue-green, canary, and experiments on Kubernetes.
+- [argocd-gitops-updater-action](https://github.com/drumandbytes/argocd-gitops-updater-action) - GitHub Action that opens pull requests bumping Helm chart and container image versions in Argo CD and Kustomize GitOps repos.
 - [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers.
 - [armada](https://github.com/att-comdev/armada) - A python orchestrator for a installing, upgrading, and managing a collection of helm charts, dependencies, and values overrides.
 - [autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a git repository to Kubernetes.
