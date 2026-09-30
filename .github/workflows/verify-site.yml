@@ -21,13 +21,53 @@ on:
       - 'go.mod'
       - 'go.sum'
       - 'Makefile'
+      - '.github/workflows/verify-site.yml'
 
 permissions:
   contents: read
 
 jobs:
-  verify:
+  test:
+    name: Check ordering and duplicates
     runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Run repo checks
+        run: go test ./...
+
+  no-generated-edits:
+    name: Reject hand edits to generated files
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fail if generated files are modified in the PR
+        run: |
+          BASE="${{ github.event.pull_request.base.sha }}"
+          CHANGED=$(git diff --name-only "$BASE"...HEAD -- tmpl/index.html tmpl/status.json)
+          if [ -n "$CHANGED" ]; then
+            echo "::error::Generated files must not be edited by hand: $CHANGED"
+            echo "::error::tmpl/index.html is built from README.md by CI after merge. Only edit README.md."
+            exit 1
+          fi
+
+  regenerate:
+    name: Regenerate tmpl/index.html
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -40,11 +80,12 @@ jobs:
       - name: Regenerate tmpl/index.html from README.md
         run: make build
 
-      - name: Fail if tmpl/index.html was hand-edited or is stale
+      - name: Commit and push if changed
         run: |
-          if ! git diff --exit-code tmpl/index.html; then
-            echo "::error::tmpl/index.html does not match a fresh build from README.md"
-            echo "::error::It is a generated file — do not edit it by hand."
-            echo "::error::Run 'make build' (go run repo.go) and commit the result, or revert manual edits."
-            exit 1
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmpl/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: regenerate tmpl/index.html [skip ci]"
+            git push
           fi

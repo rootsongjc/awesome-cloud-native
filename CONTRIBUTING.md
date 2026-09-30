@@ -19,7 +19,8 @@ Thanks for helping keep this Kubernetes and cloud-native catalog sharp. Please f
 
 1. `gofmt -w repo.go repo_test.go` (only needed if you touched Go files).
 2. `go test ./...` – verifies alphabetical ordering and ensures no duplicate links.
-3. `go run ./repo.go` – regenerates `tmpl/index.html`; run this whenever README content changes so the published site stays in sync.
+
+You only need to edit `README.md`. Do not commit `tmpl/index.html` or `tmpl/status.json` – they are generated files, rebuilt automatically by CI after merge.
 
 Include the commands you ran in your pull request description.
 
