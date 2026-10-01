@@ -13,6 +13,12 @@ permissions:
   contents: write
   pull-requests: write
 
+# Serialize runs: burst merges used to spawn concurrent runs that
+# exhausted the installation API rate limit. Newer runs supersede older ones.
+concurrency:
+  group: check-status
+  cancel-in-progress: true
+
 jobs:
   check-status:
     runs-on: ubuntu-latest
@@ -42,13 +48,25 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Get date and summary
+        if: steps.changes.outputs.changed == 'true'
+        id: meta
+        run: |
+          echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          SUMMARY=$(python3 -c "import json; d=json.load(open('status.json')); print(json.dumps(d['summary'], indent=2))")
+          {
+            echo 'summary<<EOF'
+            echo "$SUMMARY"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
       - name: Create Pull Request
         if: steps.changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: bot/project-status-update
-          title: "🔄 Update project status ($(date +%Y-%m-%d))"
+          title: "🔄 Update project status (${{ steps.meta.outputs.date }})"
           body: |
             ## Project Status Update
 
@@ -56,7 +74,7 @@ jobs:
 
             **Summary:**
             ```json
-            $(python3 -c "import json; d=json.load(open('status.json')); print(json.dumps(d['summary'], indent=2))")
+            ${{ steps.meta.outputs.summary }}
             ```
 
             Please review the changes before merging.

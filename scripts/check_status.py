@@ -9,6 +9,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone, timedelta
@@ -22,6 +23,10 @@ GITHUB_LINK_RE = re.compile(r"\[.*?\]\(https://github\.com/([^/)]+/[^/)]+?)(?:[/
 # Status thresholds
 INACTIVE_THRESHOLD_DAYS = 730  # 2 years
 API_BATCH_SIZE = 50
+
+# Rate limit handling
+MAX_ATTEMPTS = 3
+RATE_LIMIT_MAX_WAIT_SECONDS = 3600
 
 
 def parse_github_repos(readme_path):
@@ -38,6 +43,21 @@ def parse_github_repos(readme_path):
     return sorted(repos)
 
 
+def rate_limit_wait(e):
+    """Return seconds to wait after a 403/429 response, or None if not a rate limit."""
+    if e.headers is None:
+        return None
+    remaining = e.headers.get("X-RateLimit-Remaining")
+    reset = e.headers.get("X-RateLimit-Reset")
+    if remaining == "0" and reset:
+        wait = int(reset) - int(datetime.now(timezone.utc).timestamp())
+        return max(1, min(wait, RATE_LIMIT_MAX_WAIT_SECONDS))
+    retry_after = e.headers.get("Retry-After")
+    if retry_after:
+        return max(1, min(int(retry_after), RATE_LIMIT_MAX_WAIT_SECONDS))
+    return None
+
+
 def query_repo_status(repo, token):
     """Query a single repo's status from GitHub API.
 
@@ -51,33 +71,43 @@ def query_repo_status(repo, token):
     if token:
         headers["Authorization"] = "Bearer " + token
 
-    req = urllib.request.Request(url, headers=headers)
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        req = urllib.request.Request(url, headers=headers)
 
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            pushed_at = data.get("pushed_at")
-            archived = data.get("archived", False)
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                pushed_at = data.get("pushed_at")
+                archived = data.get("archived", False)
 
-            if archived:
-                return {"status": "archived", "archived": True, "pushed_at": pushed_at}
+                if archived:
+                    return {"status": "archived", "archived": True, "pushed_at": pushed_at}
 
-            if pushed_at:
-                last_push = datetime.fromisoformat(pushed_at.replace("Z", "+00:00"))
-                cutoff = datetime.now(timezone.utc) - timedelta(days=INACTIVE_THRESHOLD_DAYS)
-                if last_push < cutoff:
-                    return {"status": "inactive", "archived": False, "pushed_at": pushed_at}
+                if pushed_at:
+                    last_push = datetime.fromisoformat(pushed_at.replace("Z", "+00:00"))
+                    cutoff = datetime.now(timezone.utc) - timedelta(days=INACTIVE_THRESHOLD_DAYS)
+                    if last_push < cutoff:
+                        return {"status": "inactive", "archived": False, "pushed_at": pushed_at}
 
-            return {"status": "active", "archived": False, "pushed_at": pushed_at}
+                return {"status": "active", "archived": False, "pushed_at": pushed_at}
 
-    except urllib.error.HTTPError as e:
-        if e.code == 404:
-            return {"status": "deleted", "archived": False, "pushed_at": None}
-        print("Warning: HTTP " + str(e.code) + " for " + repo, file=sys.stderr)
-        return None
-    except Exception as e:
-        print("Warning: " + str(e) + " for " + repo, file=sys.stderr)
-        return None
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                return {"status": "deleted", "archived": False, "pushed_at": None}
+            if e.code in (403, 429) and attempt < MAX_ATTEMPTS:
+                wait = rate_limit_wait(e)
+                if wait is not None:
+                    print("Rate limited on " + repo + ", sleeping " + str(wait) + "s (attempt "
+                          + str(attempt) + "/" + str(MAX_ATTEMPTS) + ")", file=sys.stderr)
+                    time.sleep(wait)
+                    continue
+            print("Warning: HTTP " + str(e.code) + " for " + repo, file=sys.stderr)
+            return None
+        except Exception as e:
+            print("Warning: " + str(e) + " for " + repo, file=sys.stderr)
+            return None
+
+    return None
 
 
 def check_all_repos(repos, token):

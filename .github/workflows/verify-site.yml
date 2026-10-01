@@ -44,7 +44,7 @@ jobs:
 
   no-generated-edits:
     name: Reject hand edits to generated files
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' && github.actor != 'app/github-actions' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
