@@ -7,40 +7,40 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Table of Contents
 
-- [AI & Machine Learning Platforms](#ai-machine-learning-platforms)
-- [API Design & Documentation](#api-design-documentation)
-- [API Gateways & Proxies](#api-gateways-proxies)
-- [Build & Packaging Automation](#build-packaging-automation)
-- [Cluster Provisioning & Lifecycle](#cluster-provisioning-lifecycle)
-- [Configuration & Policy Automation](#configuration-policy-automation)
-- [Continuous Delivery & GitOps](#continuous-delivery-gitops)
-- [Cost & Governance](#cost-governance)
-- [Dashboards & Portals](#dashboards-portals)
-- [Data Processing & Analytics](#data-processing-analytics)
-- [Data Protection & Backup](#data-protection-backup)
+- [AI & Machine Learning Platforms](#ai--machine-learning-platforms)
+- [API Design & Documentation](#api-design--documentation)
+- [API Gateways & Proxies](#api-gateways--proxies)
+- [Build & Packaging Automation](#build--packaging-automation)
+- [Cluster Provisioning & Lifecycle](#cluster-provisioning--lifecycle)
+- [Configuration & Policy Automation](#configuration--policy-automation)
+- [Continuous Delivery & GitOps](#continuous-delivery--gitops)
+- [Cost & Governance](#cost--governance)
+- [Dashboards & Portals](#dashboards--portals)
+- [Data Processing & Analytics](#data-processing--analytics)
+- [Data Protection & Backup](#data-protection--backup)
 - [Databases](#databases)
-- [Developer Workspaces & Productivity](#developer-workspaces-productivity)
-- [Diagnostics & Troubleshooting](#diagnostics-troubleshooting)
-- [Edge & IoT](#edge-iot)
+- [Developer Workspaces & Productivity](#developer-workspaces--productivity)
+- [Diagnostics & Troubleshooting](#diagnostics--troubleshooting)
+- [Edge & IoT](#edge--iot)
 - [Kubernetes Operators](#kubernetes-operators)
-- [Load Balancing & Ingress](#load-balancing-ingress)
+- [Load Balancing & Ingress](#load-balancing--ingress)
 - [Logging](#logging)
-- [Networking & Connectivity](#networking-connectivity)
+- [Networking & Connectivity](#networking--connectivity)
 - [Networking Utilities](#networking-utilities)
-- [Observability & Monitoring](#observability-monitoring)
-- [Reliability & Chaos Engineering](#reliability-chaos-engineering)
+- [Observability & Monitoring](#observability--monitoring)
+- [Reliability & Chaos Engineering](#reliability--chaos-engineering)
 - [RPC Frameworks](#rpc-frameworks)
-- [Runtimes & Platforms](#runtimes-platforms)
-- [Security & Compliance](#security-compliance)
+- [Runtimes & Platforms](#runtimes--platforms)
+- [Security & Compliance](#security--compliance)
 - [Serverless Platforms](#serverless-platforms)
-- [Service Discovery & Registry](#service-discovery-registry)
+- [Service Discovery & Registry](#service-discovery--registry)
 - [Service Mesh](#service-mesh)
-- [Storage & Data Management](#storage-data-management)
-- [Streaming & Messaging](#streaming-messaging)
-- [Testing & Conformance](#testing-conformance)
-- [Tracing & Profiling](#tracing-profiling)
-- [Tutorials & Learning](#tutorials-learning)
-- [Workload Orchestration & Scheduling](#workload-orchestration-scheduling)
+- [Storage & Data Management](#storage--data-management)
+- [Streaming & Messaging](#streaming--messaging)
+- [Testing & Conformance](#testing--conformance)
+- [Tracing & Profiling](#tracing--profiling)
+- [Tutorials & Learning](#tutorials--learning)
+- [Workload Orchestration & Scheduling](#workload-orchestration--scheduling)
 
 ## AI & Machine Learning Platforms
 
@@ -60,6 +60,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [seldon-core](https://github.com/SeldonIO/seldon-core) - A framework to deploy, manage and scale your production machine learning to thousands of models.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning.
 
+[↑ Back to top](#table-of-contents)
+
 ## Data Processing & Analytics
 
 - [fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors.
@@ -69,6 +71,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [v6d](https://github.com/alibaba/v6d) - vineyard (v6d), an in-memory immutable data manager.
 - [wallaroo](https://github.com/WallarooLabs/wallaroo) - Ultrafast and elastic data processing.
+
+[↑ Back to top](#table-of-contents)
 
 ## API Gateways & Proxies
 
@@ -92,6 +96,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
 - [sbproxy](https://github.com/soapbucket/sbproxy) - Single-binary AI gateway and reverse proxy with 103+ LLM providers, cost-based routing, rate limiting, and declarative YAML configuration.
 - [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols.
+
+[↑ Back to top](#table-of-contents)
 
 ## Continuous Delivery & GitOps
 
@@ -205,6 +211,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [woodpecker](https://github.com/laszlocph/woodpecker) - Fork of drone.io v0.8 since drone is not fully opensource anymore.
 - [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 
+[↑ Back to top](#table-of-contents)
+
 ## Build & Packaging Automation
 
 - [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit.
@@ -218,6 +226,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers.
 - [watchtower](https://github.com/openserbia/watchtower) - Automatically update running Docker containers.
+
+[↑ Back to top](#table-of-contents)
 
 ## Configuration & Policy Automation
 
@@ -239,6 +249,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes.
 - [reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig.
 - [unleash](https://github.com/Unleash/unleash) - Open-source feature management platform to decouple deploy from release and enable continuous delivery safely.
+
+[↑ Back to top](#table-of-contents)
 
 ## Cluster Provisioning & Lifecycle
 
@@ -276,6 +288,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [wksctl](https://github.com/weaveworks/wksctl) - Open Source Weaveworks Kubernetes System.
 
+[↑ Back to top](#table-of-contents)
+
 ## Developer Workspaces & Productivity
 
 - [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
@@ -307,6 +321,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [wa](https://github.com/wa-lang/wa/) - The Wa Programming Language: Simple, maintainable, compiled language for developing WebAssembly software.
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - A spreadsheet to control your Kubernetes cluster.
 
+[↑ Back to top](#table-of-contents)
+
 ## Diagnostics & Troubleshooting
 
 - [compass](https://github.com/winfordlin/Compass) - A Debugging Tool for your Kubernetes Deployments.
@@ -337,6 +353,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 
+[↑ Back to top](#table-of-contents)
+
 ## Testing & Conformance
 
 - [jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework with Kubernetes-native device management and CI/CD integration.
@@ -345,12 +363,16 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 
+[↑ Back to top](#table-of-contents)
+
 ## Data Protection & Backup
 
 - [ark](https://github.com/vmware-tanzu/velero) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.
 - [dotmesh](https://github.com/dotmesh-io/dotmesh) - Dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes.
 - [k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
 - [stash](https://github.com/stashed/stash) - Backup your Kubernetes Volumes.
+
+[↑ Back to top](#table-of-contents)
 
 ## Cost & Governance
 
@@ -364,6 +386,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [opencost](https://github.com/opencost/opencost) - Kubernetes cost monitoring powered by open allocation models.
 - [resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
 
+[↑ Back to top](#table-of-contents)
+
 ## Networking Utilities
 
 - [dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an intelligent P2P based file distribution system.
@@ -375,11 +399,15 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [podtnl](https://github.com/narendranathreddythota/podtnl) - A Powerful CLI that makes your pod available to online without exposing a Kubernetes service.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes.
 
+[↑ Back to top](#table-of-contents)
+
 ## API Design & Documentation
 
 - [aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML.
 - [drakov](https://github.com/Aconex/drakov) - Mock Server that implements the API Blueprint specification.
 - [swagger](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+
+[↑ Back to top](#table-of-contents)
 
 ## Databases
 
@@ -418,6 +446,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness.
 - [xline](https://github.com/xline-kv/Xline) - A geo-distributed KV store for metadata management.
 
+[↑ Back to top](#table-of-contents)
+
 ## Storage & Data Management
 
 - [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - Curated comparison of 21 S3-compatible object storage providers with pricing, gotchas, and tools.
@@ -449,6 +479,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [zenko](https://github.com/scality/Zenko) - Because everyone should be in control of their data.
 - [zot](https://github.com/project-zot/zot) - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification).
 
+[↑ Back to top](#table-of-contents)
+
 ## Streaming & Messaging
 
 - [automq](https://github.com/AutoMQ/automq) - A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
@@ -463,6 +495,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pulsar](https://github.com/apache/pulsar) - A distributed messaging and streaming platform.
 - [rabbitmq](https://github.com/rabbitmq) - RabbitMQ is the most widely deployed open source message broker.
 - [rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+
+[↑ Back to top](#table-of-contents)
 
 ## Service Mesh
 
@@ -489,6 +523,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
 - [supergloo](https://github.com/solo-io/service-mesh-hub) - The Service Mesh Orchestration Platform.
 
+[↑ Back to top](#table-of-contents)
+
 ## Service Discovery & Registry
 
 - [admiral](https://github.com/istio-ecosystem/admiral) - Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh.
@@ -509,6 +545,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA.
 - [vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+
+[↑ Back to top](#table-of-contents)
 
 ## Networking & Connectivity
 
@@ -534,6 +572,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host Docker networking and more.
 - [ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network.
+
+[↑ Back to top](#table-of-contents)
 
 ## Load Balancing & Ingress
 
@@ -564,6 +604,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy.
 - [voyager](https://github.com/voyagermesh/voyager) - Secure Ingress Controller for Kubernetes.
 
+[↑ Back to top](#table-of-contents)
+
 ## RPC Frameworks
 
 - [brpc](https://github.com/apache/incubator-brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
@@ -577,6 +619,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sofa-rpc](https://github.com/sofastack/sofa-rpc) - SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.
 - [tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [thrift](https://github.com/apache/thrift) - Apache thrift.
+
+[↑ Back to top](#table-of-contents)
 
 ## Runtimes & Platforms
 
@@ -610,6 +654,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [wasmcloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is a universal host runtime for actors built with WebAssembly and capability providers.
 - [wazero](https://github.com/tetratelabs/wazero) - The zero dependency WebAssembly runtime for Go developers.
 
+[↑ Back to top](#table-of-contents)
+
 ## Workload Orchestration & Scheduling
 
 - [alameda](https://github.com/containers-ai/alameda) - Intelligent Resources Orchestrator for Kubernetes by using machine learning.
@@ -641,6 +687,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [swarm](https://github.com/docker/classicswarm) - Swarm: a Docker-native clustering system.
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF).
+
+[↑ Back to top](#table-of-contents)
 
 ## Serverless Platforms
 
@@ -677,6 +725,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [tau](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
+[↑ Back to top](#table-of-contents)
+
 ## Kubernetes Operators
 
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes-native operator that manages isolated, persistent sandboxes for human developers and AI agents through Sandbox CRDs, with built-in governance, warm-pod pool, and a streaming agent-mode REST API.
@@ -707,6 +757,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 - [xline-operator](https://github.com/xline-kv/xline-operator) - A powerful tool designed to automate the process of bootstrapping, monitoring, snapshotting, and recovering an xline cluster on Kubernetes.
 
+[↑ Back to top](#table-of-contents)
+
 ## Edge & IoT
 
 - [akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge.
@@ -720,6 +772,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [octopus](https://github.com/cnrancher/octopus) - Lightweight device management system for Kubernetes/k3s.
 - [openyurt](https://github.com/openyurtio/openyurt) - Extending your native Kubernetes to edge(project under CNCF).
 - [superedge](https://github.com/superedge/superedge) - An edge-native container management system for edge computing.
+
+[↑ Back to top](#table-of-contents)
 
 ## Observability & Monitoring
 
@@ -773,6 +827,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [vistio](https://github.com/nmnellis/vistio) - Visualize your Istio mesh using Netflix's Vizceral.
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs.
 
+[↑ Back to top](#table-of-contents)
+
 ## Logging
 
 - [beats](https://github.com/elastic/beats) - Beats - Lightweight shippers for Elasticsearch & Logstash.
@@ -791,6 +847,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [vector](https://github.com/vectordotdev/vector) - High-performance observability data router for logs, metrics, and traces.
 
+[↑ Back to top](#table-of-contents)
+
 ## Tracing & Profiling
 
 - [appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
@@ -803,6 +861,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [skywalking](https://github.com/apache/skywalking) - An APM system for tracing, monitoring, diagnosing distributed systems, especially based on microservices, cloud native and container.
 - [sofa-tracker](https://github.com/sofastack/sofa-tracer) - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link . These logs can be used for quick discovery of faults, service governance, etc.
 - [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system.
+
+[↑ Back to top](#table-of-contents)
 
 ## Security & Compliance
 
@@ -869,6 +929,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
 - [vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 
+[↑ Back to top](#table-of-contents)
+
 ## Reliability & Chaos Engineering
 
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
@@ -888,6 +950,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sentinel](https://github.com/alibaba/sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [testkube](https://github.com/kubeshop/testkube) - Kubernetes-native framework for test definition and execution.
 - [toxiproxy](https://github.com/shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+
+[↑ Back to top](#table-of-contents)
 
 ## Dashboards & Portals
 
@@ -918,6 +982,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro.
 - [wayne](https://github.com/Qihoo360/wayne) - Web UI for Kubernetes multi-clusters.
 
+[↑ Back to top](#table-of-contents)
+
 ## Tutorials & Learning
 
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices/) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
@@ -943,6 +1009,8 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
 - [wyrcan-roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage engineering curriculum covering Linux, Docker, AWS, Terraform, Kubernetes, and MLOps.
+
+[↑ Back to top](#table-of-contents)
 
 ## Contribute
 

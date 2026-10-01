@@ -1,10 +1,13 @@
 package main
 
 import (
+	"fmt"
+	"html"
 	"io/ioutil"
 	"log"
 	"os"
 	"os/exec"
+	"regexp"
 	"strings"
 	"text/template"
 
@@ -53,6 +56,7 @@ func readMarkdownFile() []byte {
 
 func generateHTML(input []byte) {
 	body := string(gfm.Markdown(input))
+	body = fixAnchors(body)
 	c := &content{Body: body}
 
 	t, err := template.ParseFiles(tplPath)
@@ -76,4 +80,44 @@ func main() {
 	markdown := readMarkdownFile()
 	generateHTML(markdown)
 	log.Println("Successfully generated index.html")
+}
+
+var (
+	// headingRe matches a heading element emitted by the GFM renderer,
+	// capturing the level and the heading's inner HTML.
+	headingRe = regexp.MustCompile(`(?s)<h([1-6])><a name="[^"]*" class="anchor" href="[^"]*" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>(.*?)</h[1-6]>`)
+	tagRe     = regexp.MustCompile(`(?s)<[^>]*>`)
+)
+
+// githubSlug returns the heading anchor GitHub generates for a heading title:
+// lowercased, punctuation removed (each removed run still leaves its surrounding
+// spaces behind), and spaces replaced with hyphens without collapsing repeats.
+func githubSlug(s string) string {
+	s = strings.ToLower(s)
+	var b strings.Builder
+	for _, r := range s {
+		switch {
+		case r >= 'a' && r <= 'z', r >= '0' && r <= '9', r == '_', r == '-', r == ' ':
+			b.WriteRune(r)
+		}
+	}
+	return strings.ReplaceAll(b.String(), " ", "-")
+}
+
+// fixAnchors rewrites heading anchor names to match GitHub's slug algorithm so
+// that in-page links (e.g. the Table of Contents) resolve identically on GitHub
+// and on the locally generated static site.
+func fixAnchors(body string) string {
+	return headingRe.ReplaceAllStringFunc(body, func(m string) string {
+		sm := headingRe.FindStringSubmatch(m)
+		if len(sm) < 3 {
+			return m
+		}
+		level := sm[1]
+		inner := sm[2]
+		title := html.UnescapeString(tagRe.ReplaceAllString(inner, ""))
+		slug := githubSlug(title)
+		return fmt.Sprintf(`<h%s><a name="%s" class="anchor" href="#%s" rel="nofollow" aria-hidden="true"><span class="octicon octicon-link"></span></a>%s</h%s>`,
+			level, slug, slug, inner, level)
+	})
 }
