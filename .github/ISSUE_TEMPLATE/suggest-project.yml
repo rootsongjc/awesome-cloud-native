@@ -1,0 +1,90 @@
+name: Suggest a project
+description: Propose a project for the list, or ask whether one qualifies
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow the catalog! Please check the
+        [inclusion criteria](https://github.com/rootsongjc/awesome-cloud-native/blob/main/CONTRIBUTING.md#inclusion-criteria)
+        before submitting; the items below mirror those rules.
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      placeholder: e.g. kubernetes
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: Repository URL
+      description: Canonical repository, not a fork or mirror.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Proposed category
+      options:
+        - AI & Machine Learning Platforms
+        - API Design & Documentation
+        - API Gateways & Proxies
+        - Build & Packaging Automation
+        - Cluster Provisioning & Lifecycle
+        - Configuration & Policy Automation
+        - Continuous Delivery & GitOps
+        - Cost & Governance
+        - Dashboards & Portals
+        - Data Processing & Analytics
+        - Data Protection & Backup
+        - Databases
+        - Developer Workspaces & Productivity
+        - Diagnostics & Troubleshooting
+        - Edge & IoT
+        - Kubernetes Operators
+        - Load Balancing & Ingress
+        - Logging
+        - Networking & Connectivity
+        - Networking Utilities
+        - Observability & Monitoring
+        - Reliability & Chaos Engineering
+        - RPC Frameworks
+        - Runtimes & Platforms
+        - Security & Compliance
+        - Serverless Platforms
+        - Service Discovery & Registry
+        - Service Mesh
+        - Storage & Data Management
+        - Streaming & Messaging
+        - Testing & Conformance
+        - Tracing & Profiling
+        - Tutorials & Learning
+        - Workload Orchestration & Scheduling
+        - Not sure / other (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      description: Single line, sentence case, no marketing fluff. Used as the entry text if accepted.
+      placeholder: Low-overhead on-demand profiling agent for Kubernetes workloads.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Eligibility self-check
+      description: All boxes must be ticked for the project to qualify.
+      options:
+        - label: The repository carries an OSI-approved open source license (source-available licenses like PolyForm/BSL/SSPL do not qualify)
+        - label: This is the canonical upstream repository, not a fork, and it is not already listed under another category
+        - label: The project clearly benefits cloud-native or Kubernetes workloads
+        - label: The project is actively maintained (or historically significant)
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Stars, adoption, CNCF status, rationale for the category; anything that helps review.

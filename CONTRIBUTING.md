@@ -2,6 +2,18 @@
 
 Thanks for helping keep this Kubernetes and cloud-native catalog sharp. Please follow the rules below so the list stays consistent and searchable.
 
+## Inclusion criteria
+
+Before suggesting a project, check it against these rules. Submissions that fail any of them will be declined:
+
+- **Open source license.** The repository must carry an OSI-approved license (Apache-2.0, MIT, BSD, MPL, GPL family, etc.). Source-available licenses such as PolyForm, BSL, or SSPL do **not** qualify, even for "community editions".
+- **Canonical repository.** Link to the upstream project itself, not a fork or a mirror. If the upstream is already listed, don't add forks.
+- **Cloud-native relevance.** The project must clearly benefit cloud-native or Kubernetes workloads. Quick test: would a platform/DevOps engineer reach for it when building or operating cloud-native systems?
+- **Maintained or established.** Prefer actively maintained projects. The status checker flags repos with no push in 2 years as inactive; historically significant but dormant projects may stay, but brand-new unmaintained ones won't be added.
+- **Vendor-affiliated is fine.** A tool maintained by a company qualifies as long as the listed artifact itself is genuinely open source and standalone.
+
+Not sure? Open an issue using the *Suggest a project* template and ask. That's what it's for.
+
 ## General expectations
 
 - Additions **must be open source** (ideally GitHub-hosted) and clearly benefit cloud-native workloads.

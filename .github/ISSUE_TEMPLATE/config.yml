@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Inclusion criteria & contribution guide
+    url: https://github.com/rootsongjc/awesome-cloud-native/blob/main/CONTRIBUTING.md
+    about: Read the rules before suggesting a project or opening a PR.
