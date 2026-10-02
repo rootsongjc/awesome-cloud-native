@@ -974,7 +974,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider.
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service.
-- [openchoreo](https://github.com/openchoreo/openchoreo) - Modular internal developer platform for Kubernetes combining architecture guardrails, a Backstage-powered portal, application CI/CD, GitOps, and observability (CNCF Sandbox).
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers.
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker.
