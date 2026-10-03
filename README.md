@@ -222,6 +222,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker.
 - [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service.
 - [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
+- [LayerSmith](https://github.com/r0lfi/layersmith) - Build OCI images with Docker or Podman through a self-hosted web UI, TUI, or CLI, with editable Containerfiles and air-gap bundles.
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers.
