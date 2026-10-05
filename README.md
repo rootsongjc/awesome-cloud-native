@@ -59,7 +59,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [seldon-core](https://github.com/SeldonIO/seldon-core) - A framework to deploy, manage and scale your production machine learning to thousands of models.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning.
-- [vivacious-cli](https://github.com/Viavcious-cloud/vivacious-cli) - Preflight CUDA memory validation and unified multi-cloud GPU orchestrator for cloud-native model training and inference.
+- [vivacious-cli](https://github.com/Viavcious-cloud/vivacious-cli) - Preflight CUDA memory validation and unified multi-cloud GPU orchestrator for cloud-native model training.
 
 [↑ Back to top](#table-of-contents)
 
