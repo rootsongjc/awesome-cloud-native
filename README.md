@@ -823,6 +823,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [searchlight](https://github.com/searchlight/searchlight) - Alerts for Kubernetes.
 - [sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
 - [sofa-lookout](https://github.com/sofastack/sofa-lookout) - Lookout can help you to measure and monitor the status of the target system with its multi-dimensional metrics.
+- [solidping](https://github.com/fclairamb/solidping) - Uptime and synthetic monitoring with status pages, in-cluster private agents and a Helm chart.
 - [starship](https://github.com/tricorder-observability/Starship) - Next-generation Observability platform built with eBPF+WASM.
 - [statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation.
 - [tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement.
