@@ -639,6 +639,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [Jokku](https://github.com/wes/jokku) - Self-hosted PaaS with Dokku's git push workflow that runs each app instance in a Firecracker microVM across a cluster.
 - [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
 - [kuasar](https://github.com/kuasar-io/kuasar) - An efficient container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
