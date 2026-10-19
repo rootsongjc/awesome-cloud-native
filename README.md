@@ -915,6 +915,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources.
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
 - [kyverno](https://github.com/kyverno/kyverno/) - Kubernetes Native Policy Management.
+- [locke](https://github.com/sky-cloak/locke) - Keycloak distribution that can run its cache on Redis instead of embedded Infinispan
 - [neuvector](https://github.com/neuvector/neuvector) - Kubernetes-native container security platform.
 - [notary](https://github.com/theupdateframework/notary) - Notary is a Docker project that allows anyone to have trust over arbitrary collections of data.
 - [opa](https://github.com/open-policy-agent/opa) - An open source project to policy-enable your service.
