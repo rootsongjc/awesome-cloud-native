@@ -929,6 +929,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
 - [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops.
 - [topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs.
+- [Tracekit](https://github.com/Cygnux-Labs/Tracekit) - Policy gate and signed record for AI agent tool calls, run as a Kubernetes sidecar or a central signer: it allows, denies or holds each call for a person and writes a hash-chained log that verifies offline.
 - [trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
 - [trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities.
 - [trousseau](https://github.com/oleiade/trousseau) - File based encrypted key-value store.
