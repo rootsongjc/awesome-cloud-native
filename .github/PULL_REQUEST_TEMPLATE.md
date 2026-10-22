@@ -16,7 +16,7 @@
 - [ ] This is the canonical upstream repository, not a fork, and not already listed
 - [ ] The project clearly benefits cloud-native or Kubernetes workloads
 - [ ] The entry is placed in alphabetical order within its category
-- [ ] The description is a single line, sentence case, no marketing fluff
+- [ ] The description is a single line, sentence case, written in English, no marketing fluff
 
 ## Generated files
 

@@ -5,7 +5,7 @@
 ```bash
 make build     # Generate tmpl/index.html from README.md (go run repo.go)
 make preview   # Build + start local HTTP server on tmpl/ (default port 8080, override: PORT=3000)
-make test      # Run Go tests (alphabetical order + duplicate link checks)
+make test      # Run Go tests (alphabetical order + duplicate link + English description checks)
 make status    # Run project status checker, outputs status.json and copies to tmpl/
 make clean     # Remove generated files
 ```
@@ -22,7 +22,7 @@ README.md → repo.go (Go + GFM) → tmpl/index.html → served as static site
 
 - **`README.md`**: The catalog. ~800 projects in ~34 single-level categories. Format: `- [name](https://github.com/owner/repo) - Description.`
 - **`repo.go`**: Reads README.md, converts with `github_flavored_markdown`, renders via `tmpl/tmpl.html`, writes `tmpl/index.html`. Also auto-pulls git changes.
-- **`repo_test.go`**: Parses rendered HTML to enforce alphabetical ordering within each category and reject duplicate links.
+- **`repo_test.go`**: Parses rendered HTML to enforce alphabetical ordering within each category, reject duplicate links, and require English-only entry descriptions.
 - **`tmpl/`**: Static site output. CSS/JS assets in `tmpl/assets/`. Do not manually edit `index.html`.
 
 ### Project Status Tracking
@@ -45,7 +45,7 @@ Status flow: `README.md → Python script → status.json (bot PR) → frontend 
 - **Alphabetical order** within each category. `go test ./...` enforces this.
 - **One entry per project**, single best category.
 - **Inclusion criteria**: OSI-approved license, canonical upstream repo, cloud-native relevance. Full rules in `CONTRIBUTING.md` and the issue/PR templates under `.github/`.
-- **Descriptions**: single line, sentence case, no trailing periods unless complete sentence.
+- **Descriptions**: single line, sentence case, written in English, no trailing periods unless complete sentence. Enforced by `go test ./...`.
 - **Link text**: official project name in Title Case, pointing to canonical GitHub repo.
 - **Commit messages**: imperative tone (`Add litellm`, `Bump golang.org/x/net`).
 - **PR workflow**: edit `README.md` only → `go test ./...` → open PR. CI regenerates `tmpl/index.html` after merge; never commit generated files.

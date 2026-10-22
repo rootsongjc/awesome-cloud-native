@@ -39,6 +39,37 @@ func TestDuplicatedLinks(t *testing.T) {
 	})
 }
 
+func TestEnglishDescriptions(t *testing.T) {
+	input, err := ioutil.ReadFile("./README.md")
+	if err != nil {
+		panic(err)
+	}
+
+	for i, line := range strings.Split(string(input), "\n") {
+		if !strings.HasPrefix(line, "- [") {
+			continue
+		}
+		for _, r := range line {
+			if isNonLatin(r) {
+				t.Errorf("README.md:%d: entry must be in English: %s", i+1, line)
+				break
+			}
+		}
+	}
+}
+
+func isNonLatin(r rune) bool {
+	switch {
+	case r >= 0x4E00 && r <= 0x9FFF,
+		r >= 0x3400 && r <= 0x4DBF,
+		r >= 0x3040 && r <= 0x30FF,
+		r >= 0xAC00 && r <= 0xD7AF,
+		r >= 0xFF00 && r <= 0xFFEF:
+		return true
+	}
+	return false
+}
+
 func testList(t *testing.T, list *goquery.Selection) {
 	list.Find("ul").Each(func(_ int, items *goquery.Selection) {
 		testList(t, items)

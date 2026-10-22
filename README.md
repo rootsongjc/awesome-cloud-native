@@ -54,7 +54,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubedl](https://github.com/kubedl-io/kubedl) - Run your deep learning workloads on Kubernetes more easily and efficiently.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
 - [leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU).
-- [paddlepaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice（『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）.
+- [paddlepaddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice, providing high-performance single-machine, distributed training and cross-platform deployment for deep learning and machine learning.
 - [predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [seldon-core](https://github.com/SeldonIO/seldon-core) - A framework to deploy, manage and scale your production machine learning to thousands of models.
@@ -119,7 +119,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
 - [charitify](https://github.com/kubepack/chartify) - Generate Helm Charts from Kubernetes objects.
 - [circleci](https://github.com/circleci) - Continuous Integration and Deployment.
-- [cloudbase-framework](https://github.com/Tencent/cloudbase-framework) - 🚀 A front-end and back-end integrated deployment tool 🔥 One-click deploy to serverless architecture. 云原生一体化部署工具 CloudBase Framework.
+- [cloudbase-framework](https://github.com/Tencent/cloudbase-framework) - 🚀 A front-end and back-end integrated deployment tool 🔥 One-click deploy to serverless architecture.
 - [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification.
 - [commandeer](https://github.com/commandeer/open) - Cloud management desktop app for macOS, Windows, and Linux.
 - [containerops](https://github.com/Huawei/containerops) - DevOps Orchestration Platform.
@@ -223,7 +223,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker.
 - [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service.
 - [kuberlr](https://github.com/flavio/kuberlr) - A tool that simplifies the management of multiple versions of kubectl.
-- [LayerSmith](https://github.com/r0lfi/layersmith) - Build OCI images with Docker or Podman through a self-hosted web UI, TUI, or CLI, with editable Containerfiles and air-gap bundles.
+- [layersmith](https://github.com/r0lfi/layersmith) - Build OCI images with Docker or Podman through a self-hosted web UI, TUI, or CLI, with editable Containerfiles and air-gap bundles.
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers.
@@ -275,7 +275,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm.
 - [kubeadm-offline-installer](https://github.com/fleeto/kubeadm-offline-installer) - Setup a cluster with kubeadm, without internet connections.
 - [kubean](https://github.com/kubean-io/kubean) - Kubernetes lifecycle management operator based on kubespray.
-- [kubeasz](https://github.com/easzlab/kubeasz) - 使用 Ansible 脚本安装 K8S 集群，介绍组件交互原理，方便直接，不受国内网络环境影响。
+- [kubeasz](https://github.com/easzlab/kubeasz) - Install K8s clusters with Ansible playbooks, explains component interaction principles, simple to use, and unaffected by the network environment in China.
 - [kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform.
 - [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Setup a kubernetes cluster also mentioned as kargo.
@@ -533,7 +533,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Service Discovery & Registry
 
 - [admiral](https://github.com/istio-ecosystem/admiral) - Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh.
-- [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+- [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - Clusterpedia is used for complex resource searches across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters.
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains middleware.
@@ -591,7 +591,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [envoy](https://github.com/envoyproxy/envoy) - C++ front/service proxy.
 - [func-e](https://github.com/tetratelabs/func-e) - func-e (pronounced funky) makes running Envoy easy.
 - [gimbal](https://github.com/projectcontour/gimbal) - Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio.
-- [gobetween](https://github.com/yyyar/gobetween) - Modern & minimalistic load balancer for the Сloud era.
+- [gobetween](https://github.com/yyyar/gobetween) - Modern & minimalistic load balancer for the Cloud era.
 - [haproxy](https://github.com/haproxy/haproxy) - HAProxy is a free, very fast and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
 - [inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters.
 - [katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer.
@@ -701,7 +701,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [booster](https://github.com/boostercloud/booster) - Booster is a framework for building and deploying reliable and scalable event-driven serverless applications.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [dispatch](https://github.com/vmware/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
-- [easyfaas](https://github.com/baidu/EasyFaaS) - EasyFaaS 是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎。
+- [easyfaas](https://github.com/baidu/EasyFaaS) - EasyFaaS is a stateless, high-performance function compute service engine with light dependencies, strong adaptability, and low resource usage.
 - [eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery.
 - [faas-netes](https://github.com/openfaas/faas-netes) - Enable Kubernetes as a backend for Functions as a Service (OpenFaaS).
 - [firecamp](https://github.com/cloudstax/firecamp) - Serverless Platform for the stateful services.
@@ -724,7 +724,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [osiris](https://github.com/deislabs/osiris) - A general purpose, scale-to-zero component for Kubernetes.
 - [riff](https://github.com/projectriff/riff) - Riff is for functions.
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
-- [serverless-devs](https://github.com/Serverless-Devs/Serverless-Devs)  - Serverless Devs developer tool (Serverless Devs 开发者工具).
+- [serverless-devs](https://github.com/Serverless-Devs/Serverless-Devs)  - Serverless Devs developer tool.
 - [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification.
 - [sqoop](https://github.com/solo-io/sqoop) - The GraphQL Engine powered by Gloo.
@@ -750,7 +750,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale.
 - [kubedirector](https://github.com/bluek8s/kubedirector) - Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes.
 - [kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
-- [kubeoperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
+- [kubeoperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator is an open source lightweight Kubernetes distribution focused on helping enterprises plan, deploy, and operate production-grade K8s clusters.
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines.
 - [kubevirtbmc](https://github.com/kubevirtbmc/kubevirtbmc) - A Kubernetes operator of virtual BMCs that provide Redfish and IPMI services for KubeVirt virtual machines.
 - [kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO).
@@ -840,7 +840,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [beats](https://github.com/elastic/beats) - Beats - Lightweight shippers for Elasticsearch & Logstash.
 - [collectbeat](https://github.com/eBay/collectbeat) - Beats with discovery capabilities for environments like Kubernetes.
-- [dagger](https://github.com/CloudmindsRobot/dagger) - Dagger 是一个基于 Loki 的日志查询和管理系统。
+- [dagger](https://github.com/CloudmindsRobot/dagger) - Dagger is a log query and management system based on Loki.
 - [egg](https://github.com/ducc/egg) - The simple error aggregator.
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
 - [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log/Data Forwarder for Linux, BSD and macOS.
@@ -943,7 +943,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Reliability & Chaos Engineering
 
 - [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）.
+- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit/) - An Open API to Chaos Engineering.
 - [concurrency-limits](https://github.com/Netflix/concurrency-limits) - Java Library that implements and integrates concepts from TCP congestion control to auto-detect concurrency limits to achieve optimal throughput with optimal latency.
@@ -952,11 +952,11 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubediag](https://github.com/kubediag/kubediag) - Problem diagnosis and operation orchestration for Kubernetes.
 - [kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [litmus](https://github.com/litmuschaos/litmus) - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way.
-- [metersphere](https://github.com/metersphere/metersphere) - MeterSphere is an End-to-End open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
+- [metersphere](https://github.com/metersphere/metersphere) - MeterSphere is an End-to-End open source continuous testing platform.
 - [powerfulseal](https://github.com/powerfulseal/powerfulseal)- A powerful testing tool for Kubernetes clusters.
 - [ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [rider](https://github.com/hango-io/rider) - SDK for Envoy Lua extensions.
-- [sentinel](https://github.com/alibaba/sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [sentinel](https://github.com/alibaba/sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices.
 - [testkube](https://github.com/kubeshop/testkube) - Kubernetes-native framework for test definition and execution.
 - [toxiproxy](https://github.com/shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 
@@ -1011,7 +1011,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [ks](https://github.com/red-gate/ks) - A series of Kubernetes walk-throughs.
 - [kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way.
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring.
-- [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes 中文指南/云原生应用架构实践手册。
+- [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes handbook and cloud native application architecture practice guide (written in Chinese).
 - [kubernetes-java-simple](https://github.com/arun-gupta/kubernetes-java-sample) - Kubernetes Hands-on Workshop for Java Developers.
 - [kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide.

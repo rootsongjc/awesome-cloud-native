@@ -69,7 +69,7 @@ body:
     id: description
     attributes:
       label: One-line description
-      description: Single line, sentence case, no marketing fluff. Used as the entry text if accepted.
+      description: Single line, sentence case, in English, no marketing fluff. Used as the entry text if accepted.
       placeholder: Low-overhead on-demand profiling agent for Kubernetes workloads.
     validations:
       required: true
