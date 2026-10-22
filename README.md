@@ -238,6 +238,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [container-transform](https://github.com/micahhausler/container-transform) - Transforms docker-compose, ECS, and Marathon configurations.
 - [datree](https://github.com/datreeio/datree) - CLI tool that automatically scans Kubernetes manifests and Helm charts to ensure they follow best practices as well as your organization’s policies.
 - [gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Enforce Kubernetes admission policies using Open Policy Agent constraints.
+- [kadet-hub](https://github.com/kadet-hub/registry) - Catalog of Kapitan generators that render Kubernetes manifests and Terraform, published to ghcr.io as signed OCI artifacts with SLSA provenance.
 - [kapitan](https://github.com/kapicorp/kapitan) - Inventory-driven configuration generator for Kubernetes and infrastructure, using Jsonnet, Jinja2, Kadet, Helm, Kustomize, and CUE inputs.
 - [kcg](https://github.com/bit-cloner/kcg) - Kubernetes config generator.
 - [ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
