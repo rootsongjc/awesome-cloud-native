@@ -19,7 +19,7 @@ Not sure? Open an issue using the *Suggest a project* template and ask. That's w
 - Additions **must be open source** (ideally GitHub-hosted) and clearly benefit cloud-native workloads.
 - Place each project in the **single best matching top-level category** from the table of contents. If unsure, explain the rationale in the PR description.
 - Write descriptions in English, even if the upstream project documents itself in another language. Keep them on a single line, start with sentence case, and avoid marketing fluff.
-- Use the official project name as the link text and point directly to the canonical repository.
+- Use the project name in lowercase, without spaces or slashes, as the link text (e.g. `bank-vaults`, not `banzaicloud/bank-vaults`) and point directly to the canonical repository.
 
 ## Ordering & formatting
 

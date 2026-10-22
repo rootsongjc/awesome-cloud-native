@@ -46,6 +46,6 @@ Status flow: `README.md → Python script → status.json (bot PR) → frontend 
 - **One entry per project**, single best category.
 - **Inclusion criteria**: OSI-approved license, canonical upstream repo, cloud-native relevance. Full rules in `CONTRIBUTING.md` and the issue/PR templates under `.github/`.
 - **Descriptions**: single line, sentence case, written in English, no trailing periods unless complete sentence. Enforced by `go test ./...`.
-- **Link text**: official project name in Title Case, pointing to canonical GitHub repo.
+- **Link text**: project name in lowercase, no spaces or slashes (e.g. `bank-vaults`, not `banzaicloud/bank-vaults`), pointing to canonical GitHub repo. Enforced by `go test ./...`.
 - **Commit messages**: imperative tone (`Add litellm`, `Bump golang.org/x/net`).
 - **PR workflow**: edit `README.md` only → `go test ./...` → open PR. CI regenerates `tmpl/index.html` after merge; never commit generated files.

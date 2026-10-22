@@ -12,6 +12,7 @@ body:
     id: name
     attributes:
       label: Project name
+      description: Lowercase project name, no spaces or slashes (e.g. kubernetes).
       placeholder: e.g. kubernetes
     validations:
       required: true

@@ -70,6 +70,24 @@ func isNonLatin(r rune) bool {
 	return false
 }
 
+func TestLinkTextFormat(t *testing.T) {
+	input, err := ioutil.ReadFile("./README.md")
+	if err != nil {
+		panic(err)
+	}
+
+	for i, line := range strings.Split(string(input), "\n") {
+		if !strings.HasPrefix(line, "- [") || !strings.Contains(line, "](http") {
+			continue
+		}
+		end := strings.Index(line, "](")
+		name := line[len("- ["):end]
+		if strings.ContainsAny(name, "/ ") || strings.ToLower(name) != name {
+			t.Errorf("README.md:%d: link text must be lowercase without spaces or slashes: '%s'", i+1, name)
+		}
+	}
+}
+
 func testList(t *testing.T, list *goquery.Selection) {
 	list.Find("ul").Each(func(_ int, items *goquery.Selection) {
 		testList(t, items)

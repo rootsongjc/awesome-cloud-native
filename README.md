@@ -597,7 +597,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer.
 - [kedge](https://github.com/improbable-eng/kedge) - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices.
 - [kong-ingress](https://github.com/koli/kong-ingress) - A Kubernetes Ingress for Kong.
-- [kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - Deploy Kong in a native Kubernetes Ingress Controller.
+- [kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - Deploy Kong in a native Kubernetes Ingress Controller.
 - [loxilb](https://github.com/loxilb-io/loxilb) - eBPF powered cloud-native load-balancer providing efficient externalLB, clusterIP and nodePort services for Kubernetes.
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh.
@@ -640,7 +640,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon.
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [Jokku](https://github.com/wes/jokku) - Self-hosted PaaS with Dokku's git push workflow that runs each app instance in a Firecracker microVM across a cluster.
+- [jokku](https://github.com/wes/jokku) - Self-hosted PaaS with Dokku's git push workflow that runs each app instance in a Firecracker microVM across a cluster.
 - [katacontainers](https://katacontainers.io/) - Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
 - [kuasar](https://github.com/kuasar-io/kuasar) - An efficient container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
@@ -669,7 +669,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cluster-autoscaler](https://github.com/kubernetes/autoscaler) - Kubernetes Cluster Autoscaler for dynamic node scaling across cloud providers.
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
-- [dc/os](https://github.com/dcos) - Datacenter Operating System.
+- [dcos](https://github.com/dcos) - Datacenter Operating System.
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes.
 - [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
@@ -685,7 +685,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [mesos](https://github.com/apache/mesos) - Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [ocm](https://github.com/open-cluster-management-io/OCM) - The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
-- [Peon](https://github.com/Peon-sh/Peon) - Open-source self-hosted Docker PaaS for deploying Git apps, Compose stacks, databases, and static sites to your own servers.
+- [peon](https://github.com/Peon-sh/Peon) - Open-source self-hosted Docker PaaS for deploying Git apps, Compose stacks, databases, and static sites to your own servers.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp.
 - [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [supergiant](https://github.com/supergiant/control) - Automatically scale hardware and easily run stateful applications using Kubernetes.
@@ -736,7 +736,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Kubernetes Operators
 
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes-native operator that manages isolated, persistent sandboxes for human developers and AI agents through Sandbox CRDs, with built-in governance, warm-pod pool, and a streaming agent-mode REST API.
-- [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
+- [bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes.
 - [fabedge](https://github.com/FabEdge/fabedge) - Secure Edge Networking Based On Kubernetes And KubeEdge.
 - [gateway-operator](https://github.com/kong/gateway-operator) - Kong Gateway Operator is a Kubernetes Operator that can manage your Kong Ingress Controller, Kong Gateway Data Planes, or both together when running on Kubernetes.
@@ -914,7 +914,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubed](https://github.com/appscode/kubed) - A Kubernetes Cluster Operator Daemon.
 - [kubescape](https://github.com/armosec/kubescape) - Kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA.
 - [kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources.
-- [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
+- [kubiscan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
 - [kyverno](https://github.com/kyverno/kyverno/) - Kubernetes Native Policy Management.
 - [locke](https://github.com/sky-cloak/locke) - Keycloak distribution that can run its cache on Redis instead of embedded Infinispan
 - [neuvector](https://github.com/neuvector/neuvector) - Kubernetes-native container security platform.
@@ -970,7 +970,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cloudfoundry](https://github.com/cloudfoundry) - Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation.
 - [conjure-up](https://github.com/conjure-up/conjure-up) - Deploying complex solutions, magically.
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
-- [JET Pilot](https://github.com/unxsist/jet-pilot) - Open-source Kubernetes desktop client with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.
+- [jet-pilot](https://github.com/unxsist/jet-pilot) - Open-source Kubernetes desktop client with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal.
 - [k100s](https://github.com/AndrewVos/k100s) - Free, open-source desktop Kubernetes app for browsing pods, streaming logs, and opening pod shells.
 - [karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
