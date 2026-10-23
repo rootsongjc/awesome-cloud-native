@@ -456,6 +456,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Storage & Data Management
 
 - [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - Curated comparison of 21 S3-compatible object storage providers with pricing, gotchas, and tools.
+- [cagnard](https://github.com/k3rnL/cagnard) - Self-hosted storage browser for Unix filesystems and S3-compatible object storage with Docker and Kubernetes deployment support.
 - [ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform.
 - [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed storage system for cloud native applications.
 - [convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
