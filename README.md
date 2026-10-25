@@ -880,6 +880,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster.
 - [awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption.
 - [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running coding agents inside hardware-isolated microVMs with workspace snapshot isolation and egress control.
+- [casdoor](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on server with OIDC, OAuth 2.0, SAML, CAS, LDAP, RADIUS, SCIM and MFA, with a web UI and a Helm chart.
 - [cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastructure as code - to prevent misconfigs at build time.
