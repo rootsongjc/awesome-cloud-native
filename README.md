@@ -631,6 +631,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 ## Runtimes & Platforms
 
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
+- [cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) - Self-hosted platform that builds Git-sourced apps into rootless Podman containers, each with its own subdomain and optional TCP/UDP ports.
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime.
 - [containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
