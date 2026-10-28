@@ -383,9 +383,9 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [attune](https://github.com/attune-io/attune) - Kubernetes operator for in-place pod resource right-sizing from Prometheus metrics.
 - [burn](https://github.com/tanrikuluozlem/burn) - CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations.
-- [gokubedownscaler](https://github.com/caas-team/gokubedownscaler) - Scale down Kubernetes resources and CRDs after work hours, modern rewrite and successor of kube-downscaler.
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes.
+- [gokubedownscaler](https://github.com/caas-team/gokubedownscaler) - Scale down Kubernetes resources and CRDs after work hours, modern rewrite and successor of kube-downscaler.
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours. GoKubeDownscaler is the actively maintained modern successor to this project.
 - [lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS.
