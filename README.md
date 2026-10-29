@@ -385,8 +385,9 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [burn](https://github.com/tanrikuluozlem/burn) - CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations.
 - [cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
 - [escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes.
+- [gokubedownscaler](https://github.com/caas-team/gokubedownscaler) - Scale down Kubernetes resources and CRDs after work hours, modern rewrite and successor of kube-downscaler.
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
-- [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours.
+- [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours. GoKubeDownscaler is the actively maintained modern successor to this project.
 - [lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS.
 - [opencost](https://github.com/opencost/opencost) - Kubernetes cost monitoring powered by open allocation models.
 - [resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
