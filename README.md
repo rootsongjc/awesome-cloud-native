@@ -1022,6 +1022,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
+- [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) - DevOps, SRE, Kubernetes, cloud and platform engineering interview questions, each with a short answer, trade-offs, a runnable example and likely follow-ups.
 - [wyrcan-roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage engineering curriculum covering Linux, Docker, AWS, Terraform, Kubernetes, and MLOps.
 
 [↑ Back to top](#table-of-contents)
