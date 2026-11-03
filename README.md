@@ -916,6 +916,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-lego](https://github.com/jetstack/kube-lego) - Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt.
 - [kube2iam](https://github.com/jtblin/kube2iam) - kube2iam provides different AWS IAM roles for pods running on Kubernetes.
 - [kubed](https://github.com/appscode/kubed) - A Kubernetes Cluster Operator Daemon.
+- [kubernetes-supply-chain-admission](https://github.com/heyvaldemar/kubernetes-supply-chain-admission) - Kyverno admits an image only with a keyless signature, SLSA provenance, an SBOM and a recent scan; native ValidatingAdmissionPolicies refuse other registries, and every pod in the verified namespace while Kyverno is down. Its e2e run refuses 10 planted images and admits the signed one.
 - [kubescape](https://github.com/armosec/kubescape) - Kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA.
 - [kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources.
 - [kubiscan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
