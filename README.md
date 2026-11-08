@@ -390,6 +390,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours. GoKubeDownscaler is the actively maintained modern successor to this project.
 - [lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS.
+- [mnemo-jvm-warden](https://github.com/baokhang83/mnemo-jvm-warden) - Kubernetes controller and sidecar that resize JVM pod memory on a schedule with in-place resize, releasing heap before shrinking the pod.
 - [opencost](https://github.com/opencost/opencost) - Kubernetes cost monitoring powered by open allocation models.
 - [resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
 
