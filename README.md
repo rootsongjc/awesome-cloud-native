@@ -166,7 +166,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kedge](https://github.com/kedgeproject/kedge) - Kedge - Concise Application Definition for Kubernetes.
 - [kenyata](https://github.com/spinnaker/kayenta) - Automated Canary Service.
 - [keptn](https://github.com/keptn/keptn) - Keptn is a control-plane for continuous delivery and operations enable cloud-native applications to run autonomously.
-- [kismatic](https://github.com/apprenda/kismatic) - Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations.
 - [klotho](https://github.com/klothoplatform/klotho) - Write AWS applications at lightning speed.
 - [ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes.
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes.
@@ -206,7 +205,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [tilt](https://github.com/tilt-dev/tilt) - A multi-service dev environment for teams on Kubernetes.
 - [timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [wercker](https://github.com/wercker/wercker) - The Wercker CLI can be used to execute pipelines locally for both local development and easy introspection.
 - [werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism.
 - [wing](https://github.com/winglang/wing) - A cloud-oriented programming language that allows developers to build distributed systems, leveraging cloud services as first-class citizens.
 - [woodpecker](https://github.com/laszlocph/woodpecker) - Fork of drone.io v0.8 since drone is not fully opensource anymore.
@@ -274,7 +272,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kstone](https://github.com/tkestack/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 - [kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes add-on for creating and managing a cache of container images in a kubernetes cluster.
 - [kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm.
-- [kubeadm-offline-installer](https://github.com/fleeto/kubeadm-offline-installer) - Setup a cluster with kubeadm, without internet connections.
 - [kubean](https://github.com/kubean-io/kubean) - Kubernetes lifecycle management operator based on kubespray.
 - [kubeasz](https://github.com/easzlab/kubeasz) - Install K8s clusters with Ansible playbooks, explains component interaction principles, simple to use, and unaffected by the network environment in China.
 - [kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform.
@@ -331,7 +328,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 - [akmatori](https://github.com/akmatori/akmatori) - Self-hosted AIOps platform that investigates Alertmanager, PagerDuty, Grafana, Datadog and Zabbix alerts with LLM agents through Kubernetes, SSH and monitoring tools, and puts risky remediation actions behind human approval.
 - [application-profiler](https://github.com/nudgebee/application-profiler) - On-demand profiling agent for Kubernetes workloads that captures flamegraphs, JFR recordings, heap dumps, thread dumps, and pprof without restarting or modifying target pods.
-- [compass](https://github.com/winfordlin/Compass) - A Debugging Tool for your Kubernetes Deployments.
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container.
 - [cri-tools](https://github.com/kubernetes-sigs/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI).
 - [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
@@ -341,7 +337,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - [kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
 - [kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs.
-- [kube-version-converter](https://github.com/fleeto/kube-version-converter) - Convert API Object file into specified version.
 - [kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - Kubectl cluster triage plugin for Kubernetes (brew doctor equivalent).
 - [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl.
 - [kubehandler](https://github.com/gojektech/kubehandler) - A framework for writing Kubernetes controllers.
@@ -356,7 +351,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [releaserun-cli](https://github.com/Releaserun/releaserun-cli) - CLI tool to check Kubernetes manifests for deprecated/removed APIs, scan dependencies for vulnerabilities, and track version lifecycle status.
 - [robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform.
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices.
-- [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
+- [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes.
 - [terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications.
 
 [↑ Back to top](#table-of-contents)
@@ -391,6 +386,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours. GoKubeDownscaler is the actively maintained modern successor to this project.
 - [lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS.
+- [mnemo-jvm-warden](https://github.com/baokhang83/mnemo-jvm-warden) - Kubernetes controller and sidecar that resize JVM pod memory on a schedule with in-place resize, releasing heap before shrinking the pod.
 - [opencost](https://github.com/opencost/opencost) - Kubernetes cost monitoring powered by open allocation models.
 - [resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure.
 
@@ -480,9 +476,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs.
 - [openebs](https://github.com/openebs/openebs) - OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 - [oras](https://github.com/oras-project/oras) - OCI registry client, managing content like artifacts, images, packages.
-- [rafter](https://github.com/kyma-project/rafter) - Kubernetes-native S3-like files/assets store based on CRDs and powered by MinIO.
 - [rook](https://github.com/rook/rook) - File, Block, and Object Storage Services for your Cloud-Native Environment.
-- [storageos](https://storageos.com/) - Enterprise persistent storage for containers and the cloud.
 - [torus](https://github.com/coreos/torus) - Torus Distributed Storage.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [zenko](https://github.com/scality/Zenko) - Because everyone should be in control of their data.
@@ -515,7 +509,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [easemesh](https://github.com/megaease/easemesh) - A service mesh implementation for connecting, control, and observe services in spring-cloud.
 - [getmesh](https://github.com/tetratelabs/getmesh) - An integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [istio-security-analyzer](https://github.com/tetratelabs/istio-security-analyzer) - A tool to analyze Istio security.
 - [kmesh](https://github.com/kmesh-net/kmesh) - High Performance Service Mesh Data Plane Based on Programmable Kernel.
 - [kuma](https://github.com/kumahq/kuma) - Universal Control Plane for your Service Mesh.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps.
@@ -530,7 +523,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [sermant](https://github.com/sermant-io/Sermant) - A Cloud-Native Proxyless Service Mesh based on Java Bytecode Enhancement Technology.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud.
 - [slime](https://github.com/slime-io/slime) - Slime is a CRD controller for istio.
-- [supergloo](https://github.com/solo-io/service-mesh-hub) - The Service Mesh Orchestration Platform.
 
 [↑ Back to top](#table-of-contents)
 
@@ -639,7 +631,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - Containerd shims for running WebAssembly workloads in Kubernetes.
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface.
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers.
-- [den](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with isolated Docker containers, cgroup v2 memory management, and dynamic pressure monitoring.
 - [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
 - [gvisor](https://github.com/google/gvisor) - Sandboxed Container Runtime.
@@ -693,7 +684,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [peon](https://github.com/Peon-sh/Peon) - Open-source self-hosted Docker PaaS for deploying Git apps, Compose stacks, databases, and static sites to your own servers.
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool by hashicorp.
 - [service-fabric](https://github.com/Microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
-- [supergiant](https://github.com/supergiant/control) - Automatically scale hardware and easily run stateful applications using Kubernetes.
 - [swan](https://github.com/Dataman-Cloud/swan) - A Distributed, Highly Available Mesos Scheduler, Inspired by the design of Google Borg.
 - [swarm](https://github.com/docker/classicswarm) - Swarm: a Docker-native clustering system.
 - [vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems.
@@ -798,7 +788,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [hawkular-metrics](https://github.com/hawkular/hawkular-metrics) - Time Series Metrics Engine based on Cassandra.
 - [highlight](https://github.com/highlight/highlight) - The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to explain GPU latency in cloud-native environments. Helm chart and DaemonSet included.
 - [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [istio-ui](https://github.com/jukylin/istio-ui) - Istio config management backend.
 - [kelemetry](https://github.com/kubewharf/kelemetry) - Global control plane tracing for Kubernetes.
@@ -806,7 +795,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kiali](https://github.com/kiali/kiali) - Kiali project to help istio service mesh observability.
 - [kibana](https://github.com/elastic/kibana) - Kibana analytics and search dashboard for Elasticsearch.
 - [kindling](https://github.com/Kindling-project/kindling) - eBPF-based CloudNative Monitor tool.
-- [konstellate](https://github.com/containership/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters.
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring.
@@ -892,7 +880,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner with 47 curated checks. Each finding includes copy-paste remediation in AWS CLI and Terraform. Features attack chain detection and a diff command for CI/CD pipeline gating.
 - [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [cosign](https://github.com/sigstore/cosign) - Container signing, verification, and provenance powered by Sigstore.
-- [curiefense](https://github.com/curiefense/curiefense) - Adds a broad set of automated web security tools to Envoy.
 - [darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks, with a proof trail per finding.
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
@@ -1008,7 +995,6 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [devops-daily](https://github.com/The-DevOps-Daily/devops-daily) - Open-source DevOps learning site with articles, browser terminal simulators for Docker, Kubernetes and Linux, quizzes and flashcards.
 - [envoy-steps](https://github.com/datawire/envoy-steps) - Envoy Step by Step.
-- [envoy-tutorial](https://github.com/rootsongjc/envoy-tutorial) - Envoy mesh in kubernetes tutorial.
 - [falco-analyze-audit-log-from-k3s-cluster](https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster) - Detect intrusions that happened in your Kubernetes cluster through audit logs using Falco.
 - [istio-index-conf2018](https://github.com/todkap/istio-index-conf2018) - Istio is not just for Microservices: Secure your Kubernetes services using Istio Service Mesh.
 - [istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial) - How to run the Istio Ingress Controller on Kubernetes.
@@ -1023,7 +1009,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) - Deploying Kubernetes on AWS with CloudFormation and Ubuntu.
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [kubicorn](https://github.com/kris-nova/kubicorn-fork) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
+- [kubicorn](https://github.com/kubicorn/kubicorn) - Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud.
 - [mosn-tutorial](https://github.com/mosn/mosn-tutorial) - Tutorial for MOSN and Istio Service Mesh.
 - [ultimate-devops-guide](https://github.com/mchittineni/ultimate-devops-guide) - DevOps, SRE, Kubernetes, cloud and platform engineering interview questions, each with a short answer, trade-offs, a runnable example and likely follow-ups
 - [wyrcan-roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage engineering curriculum covering Linux, Docker, AWS, Terraform, Kubernetes, and MLOps.
