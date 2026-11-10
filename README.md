@@ -329,7 +329,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 
 ## Diagnostics & Troubleshooting
 
-- [akmatori](https://github.com/akmatori/akmatori) - Self-hosted AIOps platform that investigates Alertmanager, PagerDuty, Grafana, Datadog and Zabbix alerts with LLM agents through Kubernetes, SSH and monitoring tools, and runs remediation only after human approval.
+- [akmatori](https://github.com/akmatori/akmatori) - Self-hosted AIOps platform that investigates Alertmanager, PagerDuty, Grafana, Datadog and Zabbix alerts with LLM agents through Kubernetes, SSH and monitoring tools, and puts risky remediation actions behind human approval.
 - [application-profiler](https://github.com/nudgebee/application-profiler) - On-demand profiling agent for Kubernetes workloads that captures flamegraphs, JFR recordings, heap dumps, thread dumps, and pprof without restarting or modifying target pods.
 - [compass](https://github.com/winfordlin/Compass) - A Debugging Tool for your Kubernetes Deployments.
 - [crashcart](https://github.com/oracle/crashcart) - CrashCart: sideload binaries into a running container.
