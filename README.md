@@ -971,6 +971,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes.
 - [kqeen](https://github.com/Mirantis/kqueen) - Kubernetes queen - cluster manager.
+- [kubespade](https://github.com/kubespade/kubespade) - Free open-source Kubernetes desktop client for Mac, Windows, and Linux with resource browsing, logs, exec, YAML, Helm, and optional MCP AI.
 - [kubediagrams](https://github.com/philippemerle/KubeDiagrams) - A CLI tool to generate Kubernetes architecture diagrams automatically from Kubernetes manifest files, kustomization files, Helm charts, helmfile descriptors, and actual cluster state.
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
