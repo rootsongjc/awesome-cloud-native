@@ -805,6 +805,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [monosi](https://github.com/monosidev/monosi) - Open source data observability platform.
 - [naftis](https://github.com/XiaoMi/naftis) - An excellent dashboard for Istio built with love.
 - [nexclipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
+- [nightingale](https://github.com/ccfos/nightingale) - Self-hosted alerting for metrics, logs, and databases, with a built-in AI agent and MCP server.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [open-falcon](https://github.com/XiaoMi/open-falcon) - Enterprise Internet monitoring system from Xiaomi.
 - [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - Vendor-neutral telemetry pipelines for metrics, logs, and traces.
