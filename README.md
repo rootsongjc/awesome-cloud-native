@@ -974,6 +974,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubediagrams](https://github.com/philippemerle/KubeDiagrams) - A CLI tool to generate Kubernetes architecture diagrams automatically from Kubernetes manifest files, kustomization files, Helm charts, helmfile descriptors, and actual cluster state.
 - [kubermatic](https://github.com/kubermatic/kubermatic) - The Central Kubernetes Management Platform For Any Infrastructure.
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI.
+- [kubespade](https://github.com/kubespade/kubespade) - Free open-source Kubernetes desktop client for Mac, Windows, and Linux with resource browsing, logs, exec, YAML, Helm, and optional MCP AI.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise Container Managent Platform.
 - [kubestellar](https://github.com/kubestellar/console) - KubeStellar Console is an AI-powered multi-cluster Kubernetes dashboard with natural language operations, MCP support, and GitOps deployment management.
 - [kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider.
