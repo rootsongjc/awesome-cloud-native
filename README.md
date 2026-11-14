@@ -168,6 +168,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [keptn](https://github.com/keptn/keptn) - Keptn is a control-plane for continuous delivery and operations enable cloud-native applications to run autonomously.
 - [klotho](https://github.com/klothoplatform/klotho) - Write AWS applications at lightning speed.
 - [ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes.
+- [kodama](https://github.com/optimiware/kodama) - API-first, multi-tenant software factory in Go that runs sequential container pipelines and AI coding agents on rootless Podman 5 locally and plain Kubernetes Jobs in production, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, and role inbox approvals.
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes.
 - [kpt](https://github.com/GoogleContainerTools/kpt) - Kpt is a toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration data files.
 - [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result.
