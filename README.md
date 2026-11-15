@@ -979,6 +979,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kubestellar](https://github.com/kubestellar/console) - KubeStellar Console is an AI-powered multi-cluster Kubernetes dashboard with natural language operations, MCP support, and GitOps deployment management.
 - [kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider.
 - [kuui](https://github.com/viveksinghggits/kuui) - UI that can be used to edit configmaps/secrets of your kubernetes cluster.
+- [nubis](https://github.com/windevase/nubis) - Windows desktop client for Kubernetes, SSH and RDP with per-cluster encrypted kubeconfigs, pod shells and logs, cluster discovery across EKS, GKE, AKS, OKE and TKE, and an approval-gated Claude Code panel.
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service.
 - [opendcp](https://github.com/weibocom/opendcp) - Docker platform developed by weibo.
 - [openshift](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers.
