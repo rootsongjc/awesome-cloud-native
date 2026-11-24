@@ -1,13 +1,14 @@
 name: Suggest a project
 description: Propose a project for the list, or ask whether one qualifies
-labels: ["suggestion"]
+labels: ["kind/new-item"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for helping grow the catalog! Please check the
         [inclusion criteria](https://github.com/rootsongjc/awesome-cloud-native/blob/main/CONTRIBUTING.md#inclusion-criteria)
-        before submitting; the items below mirror those rules.
+        before submitting; the items below mirror those rules. Your submission is
+        checked automatically against them and the result is posted as a comment.
   - type: input
     id: name
     attributes:
@@ -83,7 +84,7 @@ body:
         - label: The repository carries an OSI-approved open source license (source-available licenses like PolyForm/BSL/SSPL do not qualify)
         - label: This is the canonical upstream repository, not a fork, and it is not already listed under another category
         - label: The project clearly benefits cloud-native or Kubernetes workloads
-        - label: The project is actively maintained (or historically significant)
+        - label: The project meets the maturity thresholds (50+ stars, repository at least 90 days old, a tagged release, a push in the last 12 months)
   - type: textarea
     id: context
     attributes:

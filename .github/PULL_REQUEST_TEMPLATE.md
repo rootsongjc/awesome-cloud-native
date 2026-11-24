@@ -15,6 +15,7 @@
 - [ ] The repository carries an OSI-approved open source license
 - [ ] This is the canonical upstream repository, not a fork, and not already listed
 - [ ] The project clearly benefits cloud-native or Kubernetes workloads
+- [ ] The project meets the maturity thresholds (50+ stars, repository at least 90 days old, a tagged release, a push in the last 12 months)
 - [ ] The entry is placed in alphabetical order within its category
 - [ ] The link text is the project name in lowercase, no spaces or slashes
 - [ ] The description is a single line, sentence case, written in English, no marketing fluff

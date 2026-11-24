@@ -19,8 +19,9 @@ preview: build ## Build and start local preview server (port configurable: make 
 	@echo "Previewing at http://localhost:$(PORT)"
 	@cd $(TMPL_DIR) && python3 -m http.server $(PORT)
 
-test: ## Run Go tests (alphabetical order + duplicate link checks)
+test: ## Run Go tests (README checks) and Python tests (submission review script)
 	go test ./...
+	python3 -m unittest discover -s $(SCRIPTS) -p 'test_*.py'
 
 status: ## Run project status checker (reads GITHUB_TOKEN from .env)
 	@if [ -f .env ]; then set -a && . ./.env && set +a && python3 $(SCRIPTS)/check_status.py; else python3 $(SCRIPTS)/check_status.py; fi
