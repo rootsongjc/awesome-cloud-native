@@ -333,6 +333,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
 - [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
+- [kausa](https://github.com/fedeam/kausa) - Read-only controller that explains failing workloads with an OpenAI-compatible LLM, writing one redacted, budgeted explanation per incident as an Event on the workload.
 - [ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on Kubernetes pods using tcpdump and Wireshark.
 - [kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 - [kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
