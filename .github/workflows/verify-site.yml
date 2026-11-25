@@ -10,6 +10,7 @@ on:
       - 'go.mod'
       - 'go.sum'
       - 'Makefile'
+      - 'scripts/**'
       - '.github/workflows/verify-site.yml'
   push:
     branches: [main]
@@ -21,6 +22,7 @@ on:
       - 'go.mod'
       - 'go.sum'
       - 'Makefile'
+      - 'scripts/**'
       - '.github/workflows/verify-site.yml'
 
 permissions:
@@ -41,6 +43,9 @@ jobs:
 
       - name: Run repo checks
         run: go test ./...
+
+      - name: Run script tests
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
 
   no-generated-edits:
     name: Reject hand edits to generated files

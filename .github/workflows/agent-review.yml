@@ -1,0 +1,59 @@
+name: Agent Review
+
+# Reviews project submissions against the inclusion criteria in CONTRIBUTING.md and
+# reports as the jimmysongio agent account (falls back to github-actions[bot] when the
+# JIMMYSONGIO_GITHUB_TOKEN secret is not set).
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+  # pull_request_target so fork PRs can be commented on and labelled. The job only ever
+  # runs the script from the base branch and reads the PR through the API; it must
+  # never check out or execute code from the pull request.
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'README.md'
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      number:
+        description: Issue or pull request number to review
+        required: true
+        type: number
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+  models: read
+
+jobs:
+  review:
+    name: Review submission
+    # Comments only trigger a review when they are a /review command from the author or a maintainer.
+    if: >-
+      github.event_name != 'issue_comment' ||
+      (startsWith(github.event.comment.body, '/review') &&
+       (github.event.comment.user.login == github.event.issue.user.login ||
+        contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.comment.author_association)))
+    runs-on: ubuntu-latest
+    # Job-level on purpose: a workflow-level group would let the agent's own comment
+    # event cancel the run that posted it.
+    concurrency:
+      group: agent-review-${{ github.event.issue.number || github.event.pull_request.number || inputs.number }}
+      cancel-in-progress: true
+    steps:
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Review submission
+        env:
+          NUMBER: ${{ github.event.issue.number || github.event.pull_request.number || inputs.number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AGENT_TOKEN: ${{ secrets.JIMMYSONGIO_GITHUB_TOKEN }}
+          AGENT_REVIEW_MODEL: ${{ vars.AGENT_REVIEW_MODEL }}
+        run: python3 scripts/review_submission.py --repo "$GITHUB_REPOSITORY" --number "$NUMBER"

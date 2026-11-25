@@ -2,3 +2,4 @@
 .superpowers/
 .env
 /status.json
+__pycache__/
