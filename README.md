@@ -316,6 +316,7 @@ Cloud Native is a behavior and design philosophy. At its essence, any behavior o
 - [kvdi](https://github.com/tinyzimmer/kvdi) - A Kubernetes-native Virtual Desktop Infrastructure.
 - [macos-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet) - Run native macOS workloads on Kubernetes.
 - [mindaro](https://github.com/microsoft/mindaro) - Bridge to Kubernetes - for Visual Studio and Visual Studio Code
+- [Nife](https://nife.io) - Deploy apps across cloud, edge and private infrastructure from one control plane.
 - [nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Dev Environment.
 - [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps.
 - [telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster.
